@@ -1,4 +1,5 @@
 import json
+import os
 import requests
 import joblib
 import pandas as pd
@@ -81,15 +82,39 @@ Customer Message: <short customer-friendly message>
 The customer message MUST match the selected action.
 """
 
+    api_key = os.getenv("GEMINI_API_KEY")
+
+    if not api_key:
+        raise ValueError("GEMINI_API_KEY is not configured")
+
+    url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.7-flash:generateContent"
+
+    headers = {
+        "Content-Type": "application/json",
+        "x-goog-api-key": api_key
+    }
+
+    payload = {
+        "contents": [
+            {
+                "parts": [
+                    {
+                        "text": prompt
+                    }
+                ]
+            }
+        ]
+    }
+
     response = requests.post(
-        "http://localhost:11434/api/generate",
-        json={
-            "model": "llama3.2",
-            "prompt": prompt,
-            "stream": False
-        }
+        url,
+        headers=headers,
+        json=payload,
+        timeout=60
     )
 
     response.raise_for_status()
 
-    return response.json()["response"]
+    data = response.json()
+
+    return data["candidates"][0]["content"]["parts"][0]["text"]
