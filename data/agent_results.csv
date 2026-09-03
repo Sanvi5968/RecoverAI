@@ -1,0 +1,2001 @@
+transaction_id,amount,payment_method,failure_reason,recovery_probability,priority,recommended_action,action_status,actual_recovered
+TX09299,30691.3,Wallet,Technical Error,6.28,Low,Defer Recovery,Deferred,0
+TX06144,13804.38,Wallet,Bank Declined,11.06,Low,Defer Recovery,Deferred,0
+TX06896,16523.92,Wallet,Timeout,10.03,Low,Defer Recovery,Deferred,0
+TX01797,10108.18,Card,Bank Declined,29.19,Low,Defer Recovery,Deferred,0
+TX01469,33490.79,Card,Timeout,23.49,Low,Defer Recovery,Deferred,1
+TX04579,21402.58,NetBanking,Bank Declined,5.75,Low,Defer Recovery,Deferred,0
+TX02063,10605.37,UPI,Technical Error,5.24,Low,Defer Recovery,Deferred,0
+TX07652,46768.99,Wallet,Insufficient Funds,22.95,Low,Defer Recovery,Deferred,1
+TX00877,23032.19,UPI,Bank Declined,43.02,Medium,Send Notification,Notification Sent,0
+TX03939,28819.92,UPI,Authentication Failed,98.71,High,Generate Payment Link,Payment Link Created,1
+TX08202,24033.63,Wallet,Timeout,7.01,Low,Defer Recovery,Deferred,0
+TX01540,20956.63,UPI,Authentication Failed,99.76,High,Retry Payment,Retry Initiated,1
+TX04088,23869.28,UPI,Timeout,6.08,Low,Defer Recovery,Deferred,0
+TX05933,20375.52,NetBanking,Authentication Failed,3.23,Low,Defer Recovery,Deferred,0
+TX06807,5012.03,UPI,Technical Error,1.33,Low,Defer Recovery,Deferred,0
+TX08709,29989.61,NetBanking,Technical Error,99.89,High,Retry Payment,Retry Initiated,1
+TX07838,14687.24,UPI,Technical Error,9.15,Low,Defer Recovery,Deferred,0
+TX07275,34168.92,Wallet,Bank Declined,98.47,High,Retry Payment,Retry Initiated,1
+TX02632,37107.73,Card,Authentication Failed,5.81,Low,Defer Recovery,Deferred,0
+TX01841,27084.21,Wallet,Timeout,88.91,High,Generate Payment Link,Payment Link Created,0
+TX08330,44426.56,Wallet,Authentication Failed,98.59,High,Generate Payment Link,Payment Link Created,0
+TX05233,26097.47,NetBanking,Bank Declined,99.64,High,Retry Payment,Retry Initiated,1
+TX03765,29297.57,Wallet,Bank Declined,96.85,High,Retry Payment,Retry Initiated,1
+TX03039,39774.14,Wallet,Bank Declined,9.56,Low,Defer Recovery,Deferred,0
+TX09010,36488.85,UPI,Authentication Failed,99.93,High,Retry Payment,Retry Initiated,1
+TX00334,6369.61,NetBanking,Technical Error,99.09,High,Retry Payment,Retry Initiated,1
+TX03041,35629.2,UPI,Authentication Failed,2.47,Low,Defer Recovery,Deferred,0
+TX06497,10405.01,Wallet,Authentication Failed,30.13,Low,Defer Recovery,Deferred,1
+TX04160,16874.65,Wallet,Insufficient Funds,9.7,Low,Defer Recovery,Deferred,0
+TX04198,18455.57,NetBanking,Insufficient Funds,99.72,High,Generate Payment Link,Payment Link Created,1
+TX04257,2598.22,Card,Insufficient Funds,21.67,Low,Defer Recovery,Deferred,1
+TX07103,5168.57,UPI,Insufficient Funds,19.21,Low,Defer Recovery,Deferred,1
+TX07195,30762.6,Wallet,Insufficient Funds,14.24,Low,Defer Recovery,Deferred,1
+TX08106,49097.7,UPI,Timeout,4.18,Low,Defer Recovery,Deferred,0
+TX06394,16827.64,Card,Bank Declined,99.87,High,Retry Payment,Retry Initiated,1
+TX08629,4837.11,Wallet,Authentication Failed,99.26,High,Generate Payment Link,Payment Link Created,1
+TX07998,21878.78,UPI,Insufficient Funds,98.2,High,Generate Payment Link,Payment Link Created,0
+TX02313,33220.34,UPI,Insufficient Funds,99.65,High,Generate Payment Link,Payment Link Created,1
+TX01693,16751.84,Card,Timeout,64.86,Medium,Send Notification,Notification Sent,1
+TX07490,22613.08,UPI,Technical Error,3.55,Low,Defer Recovery,Deferred,1
+TX02993,37141.28,UPI,Bank Declined,98.46,High,Generate Payment Link,Payment Link Created,1
+TX06129,9439.94,Card,Bank Declined,99.89,High,Retry Payment,Retry Initiated,1
+TX03780,7088.24,Wallet,Authentication Failed,4.99,Low,Defer Recovery,Deferred,1
+TX03989,6857.4,Wallet,Technical Error,48.36,Medium,Send Notification,Notification Sent,1
+TX09154,15291.73,UPI,Bank Declined,47.52,Medium,Send Notification,Notification Sent,1
+TX04033,20518.91,Card,Timeout,99.41,High,Retry Payment,Retry Initiated,1
+TX08725,6493.94,Wallet,Authentication Failed,99.67,High,Retry Payment,Retry Initiated,1
+TX02309,23511.96,Card,Bank Declined,1.77,Low,Defer Recovery,Deferred,0
+TX03721,25203.11,UPI,Authentication Failed,7.41,Low,Defer Recovery,Deferred,1
+TX03502,4975.59,Card,Technical Error,4.16,Low,Defer Recovery,Deferred,1
+TX08770,45957.07,NetBanking,Authentication Failed,99.72,High,Retry Payment,Retry Initiated,1
+TX05064,36406.91,NetBanking,Bank Declined,99.8,High,Retry Payment,Retry Initiated,1
+TX08259,22949.68,Card,Bank Declined,99.86,High,Retry Payment,Retry Initiated,1
+TX05523,37565.49,UPI,Timeout,99.48,High,Retry Payment,Retry Initiated,0
+TX00758,41513.99,UPI,Insufficient Funds,99.22,High,Retry Payment,Retry Initiated,1
+TX09464,11061.77,Card,Technical Error,95.86,High,Generate Payment Link,Payment Link Created,0
+TX00623,2046.42,Wallet,Authentication Failed,30.86,Low,Defer Recovery,Deferred,1
+TX03353,14817.06,UPI,Technical Error,46.65,Medium,Send Notification,Notification Sent,1
+TX02589,2553.13,Wallet,Timeout,87.64,High,Generate Payment Link,Payment Link Created,0
+TX02222,13498.15,Card,Timeout,97.59,High,Retry Payment,Retry Initiated,0
+TX01442,2741.5,UPI,Authentication Failed,26.21,Low,Defer Recovery,Deferred,1
+TX07799,42492.23,Card,Timeout,4.05,Low,Defer Recovery,Deferred,0
+TX02401,14333.69,UPI,Bank Declined,99.42,High,Generate Payment Link,Payment Link Created,1
+TX07888,18497.0,Wallet,Bank Declined,6.96,Low,Defer Recovery,Deferred,0
+TX08861,30024.35,NetBanking,Authentication Failed,32.54,Low,Defer Recovery,Deferred,0
+TX04458,2661.59,UPI,Timeout,11.85,Low,Defer Recovery,Deferred,1
+TX06769,35940.08,NetBanking,Technical Error,7.9,Low,Defer Recovery,Deferred,0
+TX02857,8165.72,Card,Timeout,31.91,Low,Defer Recovery,Deferred,1
+TX05878,24065.32,Wallet,Bank Declined,99.91,High,Retry Payment,Retry Initiated,1
+TX00358,35108.11,NetBanking,Timeout,99.58,High,Retry Payment,Retry Initiated,1
+TX00957,8526.08,Card,Timeout,10.59,Low,Defer Recovery,Deferred,0
+TX07012,49454.82,Wallet,Timeout,12.97,Low,Defer Recovery,Deferred,1
+TX05979,23580.18,Wallet,Technical Error,99.87,High,Retry Payment,Retry Initiated,1
+TX00270,25603.58,NetBanking,Bank Declined,3.84,Low,Defer Recovery,Deferred,0
+TX07377,16862.1,Wallet,Insufficient Funds,99.79,High,Retry Payment,Retry Initiated,1
+TX02182,24424.64,Card,Timeout,99.94,High,Retry Payment,Retry Initiated,1
+TX09112,537.86,Wallet,Authentication Failed,74.25,Medium,Send Notification,Notification Sent,1
+TX01752,9064.6,UPI,Bank Declined,24.17,Low,Defer Recovery,Deferred,0
+TX03642,16445.56,Card,Insufficient Funds,10.95,Low,Defer Recovery,Deferred,0
+TX02642,44097.69,Card,Authentication Failed,8.82,Low,Defer Recovery,Deferred,0
+TX09840,35810.4,Wallet,Insufficient Funds,17.52,Low,Defer Recovery,Deferred,1
+TX04304,25921.3,Card,Bank Declined,3.89,Low,Defer Recovery,Deferred,0
+TX00291,48334.45,Card,Technical Error,98.69,High,Retry Payment,Retry Initiated,1
+TX05865,34661.41,Wallet,Insufficient Funds,98.96,High,Generate Payment Link,Payment Link Created,1
+TX05407,43690.62,Card,Timeout,99.48,High,Generate Payment Link,Payment Link Created,1
+TX04288,15115.86,NetBanking,Technical Error,1.75,Low,Defer Recovery,Deferred,0
+TX06580,16809.36,Wallet,Bank Declined,23.67,Low,Defer Recovery,Deferred,1
+TX07727,22805.05,Card,Timeout,98.88,High,Generate Payment Link,Payment Link Created,1
+TX00078,46477.23,UPI,Timeout,99.8,High,Retry Payment,Retry Initiated,1
+TX08066,2391.91,Wallet,Insufficient Funds,17.57,Low,Defer Recovery,Deferred,1
+TX04518,33273.91,Card,Authentication Failed,25.99,Low,Defer Recovery,Deferred,0
+TX04046,31932.73,UPI,Bank Declined,68.97,Medium,Send Notification,Notification Sent,1
+TX02125,40989.45,Card,Timeout,8.12,Low,Defer Recovery,Deferred,1
+TX08319,19627.51,Wallet,Bank Declined,50.77,Medium,Send Notification,Notification Sent,0
+TX04725,42963.42,Wallet,Timeout,25.67,Low,Defer Recovery,Deferred,1
+TX08831,3997.67,Wallet,Technical Error,12.22,Low,Defer Recovery,Deferred,1
+TX07489,41051.7,Wallet,Bank Declined,99.67,High,Retry Payment,Retry Initiated,1
+TX04113,19259.05,NetBanking,Timeout,96.64,High,Generate Payment Link,Payment Link Created,0
+TX03095,8783.12,Card,Technical Error,99.88,High,Retry Payment,Retry Initiated,1
+TX01999,25904.18,UPI,Authentication Failed,96.06,High,Generate Payment Link,Payment Link Created,1
+TX02713,28078.65,Card,Technical Error,35.02,Low,Defer Recovery,Deferred,1
+TX03980,43618.09,Card,Technical Error,99.48,High,Retry Payment,Retry Initiated,1
+TX05868,17908.74,NetBanking,Insufficient Funds,1.91,Low,Defer Recovery,Deferred,0
+TX03546,20663.47,NetBanking,Authentication Failed,96.51,High,Generate Payment Link,Payment Link Created,1
+TX09967,19247.74,UPI,Technical Error,96.1,High,Generate Payment Link,Payment Link Created,1
+TX04168,4497.52,Card,Insufficient Funds,98.88,High,Generate Payment Link,Payment Link Created,1
+TX08615,17077.24,UPI,Authentication Failed,36.17,Low,Defer Recovery,Deferred,0
+TX09735,41793.41,Wallet,Authentication Failed,99.87,High,Generate Payment Link,Payment Link Created,1
+TX07881,34676.17,NetBanking,Technical Error,9.56,Low,Defer Recovery,Deferred,0
+TX00010,30557.11,Card,Authentication Failed,7.24,Low,Defer Recovery,Deferred,1
+TX04006,23445.67,NetBanking,Bank Declined,99.74,High,Retry Payment,Retry Initiated,1
+TX05476,31329.75,UPI,Insufficient Funds,36.82,Low,Defer Recovery,Deferred,1
+TX01702,46631.95,UPI,Bank Declined,4.5,Low,Defer Recovery,Deferred,0
+TX06529,13551.13,Wallet,Authentication Failed,16.74,Low,Defer Recovery,Deferred,0
+TX03890,17094.74,Wallet,Insufficient Funds,99.02,High,Retry Payment,Retry Initiated,1
+TX05876,30770.68,Wallet,Authentication Failed,99.69,High,Generate Payment Link,Payment Link Created,1
+TX07463,19453.47,Wallet,Authentication Failed,99.71,High,Retry Payment,Retry Initiated,1
+TX06016,14478.66,NetBanking,Insufficient Funds,3.9,Low,Defer Recovery,Deferred,1
+TX05402,27255.58,UPI,Insufficient Funds,23.28,Low,Defer Recovery,Deferred,1
+TX06477,16874.37,Card,Bank Declined,0.54,Low,Defer Recovery,Deferred,0
+TX05683,38205.99,Wallet,Timeout,43.65,Medium,Send Notification,Notification Sent,1
+TX02933,43522.81,Card,Technical Error,99.93,High,Retry Payment,Retry Initiated,1
+TX09934,24833.5,NetBanking,Authentication Failed,35.97,Low,Defer Recovery,Deferred,0
+TX05680,17109.74,UPI,Timeout,15.1,Low,Defer Recovery,Deferred,1
+TX05435,21825.93,Card,Timeout,99.95,High,Retry Payment,Retry Initiated,1
+TX04966,27891.91,Wallet,Bank Declined,11.61,Low,Defer Recovery,Deferred,0
+TX04750,350.77,Card,Bank Declined,95.24,High,Generate Payment Link,Payment Link Created,1
+TX06180,658.85,UPI,Technical Error,22.66,Low,Defer Recovery,Deferred,1
+TX09413,41335.32,Wallet,Insufficient Funds,25.07,Low,Defer Recovery,Deferred,1
+TX04472,20387.73,Card,Bank Declined,7.66,Low,Defer Recovery,Deferred,0
+TX05376,549.38,Card,Timeout,17.8,Low,Defer Recovery,Deferred,1
+TX02762,19413.8,UPI,Timeout,2.78,Low,Defer Recovery,Deferred,0
+TX08873,6053.05,UPI,Insufficient Funds,99.16,High,Generate Payment Link,Payment Link Created,1
+TX09460,16830.89,NetBanking,Technical Error,4.25,Low,Defer Recovery,Deferred,0
+TX00307,48747.72,NetBanking,Bank Declined,99.92,High,Retry Payment,Retry Initiated,1
+TX05907,45352.95,UPI,Bank Declined,11.01,Low,Defer Recovery,Deferred,1
+TX06138,45096.91,NetBanking,Insufficient Funds,99.78,High,Generate Payment Link,Payment Link Created,1
+TX00583,49206.06,Card,Authentication Failed,98.8,High,Retry Payment,Retry Initiated,0
+TX00295,34419.68,Card,Authentication Failed,99.28,High,Generate Payment Link,Payment Link Created,1
+TX09746,28816.22,UPI,Authentication Failed,7.64,Low,Defer Recovery,Deferred,0
+TX05584,18598.46,Card,Timeout,44.06,Medium,Send Notification,Notification Sent,1
+TX03845,13303.4,NetBanking,Technical Error,99.92,High,Retry Payment,Retry Initiated,1
+TX04718,49776.27,NetBanking,Technical Error,99.5,High,Retry Payment,Retry Initiated,1
+TX01806,2518.37,UPI,Authentication Failed,4.23,Low,Defer Recovery,Deferred,0
+TX06047,41756.44,Card,Authentication Failed,18.47,Low,Defer Recovery,Deferred,0
+TX09024,28434.52,Card,Authentication Failed,8.98,Low,Defer Recovery,Deferred,0
+TX03045,48142.96,NetBanking,Bank Declined,1.75,Low,Defer Recovery,Deferred,0
+TX09364,10721.25,NetBanking,Technical Error,98.78,High,Generate Payment Link,Payment Link Created,1
+TX04265,692.38,NetBanking,Authentication Failed,12.07,Low,Defer Recovery,Deferred,0
+TX04002,49300.98,Card,Insufficient Funds,99.85,High,Retry Payment,Retry Initiated,1
+TX07566,37414.05,Card,Timeout,8.93,Low,Defer Recovery,Deferred,1
+TX08456,1586.06,NetBanking,Authentication Failed,21.01,Low,Defer Recovery,Deferred,0
+TX07991,19422.17,UPI,Bank Declined,13.99,Low,Defer Recovery,Deferred,1
+TX01028,43809.06,UPI,Timeout,11.58,Low,Defer Recovery,Deferred,0
+TX07925,21441.88,UPI,Timeout,4.93,Low,Defer Recovery,Deferred,0
+TX02409,17806.8,Wallet,Authentication Failed,99.0,High,Generate Payment Link,Payment Link Created,1
+TX04219,19386.04,NetBanking,Bank Declined,7.52,Low,Defer Recovery,Deferred,0
+TX08026,14163.1,Card,Bank Declined,99.77,High,Retry Payment,Retry Initiated,1
+TX03446,44881.21,UPI,Authentication Failed,2.91,Low,Defer Recovery,Deferred,0
+TX04373,5076.34,NetBanking,Timeout,16.3,Low,Defer Recovery,Deferred,1
+TX00213,22034.19,NetBanking,Authentication Failed,98.59,High,Generate Payment Link,Payment Link Created,1
+TX02191,41666.41,UPI,Authentication Failed,99.71,High,Generate Payment Link,Payment Link Created,1
+TX02619,4469.97,UPI,Insufficient Funds,37.31,Low,Defer Recovery,Deferred,0
+TX08046,29695.99,UPI,Bank Declined,13.96,Low,Defer Recovery,Deferred,0
+TX05309,39069.15,UPI,Insufficient Funds,25.03,Low,Defer Recovery,Deferred,1
+TX07044,7783.32,UPI,Authentication Failed,99.7,High,Generate Payment Link,Payment Link Created,1
+TX01011,25535.33,Wallet,Authentication Failed,1.76,Low,Defer Recovery,Deferred,1
+TX01259,10546.49,UPI,Insufficient Funds,1.28,Low,Defer Recovery,Deferred,0
+TX00197,46352.69,UPI,Timeout,99.94,High,Retry Payment,Retry Initiated,1
+TX08966,40051.12,NetBanking,Timeout,59.02,Medium,Send Notification,Notification Sent,1
+TX05294,7783.31,Wallet,Authentication Failed,98.48,High,Retry Payment,Retry Initiated,1
+TX01655,5730.74,Card,Insufficient Funds,14.28,Low,Defer Recovery,Deferred,0
+TX03893,24956.67,UPI,Authentication Failed,8.54,Low,Defer Recovery,Deferred,1
+TX07592,39883.23,UPI,Insufficient Funds,98.76,High,Retry Payment,Retry Initiated,1
+TX01359,35726.5,NetBanking,Insufficient Funds,1.8,Low,Defer Recovery,Deferred,0
+TX07421,33122.08,UPI,Timeout,7.79,Low,Defer Recovery,Deferred,0
+TX03962,38187.93,UPI,Bank Declined,99.75,High,Retry Payment,Retry Initiated,1
+TX03544,44033.05,Card,Timeout,96.72,High,Generate Payment Link,Payment Link Created,1
+TX04460,16928.16,UPI,Authentication Failed,24.29,Low,Defer Recovery,Deferred,1
+TX02936,8866.05,UPI,Insufficient Funds,0.93,Low,Defer Recovery,Deferred,0
+TX02849,29955.47,Card,Insufficient Funds,3.86,Low,Defer Recovery,Deferred,0
+TX01261,37091.3,UPI,Technical Error,7.58,Low,Defer Recovery,Deferred,0
+TX02270,16338.37,NetBanking,Bank Declined,99.66,High,Retry Payment,Retry Initiated,1
+TX06909,22030.68,UPI,Authentication Failed,99.87,High,Retry Payment,Retry Initiated,1
+TX00794,8311.85,NetBanking,Bank Declined,26.35,Low,Defer Recovery,Deferred,1
+TX06374,24178.67,NetBanking,Technical Error,22.36,Low,Defer Recovery,Deferred,0
+TX08243,43644.57,Wallet,Insufficient Funds,3.64,Low,Defer Recovery,Deferred,0
+TX05034,19629.77,UPI,Technical Error,6.36,Low,Defer Recovery,Deferred,1
+TX06587,5420.3,Wallet,Bank Declined,99.34,High,Generate Payment Link,Payment Link Created,1
+TX03031,15255.82,UPI,Timeout,99.58,High,Retry Payment,Retry Initiated,1
+TX01777,46507.27,Wallet,Authentication Failed,29.88,Low,Defer Recovery,Deferred,1
+TX06343,45263.9,NetBanking,Bank Declined,98.6,High,Generate Payment Link,Payment Link Created,1
+TX04069,35134.65,Card,Bank Declined,98.79,High,Generate Payment Link,Payment Link Created,1
+TX05732,44465.71,NetBanking,Insufficient Funds,14.07,Low,Defer Recovery,Deferred,0
+TX03800,24196.43,NetBanking,Authentication Failed,12.16,Low,Defer Recovery,Deferred,1
+TX05486,10498.35,Card,Bank Declined,18.33,Low,Defer Recovery,Deferred,0
+TX08184,4732.97,NetBanking,Technical Error,11.45,Low,Defer Recovery,Deferred,0
+TX01429,24791.81,UPI,Timeout,2.74,Low,Defer Recovery,Deferred,0
+TX02509,25720.38,UPI,Insufficient Funds,99.0,High,Generate Payment Link,Payment Link Created,1
+TX07581,7624.56,NetBanking,Technical Error,12.0,Low,Defer Recovery,Deferred,1
+TX07306,21777.56,UPI,Insufficient Funds,19.75,Low,Defer Recovery,Deferred,1
+TX08732,22866.38,UPI,Timeout,2.08,Low,Defer Recovery,Deferred,1
+TX03487,43075.49,Card,Insufficient Funds,97.85,High,Generate Payment Link,Payment Link Created,0
+TX06794,650.3,Card,Insufficient Funds,98.69,High,Retry Payment,Retry Initiated,1
+TX04594,27790.0,NetBanking,Authentication Failed,24.85,Low,Defer Recovery,Deferred,1
+TX07817,26732.66,Card,Technical Error,5.57,Low,Defer Recovery,Deferred,1
+TX09448,41400.79,NetBanking,Timeout,0.92,Low,Defer Recovery,Deferred,0
+TX04826,2789.52,NetBanking,Insufficient Funds,19.79,Low,Defer Recovery,Deferred,0
+TX04276,49931.0,Card,Timeout,10.15,Low,Defer Recovery,Deferred,1
+TX00345,40026.87,NetBanking,Bank Declined,99.61,High,Retry Payment,Retry Initiated,0
+TX09805,36959.24,Card,Bank Declined,99.27,High,Generate Payment Link,Payment Link Created,1
+TX06227,19214.98,UPI,Insufficient Funds,15.19,Low,Defer Recovery,Deferred,0
+TX02086,6862.29,Card,Bank Declined,12.88,Low,Defer Recovery,Deferred,1
+TX09534,27359.33,NetBanking,Technical Error,12.68,Low,Defer Recovery,Deferred,0
+TX03846,26023.14,UPI,Bank Declined,97.98,High,Generate Payment Link,Payment Link Created,1
+TX07853,31254.34,NetBanking,Authentication Failed,89.02,High,Generate Payment Link,Payment Link Created,0
+TX05576,3510.58,Card,Bank Declined,44.55,Medium,Send Notification,Notification Sent,1
+TX01633,49642.32,Card,Authentication Failed,17.76,Low,Defer Recovery,Deferred,1
+TX09624,17927.82,Wallet,Timeout,18.25,Low,Defer Recovery,Deferred,1
+TX00407,32355.73,UPI,Insufficient Funds,8.07,Low,Defer Recovery,Deferred,0
+TX08221,42833.07,NetBanking,Insufficient Funds,13.99,Low,Defer Recovery,Deferred,1
+TX07105,3856.08,NetBanking,Insufficient Funds,99.09,High,Retry Payment,Retry Initiated,1
+TX08930,16958.91,Wallet,Technical Error,98.39,High,Generate Payment Link,Payment Link Created,1
+TX08902,1063.29,Card,Authentication Failed,36.63,Low,Defer Recovery,Deferred,1
+TX02454,1981.1,Wallet,Authentication Failed,16.89,Low,Defer Recovery,Deferred,1
+TX04762,18675.04,UPI,Timeout,18.59,Low,Defer Recovery,Deferred,0
+TX05261,9002.07,NetBanking,Authentication Failed,98.99,High,Generate Payment Link,Payment Link Created,1
+TX00128,45505.51,Wallet,Timeout,99.61,High,Retry Payment,Retry Initiated,1
+TX04070,36072.57,NetBanking,Bank Declined,99.58,High,Retry Payment,Retry Initiated,1
+TX05386,1414.73,Card,Technical Error,99.79,High,Generate Payment Link,Payment Link Created,1
+TX09274,15273.11,Card,Authentication Failed,8.63,Low,Defer Recovery,Deferred,0
+TX00354,18047.81,UPI,Authentication Failed,10.85,Low,Defer Recovery,Deferred,1
+TX00304,16104.61,NetBanking,Technical Error,94.94,High,Generate Payment Link,Payment Link Created,0
+TX05213,24618.32,Card,Insufficient Funds,99.48,High,Generate Payment Link,Payment Link Created,1
+TX01886,9419.95,Card,Technical Error,63.72,Medium,Send Notification,Notification Sent,1
+TX01012,15073.35,Card,Timeout,0.59,Low,Defer Recovery,Deferred,0
+TX03742,3318.08,Card,Authentication Failed,31.43,Low,Defer Recovery,Deferred,1
+TX04398,34940.95,UPI,Insufficient Funds,12.28,Low,Defer Recovery,Deferred,0
+TX08382,4813.41,Wallet,Technical Error,99.42,High,Retry Payment,Retry Initiated,1
+TX04360,40777.49,UPI,Timeout,99.73,High,Generate Payment Link,Payment Link Created,1
+TX06074,32040.51,Card,Authentication Failed,0.59,Low,Defer Recovery,Deferred,0
+TX03548,24949.02,Card,Insufficient Funds,9.2,Low,Defer Recovery,Deferred,0
+TX05751,2030.38,Wallet,Timeout,99.86,High,Retry Payment,Retry Initiated,1
+TX06220,28334.32,UPI,Authentication Failed,54.78,Medium,Send Notification,Notification Sent,1
+TX07704,25682.93,Wallet,Timeout,18.16,Low,Defer Recovery,Deferred,0
+TX02505,43065.57,Card,Timeout,99.79,High,Retry Payment,Retry Initiated,1
+TX01302,45779.27,Wallet,Insufficient Funds,99.84,High,Retry Payment,Retry Initiated,1
+TX09726,18019.59,Wallet,Technical Error,7.72,Low,Defer Recovery,Deferred,0
+TX02271,4827.47,Card,Technical Error,21.27,Low,Defer Recovery,Deferred,0
+TX06708,39516.61,UPI,Timeout,34.06,Low,Defer Recovery,Deferred,0
+TX03774,5073.23,UPI,Insufficient Funds,99.91,High,Retry Payment,Retry Initiated,1
+TX09927,8014.04,NetBanking,Bank Declined,97.04,High,Generate Payment Link,Payment Link Created,0
+TX05652,17742.09,Card,Authentication Failed,99.74,High,Retry Payment,Retry Initiated,1
+TX07033,6557.21,NetBanking,Authentication Failed,2.57,Low,Defer Recovery,Deferred,0
+TX02330,35426.6,NetBanking,Timeout,98.26,High,Retry Payment,Retry Initiated,1
+TX05158,4522.79,Card,Bank Declined,96.14,High,Generate Payment Link,Payment Link Created,1
+TX07964,47229.95,NetBanking,Technical Error,99.31,High,Generate Payment Link,Payment Link Created,1
+TX07023,5218.97,Wallet,Timeout,99.87,High,Retry Payment,Retry Initiated,1
+TX08752,12930.02,Card,Authentication Failed,11.38,Low,Defer Recovery,Deferred,1
+TX06017,16266.41,Card,Bank Declined,18.5,Low,Defer Recovery,Deferred,1
+TX09715,22655.21,NetBanking,Technical Error,6.77,Low,Defer Recovery,Deferred,0
+TX00396,46394.51,Card,Bank Declined,20.1,Low,Defer Recovery,Deferred,1
+TX08174,11796.85,Card,Insufficient Funds,99.74,High,Generate Payment Link,Payment Link Created,1
+TX05128,15976.94,NetBanking,Insufficient Funds,35.14,Low,Defer Recovery,Deferred,0
+TX04546,12824.68,UPI,Bank Declined,98.66,High,Retry Payment,Retry Initiated,0
+TX07569,26111.41,Wallet,Timeout,99.75,High,Retry Payment,Retry Initiated,1
+TX02650,31272.56,NetBanking,Bank Declined,34.94,Low,Defer Recovery,Deferred,1
+TX08866,42151.68,NetBanking,Authentication Failed,99.46,High,Generate Payment Link,Payment Link Created,1
+TX01834,1104.07,Wallet,Technical Error,22.83,Low,Defer Recovery,Deferred,0
+TX00314,35827.64,NetBanking,Technical Error,99.93,High,Retry Payment,Retry Initiated,1
+TX07745,16778.89,UPI,Insufficient Funds,99.85,High,Retry Payment,Retry Initiated,1
+TX06028,38597.1,Card,Timeout,5.4,Low,Defer Recovery,Deferred,1
+TX02579,46806.11,NetBanking,Insufficient Funds,25.14,Low,Defer Recovery,Deferred,0
+TX06981,8942.75,UPI,Timeout,44.74,Medium,Send Notification,Notification Sent,1
+TX04084,28571.01,Wallet,Authentication Failed,8.27,Low,Defer Recovery,Deferred,0
+TX05084,11786.3,Wallet,Timeout,9.61,Low,Defer Recovery,Deferred,1
+TX04132,22568.23,Card,Bank Declined,11.77,Low,Defer Recovery,Deferred,1
+TX09803,36829.1,NetBanking,Bank Declined,5.53,Low,Defer Recovery,Deferred,0
+TX09203,43909.28,NetBanking,Authentication Failed,7.1,Low,Defer Recovery,Deferred,1
+TX09189,23842.26,Card,Bank Declined,3.45,Low,Defer Recovery,Deferred,0
+TX04399,31226.23,Card,Authentication Failed,19.99,Low,Defer Recovery,Deferred,1
+TX01919,22341.92,NetBanking,Authentication Failed,23.28,Low,Defer Recovery,Deferred,1
+TX05582,23946.74,UPI,Technical Error,9.2,Low,Defer Recovery,Deferred,0
+TX01866,26876.71,NetBanking,Technical Error,99.92,High,Retry Payment,Retry Initiated,1
+TX01053,2890.72,UPI,Technical Error,26.66,Low,Defer Recovery,Deferred,1
+TX02924,48654.96,NetBanking,Timeout,73.09,Medium,Send Notification,Notification Sent,1
+TX02398,5731.62,Card,Bank Declined,27.68,Low,Defer Recovery,Deferred,1
+TX09966,23547.51,UPI,Insufficient Funds,99.85,High,Retry Payment,Retry Initiated,1
+TX00937,26830.88,Card,Insufficient Funds,98.13,High,Generate Payment Link,Payment Link Created,1
+TX06224,20235.79,UPI,Timeout,53.38,Medium,Send Notification,Notification Sent,1
+TX05234,24431.16,Card,Bank Declined,9.36,Low,Defer Recovery,Deferred,0
+TX07514,36935.78,Card,Bank Declined,13.24,Low,Defer Recovery,Deferred,0
+TX05774,4086.7,NetBanking,Bank Declined,72.08,Medium,Send Notification,Notification Sent,1
+TX03791,31936.36,NetBanking,Bank Declined,99.0,High,Generate Payment Link,Payment Link Created,0
+TX05560,38613.09,NetBanking,Authentication Failed,33.39,Low,Defer Recovery,Deferred,1
+TX07539,14603.45,Wallet,Timeout,8.95,Low,Defer Recovery,Deferred,1
+TX05061,38156.36,NetBanking,Timeout,13.17,Low,Defer Recovery,Deferred,0
+TX01825,40617.19,NetBanking,Authentication Failed,5.96,Low,Defer Recovery,Deferred,0
+TX09467,23180.45,Card,Bank Declined,99.87,High,Retry Payment,Retry Initiated,1
+TX08197,9409.24,NetBanking,Timeout,8.8,Low,Defer Recovery,Deferred,0
+TX00697,41060.37,NetBanking,Authentication Failed,10.53,Low,Defer Recovery,Deferred,0
+TX04438,31911.19,NetBanking,Authentication Failed,8.81,Low,Defer Recovery,Deferred,1
+TX00833,34044.51,UPI,Technical Error,99.71,High,Generate Payment Link,Payment Link Created,1
+TX06835,49669.3,NetBanking,Insufficient Funds,8.77,Low,Defer Recovery,Deferred,1
+TX00231,808.41,Wallet,Insufficient Funds,98.47,High,Retry Payment,Retry Initiated,1
+TX06177,27736.16,UPI,Technical Error,99.61,High,Generate Payment Link,Payment Link Created,1
+TX03776,41606.09,NetBanking,Authentication Failed,92.92,High,Generate Payment Link,Payment Link Created,0
+TX09279,25253.34,Card,Authentication Failed,30.79,Low,Defer Recovery,Deferred,0
+TX07614,15372.35,UPI,Bank Declined,99.85,High,Retry Payment,Retry Initiated,1
+TX08097,9569.2,NetBanking,Timeout,14.94,Low,Defer Recovery,Deferred,1
+TX06949,46535.05,Wallet,Technical Error,28.32,Low,Defer Recovery,Deferred,1
+TX06601,3890.42,Card,Insufficient Funds,96.72,High,Generate Payment Link,Payment Link Created,1
+TX09625,44563.43,NetBanking,Technical Error,2.17,Low,Defer Recovery,Deferred,0
+TX03969,16534.74,UPI,Authentication Failed,1.81,Low,Defer Recovery,Deferred,0
+TX01173,48332.88,UPI,Authentication Failed,24.09,Low,Defer Recovery,Deferred,1
+TX07125,5231.36,Wallet,Insufficient Funds,9.01,Low,Defer Recovery,Deferred,0
+TX02983,22093.67,UPI,Technical Error,37.8,Low,Defer Recovery,Deferred,1
+TX01862,41413.46,NetBanking,Insufficient Funds,99.76,High,Retry Payment,Retry Initiated,1
+TX00104,3017.05,NetBanking,Timeout,2.99,Low,Defer Recovery,Deferred,0
+TX07412,160.06,UPI,Bank Declined,96.32,High,Generate Payment Link,Payment Link Created,1
+TX02029,46686.3,Card,Technical Error,6.27,Low,Defer Recovery,Deferred,0
+TX09863,34796.94,NetBanking,Authentication Failed,99.95,High,Retry Payment,Retry Initiated,1
+TX09606,4874.74,Card,Bank Declined,14.85,Low,Defer Recovery,Deferred,0
+TX04128,35226.4,Card,Timeout,40.26,Medium,Send Notification,Notification Sent,1
+TX01703,42989.2,Wallet,Technical Error,10.55,Low,Defer Recovery,Deferred,0
+TX06982,43664.48,NetBanking,Technical Error,99.65,High,Retry Payment,Retry Initiated,1
+TX07574,21417.43,UPI,Insufficient Funds,5.05,Low,Defer Recovery,Deferred,1
+TX06161,14154.49,UPI,Insufficient Funds,9.27,Low,Defer Recovery,Deferred,0
+TX02964,24354.27,UPI,Technical Error,95.63,High,Generate Payment Link,Payment Link Created,0
+TX08810,9328.77,UPI,Bank Declined,99.92,High,Retry Payment,Retry Initiated,1
+TX08250,31094.56,UPI,Authentication Failed,7.98,Low,Defer Recovery,Deferred,1
+TX09372,41777.34,UPI,Insufficient Funds,98.87,High,Generate Payment Link,Payment Link Created,1
+TX09266,29347.41,NetBanking,Insufficient Funds,9.79,Low,Defer Recovery,Deferred,0
+TX07324,12298.17,UPI,Technical Error,99.73,High,Retry Payment,Retry Initiated,1
+TX09831,2554.53,Wallet,Timeout,0.92,Low,Defer Recovery,Deferred,0
+TX01971,32734.31,NetBanking,Technical Error,99.94,High,Retry Payment,Retry Initiated,1
+TX08269,22353.67,UPI,Authentication Failed,42.58,Medium,Send Notification,Notification Sent,1
+TX01597,35474.11,Card,Technical Error,2.39,Low,Defer Recovery,Deferred,0
+TX03688,49601.6,UPI,Bank Declined,28.08,Low,Defer Recovery,Deferred,1
+TX04532,26584.46,Wallet,Authentication Failed,5.4,Low,Defer Recovery,Deferred,0
+TX06810,43557.5,UPI,Timeout,99.97,High,Retry Payment,Retry Initiated,1
+TX03996,26435.83,NetBanking,Technical Error,10.63,Low,Defer Recovery,Deferred,1
+TX04515,7996.21,NetBanking,Technical Error,20.33,Low,Defer Recovery,Deferred,0
+TX03888,21858.81,UPI,Insufficient Funds,99.04,High,Retry Payment,Retry Initiated,1
+TX02028,13314.33,NetBanking,Authentication Failed,99.44,High,Retry Payment,Retry Initiated,1
+TX05862,36859.17,Wallet,Authentication Failed,99.54,High,Generate Payment Link,Payment Link Created,1
+TX06775,33766.23,NetBanking,Technical Error,98.72,High,Retry Payment,Retry Initiated,1
+TX03013,43381.0,NetBanking,Bank Declined,7.74,Low,Defer Recovery,Deferred,0
+TX00511,21958.4,Card,Authentication Failed,12.09,Low,Defer Recovery,Deferred,0
+TX00083,19422.43,UPI,Technical Error,98.55,High,Generate Payment Link,Payment Link Created,1
+TX02249,24058.73,Card,Timeout,88.77,High,Generate Payment Link,Payment Link Created,0
+TX05586,22209.49,UPI,Bank Declined,93.28,High,Generate Payment Link,Payment Link Created,0
+TX04211,37777.9,UPI,Insufficient Funds,99.26,High,Generate Payment Link,Payment Link Created,1
+TX09488,13659.75,Card,Timeout,39.17,Low,Defer Recovery,Deferred,1
+TX04565,25464.75,Wallet,Technical Error,99.94,High,Retry Payment,Retry Initiated,1
+TX01194,40459.09,Wallet,Authentication Failed,99.85,High,Retry Payment,Retry Initiated,1
+TX03124,7717.64,Wallet,Insufficient Funds,95.31,High,Generate Payment Link,Payment Link Created,1
+TX00784,26699.46,NetBanking,Bank Declined,99.38,High,Retry Payment,Retry Initiated,1
+TX09130,4969.2,Wallet,Technical Error,3.46,Low,Defer Recovery,Deferred,1
+TX09709,19733.06,NetBanking,Technical Error,65.43,Medium,Send Notification,Notification Sent,1
+TX08995,41489.39,NetBanking,Authentication Failed,7.45,Low,Defer Recovery,Deferred,0
+TX04631,39643.59,Card,Insufficient Funds,60.73,Medium,Send Notification,Notification Sent,1
+TX08591,28036.07,UPI,Authentication Failed,4.8,Low,Defer Recovery,Deferred,0
+TX07525,20261.09,Card,Bank Declined,10.66,Low,Defer Recovery,Deferred,1
+TX01282,16543.57,Wallet,Technical Error,1.34,Low,Defer Recovery,Deferred,0
+TX06238,29921.69,NetBanking,Timeout,8.04,Low,Defer Recovery,Deferred,0
+TX09561,9360.17,Wallet,Insufficient Funds,96.95,High,Generate Payment Link,Payment Link Created,1
+TX05607,25499.27,NetBanking,Authentication Failed,4.02,Low,Defer Recovery,Deferred,1
+TX05090,10338.62,NetBanking,Insufficient Funds,15.92,Low,Defer Recovery,Deferred,0
+TX02535,3704.24,NetBanking,Insufficient Funds,16.31,Low,Defer Recovery,Deferred,0
+TX09837,39217.23,NetBanking,Authentication Failed,4.92,Low,Defer Recovery,Deferred,0
+TX04935,40514.66,UPI,Bank Declined,99.81,High,Generate Payment Link,Payment Link Created,1
+TX03621,19615.5,NetBanking,Authentication Failed,4.05,Low,Defer Recovery,Deferred,0
+TX09686,40483.14,NetBanking,Timeout,2.78,Low,Defer Recovery,Deferred,1
+TX02122,43453.17,Wallet,Insufficient Funds,7.69,Low,Defer Recovery,Deferred,1
+TX09871,39687.91,Wallet,Timeout,33.48,Low,Defer Recovery,Deferred,1
+TX08565,47066.85,Card,Technical Error,8.83,Low,Defer Recovery,Deferred,0
+TX07903,20772.41,Card,Timeout,15.9,Low,Defer Recovery,Deferred,1
+TX08449,20292.31,NetBanking,Insufficient Funds,99.53,High,Generate Payment Link,Payment Link Created,1
+TX04626,1745.55,UPI,Insufficient Funds,98.43,High,Generate Payment Link,Payment Link Created,1
+TX03912,5815.19,NetBanking,Technical Error,99.9,High,Retry Payment,Retry Initiated,1
+TX04275,47460.71,NetBanking,Timeout,2.84,Low,Defer Recovery,Deferred,0
+TX00211,4220.35,Card,Authentication Failed,0.83,Low,Defer Recovery,Deferred,0
+TX05990,5293.39,NetBanking,Bank Declined,93.61,High,Generate Payment Link,Payment Link Created,1
+TX09317,1151.92,Wallet,Bank Declined,15.94,Low,Defer Recovery,Deferred,0
+TX07962,32712.68,Wallet,Authentication Failed,22.84,Low,Defer Recovery,Deferred,0
+TX09560,1931.73,NetBanking,Bank Declined,5.24,Low,Defer Recovery,Deferred,0
+TX02128,26643.46,Wallet,Technical Error,4.14,Low,Defer Recovery,Deferred,0
+TX07524,37346.32,Card,Authentication Failed,96.58,High,Generate Payment Link,Payment Link Created,1
+TX05104,4653.12,NetBanking,Timeout,55.99,Medium,Send Notification,Notification Sent,1
+TX06808,48973.08,Card,Insufficient Funds,99.77,High,Retry Payment,Retry Initiated,1
+TX02041,25964.36,Card,Timeout,0.96,Low,Defer Recovery,Deferred,0
+TX04431,7366.87,Wallet,Bank Declined,38.45,Low,Defer Recovery,Deferred,1
+TX05777,41739.27,NetBanking,Timeout,99.61,High,Generate Payment Link,Payment Link Created,1
+TX05755,3385.52,Card,Insufficient Funds,18.81,Low,Defer Recovery,Deferred,1
+TX05705,24752.74,NetBanking,Insufficient Funds,24.12,Low,Defer Recovery,Deferred,0
+TX09406,47101.34,Card,Bank Declined,22.35,Low,Defer Recovery,Deferred,1
+TX05987,38354.47,Card,Bank Declined,1.28,Low,Defer Recovery,Deferred,0
+TX00790,31185.41,Wallet,Bank Declined,18.26,Low,Defer Recovery,Deferred,1
+TX08883,20001.95,Card,Timeout,99.26,High,Generate Payment Link,Payment Link Created,1
+TX01035,29030.59,UPI,Authentication Failed,4.85,Low,Defer Recovery,Deferred,0
+TX06699,12102.7,NetBanking,Technical Error,6.81,Low,Defer Recovery,Deferred,1
+TX02550,13943.59,Card,Timeout,1.53,Low,Defer Recovery,Deferred,0
+TX06372,20105.05,Wallet,Technical Error,13.95,Low,Defer Recovery,Deferred,0
+TX02831,31284.69,UPI,Insufficient Funds,2.01,Low,Defer Recovery,Deferred,0
+TX08188,41784.58,NetBanking,Bank Declined,5.32,Low,Defer Recovery,Deferred,0
+TX09533,41135.94,Card,Timeout,9.77,Low,Defer Recovery,Deferred,1
+TX02745,2861.09,Wallet,Technical Error,38.98,Low,Defer Recovery,Deferred,0
+TX08428,44468.33,UPI,Bank Declined,24.73,Low,Defer Recovery,Deferred,1
+TX08712,3798.55,NetBanking,Authentication Failed,99.77,High,Retry Payment,Retry Initiated,1
+TX04948,11575.07,Wallet,Authentication Failed,99.17,High,Retry Payment,Retry Initiated,1
+TX00144,43899.7,Card,Insufficient Funds,14.9,Low,Defer Recovery,Deferred,0
+TX02135,42684.45,Card,Technical Error,0.65,Low,Defer Recovery,Deferred,0
+TX01616,11257.77,UPI,Bank Declined,9.87,Low,Defer Recovery,Deferred,1
+TX05598,38127.38,Wallet,Technical Error,5.08,Low,Defer Recovery,Deferred,0
+TX09523,34992.21,NetBanking,Authentication Failed,98.62,High,Retry Payment,Retry Initiated,1
+TX00460,6504.66,NetBanking,Authentication Failed,99.59,High,Retry Payment,Retry Initiated,1
+TX06508,2591.13,NetBanking,Authentication Failed,99.74,High,Generate Payment Link,Payment Link Created,1
+TX09257,38049.05,Wallet,Authentication Failed,34.25,Low,Defer Recovery,Deferred,1
+TX08469,14839.31,NetBanking,Technical Error,7.89,Low,Defer Recovery,Deferred,0
+TX06194,3489.52,Card,Bank Declined,8.38,Low,Defer Recovery,Deferred,1
+TX02094,39753.68,Wallet,Bank Declined,99.58,High,Retry Payment,Retry Initiated,1
+TX06642,41972.17,UPI,Bank Declined,8.46,Low,Defer Recovery,Deferred,1
+TX04440,41353.71,Card,Timeout,99.31,High,Generate Payment Link,Payment Link Created,1
+TX00158,39024.4,UPI,Authentication Failed,17.29,Low,Defer Recovery,Deferred,1
+TX05031,39217.87,Card,Authentication Failed,99.03,High,Generate Payment Link,Payment Link Created,1
+TX07401,23457.39,NetBanking,Authentication Failed,99.21,High,Retry Payment,Retry Initiated,1
+TX02818,16926.38,NetBanking,Bank Declined,4.75,Low,Defer Recovery,Deferred,0
+TX01865,9787.03,Wallet,Insufficient Funds,23.7,Low,Defer Recovery,Deferred,1
+TX05194,15543.13,NetBanking,Insufficient Funds,19.3,Low,Defer Recovery,Deferred,1
+TX02786,11135.27,Card,Technical Error,2.64,Low,Defer Recovery,Deferred,0
+TX06721,29475.58,Card,Timeout,98.17,High,Generate Payment Link,Payment Link Created,1
+TX03187,35462.97,Wallet,Technical Error,23.95,Low,Defer Recovery,Deferred,1
+TX05906,2196.09,Wallet,Timeout,97.9,High,Generate Payment Link,Payment Link Created,1
+TX05405,26756.08,Wallet,Insufficient Funds,99.66,High,Generate Payment Link,Payment Link Created,1
+TX06886,4093.63,NetBanking,Authentication Failed,39.09,Low,Defer Recovery,Deferred,1
+TX02807,9004.69,Card,Bank Declined,98.82,High,Generate Payment Link,Payment Link Created,0
+TX03929,22860.75,Wallet,Bank Declined,12.17,Low,Defer Recovery,Deferred,0
+TX03810,29757.15,Card,Timeout,99.49,High,Retry Payment,Retry Initiated,1
+TX05912,23511.39,Wallet,Timeout,99.08,High,Retry Payment,Retry Initiated,1
+TX05161,31224.74,NetBanking,Bank Declined,31.71,Low,Defer Recovery,Deferred,0
+TX01079,34627.18,NetBanking,Insufficient Funds,97.29,High,Generate Payment Link,Payment Link Created,1
+TX00991,24702.2,Wallet,Technical Error,16.14,Low,Defer Recovery,Deferred,1
+TX05717,18233.28,UPI,Authentication Failed,95.27,High,Generate Payment Link,Payment Link Created,0
+TX04552,11042.83,Card,Insufficient Funds,3.46,Low,Defer Recovery,Deferred,0
+TX08059,11046.47,UPI,Insufficient Funds,5.34,Low,Defer Recovery,Deferred,1
+TX00759,20839.83,Wallet,Technical Error,14.66,Low,Defer Recovery,Deferred,0
+TX01309,21859.92,NetBanking,Authentication Failed,23.89,Low,Defer Recovery,Deferred,1
+TX06780,14861.09,UPI,Timeout,2.61,Low,Defer Recovery,Deferred,0
+TX07966,8566.09,Wallet,Authentication Failed,18.03,Low,Defer Recovery,Deferred,0
+TX09063,3956.95,Card,Authentication Failed,13.6,Low,Defer Recovery,Deferred,1
+TX01741,31435.14,NetBanking,Timeout,12.53,Low,Defer Recovery,Deferred,1
+TX08542,19767.25,Card,Bank Declined,2.73,Low,Defer Recovery,Deferred,0
+TX06745,45539.56,Wallet,Technical Error,13.23,Low,Defer Recovery,Deferred,1
+TX02115,564.58,Card,Authentication Failed,8.46,Low,Defer Recovery,Deferred,1
+TX00444,31991.48,Wallet,Technical Error,8.67,Low,Defer Recovery,Deferred,0
+TX05319,45403.74,NetBanking,Authentication Failed,95.49,High,Generate Payment Link,Payment Link Created,0
+TX06437,40630.75,NetBanking,Timeout,99.21,High,Generate Payment Link,Payment Link Created,1
+TX02471,20930.67,Card,Insufficient Funds,93.94,High,Generate Payment Link,Payment Link Created,1
+TX03832,46547.3,Card,Insufficient Funds,9.83,Low,Defer Recovery,Deferred,1
+TX09733,29733.33,NetBanking,Insufficient Funds,4.48,Low,Defer Recovery,Deferred,1
+TX00659,1503.26,UPI,Authentication Failed,99.41,High,Generate Payment Link,Payment Link Created,1
+TX05239,21831.7,NetBanking,Technical Error,99.19,High,Generate Payment Link,Payment Link Created,1
+TX07522,40552.22,Card,Insufficient Funds,12.62,Low,Defer Recovery,Deferred,0
+TX00988,45304.99,Wallet,Insufficient Funds,0.63,Low,Defer Recovery,Deferred,0
+TX01547,17401.27,UPI,Insufficient Funds,97.94,High,Generate Payment Link,Payment Link Created,1
+TX08352,42187.68,Card,Authentication Failed,95.39,High,Generate Payment Link,Payment Link Created,1
+TX09462,26139.47,UPI,Bank Declined,18.13,Low,Defer Recovery,Deferred,0
+TX09152,3132.98,UPI,Insufficient Funds,9.72,Low,Defer Recovery,Deferred,0
+TX03119,4936.17,Wallet,Insufficient Funds,97.81,High,Generate Payment Link,Payment Link Created,1
+TX01638,4414.23,UPI,Technical Error,2.78,Low,Defer Recovery,Deferred,0
+TX09524,31972.3,Card,Insufficient Funds,11.98,Low,Defer Recovery,Deferred,1
+TX06321,24842.42,UPI,Bank Declined,99.3,High,Generate Payment Link,Payment Link Created,0
+TX08383,18603.13,Card,Authentication Failed,99.48,High,Generate Payment Link,Payment Link Created,1
+TX07575,29617.29,UPI,Authentication Failed,7.63,Low,Defer Recovery,Deferred,0
+TX08083,17325.68,NetBanking,Technical Error,97.4,High,Generate Payment Link,Payment Link Created,1
+TX03918,41680.39,UPI,Technical Error,99.6,High,Retry Payment,Retry Initiated,1
+TX08785,12818.61,NetBanking,Timeout,99.61,High,Retry Payment,Retry Initiated,1
+TX08527,32290.36,Wallet,Technical Error,27.01,Low,Defer Recovery,Deferred,1
+TX08568,25663.01,Card,Bank Declined,31.5,Low,Defer Recovery,Deferred,0
+TX09366,28133.71,UPI,Bank Declined,99.57,High,Retry Payment,Retry Initiated,1
+TX09707,15466.39,Wallet,Timeout,1.7,Low,Defer Recovery,Deferred,0
+TX00496,33571.17,UPI,Insufficient Funds,0.65,Low,Defer Recovery,Deferred,0
+TX05490,10466.69,NetBanking,Bank Declined,2.99,Low,Defer Recovery,Deferred,0
+TX04704,17714.94,NetBanking,Insufficient Funds,99.09,High,Generate Payment Link,Payment Link Created,1
+TX01167,38133.16,UPI,Authentication Failed,4.41,Low,Defer Recovery,Deferred,0
+TX04877,23608.41,Card,Insufficient Funds,94.97,High,Generate Payment Link,Payment Link Created,1
+TX02432,12704.04,Card,Technical Error,12.77,Low,Defer Recovery,Deferred,1
+TX08078,28484.05,Card,Authentication Failed,8.32,Low,Defer Recovery,Deferred,1
+TX00312,12155.9,Card,Insufficient Funds,99.84,High,Retry Payment,Retry Initiated,1
+TX06056,35928.51,UPI,Insufficient Funds,69.3,Medium,Send Notification,Notification Sent,1
+TX09980,24614.25,Card,Technical Error,99.52,High,Retry Payment,Retry Initiated,1
+TX02385,27189.62,NetBanking,Technical Error,17.06,Low,Defer Recovery,Deferred,0
+TX05338,45154.76,Wallet,Authentication Failed,99.69,High,Retry Payment,Retry Initiated,1
+TX01791,11625.87,Card,Authentication Failed,99.93,High,Retry Payment,Retry Initiated,1
+TX06786,48746.14,UPI,Bank Declined,94.39,High,Generate Payment Link,Payment Link Created,1
+TX02944,27636.25,NetBanking,Timeout,99.72,High,Retry Payment,Retry Initiated,1
+TX07935,46389.15,Card,Timeout,97.91,High,Generate Payment Link,Payment Link Created,0
+TX00594,45358.58,NetBanking,Insufficient Funds,2.06,Low,Defer Recovery,Deferred,0
+TX03646,33601.26,Card,Bank Declined,12.56,Low,Defer Recovery,Deferred,0
+TX00839,2338.54,Card,Insufficient Funds,40.06,Medium,Send Notification,Notification Sent,1
+TX08819,30852.96,Wallet,Technical Error,99.7,High,Retry Payment,Retry Initiated,1
+TX08524,34445.41,UPI,Timeout,21.17,Low,Defer Recovery,Deferred,1
+TX00093,43489.73,UPI,Authentication Failed,99.95,High,Retry Payment,Retry Initiated,1
+TX04749,34679.29,Wallet,Bank Declined,13.37,Low,Defer Recovery,Deferred,1
+TX01696,2698.41,UPI,Timeout,4.88,Low,Defer Recovery,Deferred,1
+TX04505,22163.59,Card,Insufficient Funds,99.72,High,Retry Payment,Retry Initiated,1
+TX05676,17012.92,Wallet,Bank Declined,6.22,Low,Defer Recovery,Deferred,1
+TX02290,10919.03,NetBanking,Bank Declined,14.34,Low,Defer Recovery,Deferred,1
+TX00999,13560.15,UPI,Technical Error,17.77,Low,Defer Recovery,Deferred,1
+TX00748,21192.06,NetBanking,Authentication Failed,47.26,Medium,Send Notification,Notification Sent,1
+TX02268,28101.4,Card,Insufficient Funds,25.32,Low,Defer Recovery,Deferred,1
+TX09309,19090.74,Wallet,Timeout,96.38,High,Generate Payment Link,Payment Link Created,1
+TX09177,10940.6,UPI,Timeout,51.84,Medium,Send Notification,Notification Sent,1
+TX08726,25653.98,Card,Timeout,98.98,High,Generate Payment Link,Payment Link Created,0
+TX02171,27289.6,NetBanking,Technical Error,20.09,Low,Defer Recovery,Deferred,1
+TX02491,9476.39,UPI,Insufficient Funds,94.99,High,Generate Payment Link,Payment Link Created,0
+TX05691,14634.5,NetBanking,Technical Error,96.88,High,Generate Payment Link,Payment Link Created,1
+TX08322,38949.44,NetBanking,Insufficient Funds,99.73,High,Retry Payment,Retry Initiated,1
+TX01400,11721.8,NetBanking,Timeout,99.56,High,Retry Payment,Retry Initiated,1
+TX01561,31725.79,Card,Timeout,10.8,Low,Defer Recovery,Deferred,1
+TX09293,40324.98,UPI,Authentication Failed,99.82,High,Retry Payment,Retry Initiated,1
+TX06681,11329.52,NetBanking,Authentication Failed,99.91,High,Retry Payment,Retry Initiated,1
+TX04599,24087.63,Card,Timeout,98.43,High,Retry Payment,Retry Initiated,1
+TX04771,44575.0,Card,Authentication Failed,49.13,Medium,Send Notification,Notification Sent,1
+TX08261,44977.04,Wallet,Insufficient Funds,99.83,High,Retry Payment,Retry Initiated,1
+TX01568,15537.49,NetBanking,Authentication Failed,1.84,Low,Defer Recovery,Deferred,0
+TX06994,9379.08,UPI,Insufficient Funds,15.23,Low,Defer Recovery,Deferred,1
+TX05603,656.61,Wallet,Timeout,66.13,Medium,Send Notification,Notification Sent,1
+TX00020,18911.61,Wallet,Authentication Failed,9.44,Low,Defer Recovery,Deferred,0
+TX08121,11922.7,NetBanking,Authentication Failed,99.97,High,Retry Payment,Retry Initiated,1
+TX07164,19519.31,NetBanking,Timeout,46.06,Medium,Send Notification,Notification Sent,1
+TX01796,48894.9,Card,Bank Declined,1.28,Low,Defer Recovery,Deferred,0
+TX08529,32232.72,Wallet,Bank Declined,9.4,Low,Defer Recovery,Deferred,1
+TX03862,36049.64,UPI,Timeout,8.57,Low,Defer Recovery,Deferred,0
+TX06248,18652.97,NetBanking,Authentication Failed,6.03,Low,Defer Recovery,Deferred,0
+TX04079,41877.24,Wallet,Timeout,97.87,High,Generate Payment Link,Payment Link Created,1
+TX01591,46503.1,Wallet,Authentication Failed,13.94,Low,Defer Recovery,Deferred,1
+TX04093,39616.14,NetBanking,Timeout,99.64,High,Retry Payment,Retry Initiated,1
+TX02950,841.32,Wallet,Timeout,26.94,Low,Defer Recovery,Deferred,1
+TX01410,49928.18,UPI,Bank Declined,5.18,Low,Defer Recovery,Deferred,1
+TX01651,48756.85,Wallet,Authentication Failed,97.35,High,Generate Payment Link,Payment Link Created,0
+TX08458,26384.81,UPI,Timeout,5.47,Low,Defer Recovery,Deferred,1
+TX02312,15550.63,Wallet,Insufficient Funds,3.56,Low,Defer Recovery,Deferred,0
+TX04081,36965.02,Card,Insufficient Funds,30.93,Low,Defer Recovery,Deferred,1
+TX09923,43455.65,Wallet,Insufficient Funds,33.94,Low,Defer Recovery,Deferred,0
+TX04684,46524.52,UPI,Insufficient Funds,10.71,Low,Defer Recovery,Deferred,1
+TX09953,7121.32,Wallet,Bank Declined,99.93,High,Retry Payment,Retry Initiated,1
+TX05048,19644.16,NetBanking,Insufficient Funds,99.48,High,Retry Payment,Retry Initiated,1
+TX04534,10110.76,UPI,Technical Error,2.98,Low,Defer Recovery,Deferred,0
+TX03414,31794.33,Wallet,Authentication Failed,4.24,Low,Defer Recovery,Deferred,0
+TX05198,2771.88,Wallet,Bank Declined,99.76,High,Retry Payment,Retry Initiated,1
+TX09499,26843.21,Card,Authentication Failed,8.58,Low,Defer Recovery,Deferred,0
+TX07247,31692.03,UPI,Authentication Failed,46.35,Medium,Send Notification,Notification Sent,1
+TX06276,8572.65,Card,Insufficient Funds,10.64,Low,Defer Recovery,Deferred,1
+TX04659,39712.41,Card,Technical Error,2.04,Low,Defer Recovery,Deferred,1
+TX02488,45211.35,Card,Bank Declined,10.55,Low,Defer Recovery,Deferred,0
+TX00600,15149.18,NetBanking,Authentication Failed,99.96,High,Retry Payment,Retry Initiated,1
+TX03864,16707.64,Card,Authentication Failed,33.76,Low,Defer Recovery,Deferred,1
+TX03192,16953.63,NetBanking,Authentication Failed,99.96,High,Retry Payment,Retry Initiated,1
+TX00121,34616.83,Wallet,Timeout,99.93,High,Retry Payment,Retry Initiated,1
+TX00923,6427.41,UPI,Technical Error,94.9,High,Generate Payment Link,Payment Link Created,0
+TX02823,18031.02,Card,Authentication Failed,39.97,Low,Defer Recovery,Deferred,1
+TX01624,46928.54,NetBanking,Bank Declined,20.7,Low,Defer Recovery,Deferred,0
+TX05121,38677.2,Card,Timeout,1.77,Low,Defer Recovery,Deferred,0
+TX09492,31590.18,Wallet,Timeout,6.62,Low,Defer Recovery,Deferred,0
+TX00114,29930.62,NetBanking,Technical Error,3.06,Low,Defer Recovery,Deferred,0
+TX00734,25351.63,NetBanking,Authentication Failed,99.82,High,Retry Payment,Retry Initiated,1
+TX01131,8422.69,NetBanking,Bank Declined,99.9,High,Retry Payment,Retry Initiated,1
+TX04149,40554.96,Wallet,Technical Error,98.48,High,Generate Payment Link,Payment Link Created,0
+TX03957,21201.13,Card,Bank Declined,99.54,High,Generate Payment Link,Payment Link Created,1
+TX04284,1226.23,Card,Bank Declined,99.91,High,Retry Payment,Retry Initiated,1
+TX08011,8658.5,Card,Insufficient Funds,1.15,Low,Defer Recovery,Deferred,0
+TX08660,46890.34,NetBanking,Technical Error,10.31,Low,Defer Recovery,Deferred,1
+TX09681,14567.86,Wallet,Timeout,99.45,High,Generate Payment Link,Payment Link Created,1
+TX01492,26889.27,Wallet,Insufficient Funds,99.19,High,Retry Payment,Retry Initiated,1
+TX06722,38941.94,NetBanking,Bank Declined,99.37,High,Retry Payment,Retry Initiated,1
+TX07695,14438.95,Wallet,Insufficient Funds,98.67,High,Retry Payment,Retry Initiated,1
+TX04392,30489.06,Card,Bank Declined,15.68,Low,Defer Recovery,Deferred,0
+TX00041,9283.83,UPI,Insufficient Funds,1.17,Low,Defer Recovery,Deferred,1
+TX06092,11493.71,UPI,Insufficient Funds,98.92,High,Retry Payment,Retry Initiated,1
+TX05310,42038.43,UPI,Timeout,96.21,High,Generate Payment Link,Payment Link Created,0
+TX04574,41794.98,Card,Timeout,5.05,Low,Defer Recovery,Deferred,0
+TX07020,17448.82,UPI,Authentication Failed,5.24,Low,Defer Recovery,Deferred,0
+TX02275,32528.21,UPI,Bank Declined,18.63,Low,Defer Recovery,Deferred,0
+TX00388,24650.89,Wallet,Technical Error,97.52,High,Generate Payment Link,Payment Link Created,1
+TX00526,40992.83,Wallet,Insufficient Funds,30.47,Low,Defer Recovery,Deferred,0
+TX04523,21945.09,Wallet,Timeout,99.69,High,Generate Payment Link,Payment Link Created,1
+TX05032,26012.08,UPI,Bank Declined,99.87,High,Retry Payment,Retry Initiated,1
+TX07323,9156.73,Wallet,Timeout,59.64,Medium,Send Notification,Notification Sent,1
+TX04237,43833.41,NetBanking,Timeout,8.06,Low,Defer Recovery,Deferred,1
+TX05475,38860.74,Card,Authentication Failed,93.56,High,Generate Payment Link,Payment Link Created,1
+TX03000,14095.11,Wallet,Authentication Failed,8.7,Low,Defer Recovery,Deferred,0
+TX03478,45371.43,UPI,Bank Declined,95.35,High,Generate Payment Link,Payment Link Created,0
+TX08193,46601.94,UPI,Insufficient Funds,94.0,High,Generate Payment Link,Payment Link Created,0
+TX06937,32553.24,Card,Timeout,99.71,High,Retry Payment,Retry Initiated,1
+TX02227,34723.78,Card,Bank Declined,53.56,Medium,Send Notification,Notification Sent,1
+TX04823,43737.81,Card,Insufficient Funds,14.1,Low,Defer Recovery,Deferred,0
+TX09361,45749.32,NetBanking,Technical Error,99.8,High,Retry Payment,Retry Initiated,1
+TX07897,36996.95,Card,Timeout,99.2,High,Retry Payment,Retry Initiated,1
+TX00829,48283.93,NetBanking,Technical Error,99.89,High,Retry Payment,Retry Initiated,1
+TX05694,29836.75,UPI,Insufficient Funds,99.4,High,Retry Payment,Retry Initiated,1
+TX00159,23634.16,UPI,Authentication Failed,99.86,High,Retry Payment,Retry Initiated,1
+TX01621,47194.33,Wallet,Bank Declined,6.65,Low,Defer Recovery,Deferred,0
+TX05776,4685.61,Wallet,Bank Declined,48.4,Medium,Send Notification,Notification Sent,1
+TX04305,46225.28,Wallet,Authentication Failed,13.93,Low,Defer Recovery,Deferred,1
+TX04686,10080.45,Card,Technical Error,6.53,Low,Defer Recovery,Deferred,0
+TX05820,9682.9,Wallet,Authentication Failed,99.6,High,Generate Payment Link,Payment Link Created,1
+TX08254,23876.51,NetBanking,Technical Error,2.67,Low,Defer Recovery,Deferred,0
+TX08291,32487.32,UPI,Bank Declined,99.78,High,Retry Payment,Retry Initiated,1
+TX08029,5702.41,Wallet,Technical Error,2.89,Low,Defer Recovery,Deferred,0
+TX09135,4952.99,UPI,Authentication Failed,99.92,High,Retry Payment,Retry Initiated,1
+TX02655,25244.05,UPI,Authentication Failed,4.88,Low,Defer Recovery,Deferred,0
+TX08968,10816.49,NetBanking,Insufficient Funds,99.32,High,Retry Payment,Retry Initiated,0
+TX09155,25057.39,UPI,Timeout,99.91,High,Retry Payment,Retry Initiated,1
+TX09956,11352.6,Wallet,Timeout,4.28,Low,Defer Recovery,Deferred,0
+TX06088,37791.41,Card,Bank Declined,98.48,High,Generate Payment Link,Payment Link Created,1
+TX04985,48607.59,Wallet,Timeout,34.94,Low,Defer Recovery,Deferred,1
+TX06119,9418.64,Card,Bank Declined,99.73,High,Retry Payment,Retry Initiated,1
+TX07632,37525.76,UPI,Bank Declined,99.55,High,Retry Payment,Retry Initiated,1
+TX05359,35724.34,UPI,Timeout,99.75,High,Retry Payment,Retry Initiated,1
+TX07936,20426.01,Card,Bank Declined,99.4,High,Retry Payment,Retry Initiated,1
+TX02827,45072.83,NetBanking,Bank Declined,99.97,High,Retry Payment,Retry Initiated,1
+TX02643,44601.83,NetBanking,Authentication Failed,28.54,Low,Defer Recovery,Deferred,0
+TX09731,18288.6,Wallet,Timeout,99.93,High,Retry Payment,Retry Initiated,1
+TX07553,16130.63,UPI,Technical Error,93.36,High,Generate Payment Link,Payment Link Created,0
+TX09747,6249.41,Wallet,Authentication Failed,99.63,High,Retry Payment,Retry Initiated,1
+TX09696,24340.63,Wallet,Insufficient Funds,5.34,Low,Defer Recovery,Deferred,0
+TX08557,4590.28,Wallet,Technical Error,98.76,High,Retry Payment,Retry Initiated,1
+TX03993,11210.2,NetBanking,Authentication Failed,42.57,Medium,Send Notification,Notification Sent,1
+TX02784,44257.84,UPI,Timeout,19.04,Low,Defer Recovery,Deferred,1
+TX03777,49025.49,NetBanking,Technical Error,4.93,Low,Defer Recovery,Deferred,0
+TX07530,20610.93,NetBanking,Authentication Failed,20.42,Low,Defer Recovery,Deferred,0
+TX08869,48000.83,Card,Authentication Failed,8.19,Low,Defer Recovery,Deferred,0
+TX07429,12911.41,Wallet,Technical Error,99.64,High,Generate Payment Link,Payment Link Created,1
+TX07443,44078.11,Card,Technical Error,99.86,High,Retry Payment,Retry Initiated,1
+TX08639,9718.44,Card,Authentication Failed,18.17,Low,Defer Recovery,Deferred,0
+TX02106,12311.31,Card,Technical Error,9.21,Low,Defer Recovery,Deferred,1
+TX02484,14125.59,Card,Bank Declined,99.4,High,Generate Payment Link,Payment Link Created,1
+TX08392,39837.65,UPI,Technical Error,21.86,Low,Defer Recovery,Deferred,1
+TX06027,10887.81,Card,Bank Declined,99.36,High,Retry Payment,Retry Initiated,1
+TX06711,17051.76,NetBanking,Authentication Failed,9.29,Low,Defer Recovery,Deferred,0
+TX07150,18633.7,NetBanking,Technical Error,6.71,Low,Defer Recovery,Deferred,1
+TX06296,20893.76,UPI,Technical Error,98.91,High,Generate Payment Link,Payment Link Created,1
+TX01340,9642.98,UPI,Timeout,99.69,High,Retry Payment,Retry Initiated,1
+TX06622,32255.37,UPI,Technical Error,51.07,Medium,Send Notification,Notification Sent,1
+TX05431,47658.33,NetBanking,Timeout,4.11,Low,Defer Recovery,Deferred,0
+TX01976,46168.86,UPI,Technical Error,21.02,Low,Defer Recovery,Deferred,0
+TX00284,43366.3,Card,Authentication Failed,98.12,High,Generate Payment Link,Payment Link Created,0
+TX08718,49645.88,UPI,Bank Declined,98.53,High,Generate Payment Link,Payment Link Created,1
+TX08242,49869.32,Wallet,Insufficient Funds,8.12,Low,Defer Recovery,Deferred,0
+TX00309,22291.17,Card,Insufficient Funds,29.52,Low,Defer Recovery,Deferred,1
+TX02263,29481.63,UPI,Timeout,99.53,High,Generate Payment Link,Payment Link Created,1
+TX07939,2209.22,UPI,Timeout,27.45,Low,Defer Recovery,Deferred,1
+TX07024,42626.6,NetBanking,Technical Error,7.87,Low,Defer Recovery,Deferred,1
+TX02860,7772.09,Wallet,Authentication Failed,50.91,Medium,Send Notification,Notification Sent,1
+TX00455,48782.54,NetBanking,Authentication Failed,2.13,Low,Defer Recovery,Deferred,0
+TX08833,26666.69,Card,Technical Error,17.09,Low,Defer Recovery,Deferred,0
+TX04513,2474.4,Card,Technical Error,2.55,Low,Defer Recovery,Deferred,0
+TX03394,14467.91,UPI,Timeout,8.92,Low,Defer Recovery,Deferred,0
+TX09999,10912.54,UPI,Timeout,99.91,High,Retry Payment,Retry Initiated,1
+TX02003,34659.38,UPI,Authentication Failed,10.36,Low,Defer Recovery,Deferred,0
+TX08283,2388.02,NetBanking,Bank Declined,54.81,Medium,Send Notification,Notification Sent,1
+TX02673,1317.11,NetBanking,Bank Declined,3.95,Low,Defer Recovery,Deferred,1
+TX09380,19596.06,Card,Technical Error,9.01,Low,Defer Recovery,Deferred,1
+TX04536,8178.59,Card,Authentication Failed,99.53,High,Retry Payment,Retry Initiated,1
+TX03812,8292.83,UPI,Authentication Failed,1.51,Low,Defer Recovery,Deferred,1
+TX04430,5457.32,Wallet,Authentication Failed,99.2,High,Generate Payment Link,Payment Link Created,1
+TX03842,42589.07,NetBanking,Authentication Failed,7.32,Low,Defer Recovery,Deferred,0
+TX03608,19487.7,NetBanking,Insufficient Funds,99.87,High,Retry Payment,Retry Initiated,1
+TX05675,39353.96,Wallet,Technical Error,99.94,High,Retry Payment,Retry Initiated,1
+TX05208,1528.7,Card,Technical Error,14.09,Low,Defer Recovery,Deferred,1
+TX06906,28888.41,Card,Authentication Failed,91.51,High,Generate Payment Link,Payment Link Created,0
+TX02828,8279.62,Card,Bank Declined,48.47,Medium,Send Notification,Notification Sent,1
+TX06269,14188.08,UPI,Authentication Failed,46.93,Medium,Send Notification,Notification Sent,1
+TX09785,6947.14,Wallet,Insufficient Funds,33.34,Low,Defer Recovery,Deferred,1
+TX05824,1111.97,Card,Insufficient Funds,99.51,High,Retry Payment,Retry Initiated,1
+TX03308,675.15,NetBanking,Bank Declined,3.58,Low,Defer Recovery,Deferred,1
+TX07841,48665.71,Wallet,Timeout,97.45,High,Retry Payment,Retry Initiated,1
+TX03094,7967.29,NetBanking,Technical Error,99.49,High,Retry Payment,Retry Initiated,1
+TX00977,17002.77,Wallet,Timeout,38.99,Low,Defer Recovery,Deferred,1
+TX01673,42543.95,UPI,Bank Declined,9.52,Low,Defer Recovery,Deferred,0
+TX06155,7579.73,Wallet,Bank Declined,99.44,High,Generate Payment Link,Payment Link Created,1
+TX06881,43696.07,Wallet,Timeout,99.81,High,Retry Payment,Retry Initiated,1
+TX03847,22581.77,Card,Insufficient Funds,12.79,Low,Defer Recovery,Deferred,1
+TX07359,34107.58,Wallet,Technical Error,8.65,Low,Defer Recovery,Deferred,0
+TX04888,30402.61,Wallet,Insufficient Funds,23.38,Low,Defer Recovery,Deferred,1
+TX05003,4801.1,Card,Authentication Failed,28.84,Low,Defer Recovery,Deferred,1
+TX09581,6675.37,NetBanking,Technical Error,99.51,High,Retry Payment,Retry Initiated,1
+TX02199,3413.63,NetBanking,Technical Error,9.45,Low,Defer Recovery,Deferred,1
+TX07520,10844.99,UPI,Insufficient Funds,18.91,Low,Defer Recovery,Deferred,0
+TX03605,15731.21,Wallet,Insufficient Funds,10.72,Low,Defer Recovery,Deferred,0
+TX05728,14649.68,Wallet,Bank Declined,98.69,High,Generate Payment Link,Payment Link Created,1
+TX03865,37768.14,UPI,Insufficient Funds,1.72,Low,Defer Recovery,Deferred,0
+TX09005,33158.59,Card,Insufficient Funds,43.91,Medium,Send Notification,Notification Sent,1
+TX06406,992.14,NetBanking,Technical Error,99.77,High,Generate Payment Link,Payment Link Created,1
+TX09037,20533.86,UPI,Authentication Failed,2.8,Low,Defer Recovery,Deferred,0
+TX05159,46119.32,Card,Bank Declined,6.09,Low,Defer Recovery,Deferred,1
+TX07950,30108.67,NetBanking,Authentication Failed,56.25,Medium,Send Notification,Notification Sent,1
+TX01055,2736.01,Card,Timeout,99.94,High,Retry Payment,Retry Initiated,1
+TX04428,23506.11,Wallet,Timeout,99.76,High,Retry Payment,Retry Initiated,1
+TX04832,13562.82,Wallet,Timeout,6.79,Low,Defer Recovery,Deferred,0
+TX08265,4282.04,UPI,Bank Declined,1.7,Low,Defer Recovery,Deferred,0
+TX01411,1338.38,Card,Insufficient Funds,15.74,Low,Defer Recovery,Deferred,0
+TX07134,48506.82,NetBanking,Timeout,99.9,High,Retry Payment,Retry Initiated,1
+TX01948,38947.94,Wallet,Technical Error,4.99,Low,Defer Recovery,Deferred,0
+TX09176,730.87,Card,Timeout,14.87,Low,Defer Recovery,Deferred,1
+TX08634,10724.57,NetBanking,Authentication Failed,99.7,High,Generate Payment Link,Payment Link Created,0
+TX07184,19207.53,UPI,Timeout,1.62,Low,Defer Recovery,Deferred,1
+TX00044,11366.9,NetBanking,Timeout,1.25,Low,Defer Recovery,Deferred,0
+TX04404,19834.9,NetBanking,Technical Error,92.35,High,Generate Payment Link,Payment Link Created,1
+TX06535,18023.75,Card,Timeout,18.97,Low,Defer Recovery,Deferred,1
+TX01750,15237.88,UPI,Insufficient Funds,6.8,Low,Defer Recovery,Deferred,0
+TX09324,17081.84,NetBanking,Timeout,95.36,High,Generate Payment Link,Payment Link Created,1
+TX03126,33899.36,Wallet,Insufficient Funds,99.55,High,Retry Payment,Retry Initiated,1
+TX00260,39721.32,UPI,Insufficient Funds,99.89,High,Retry Payment,Retry Initiated,1
+TX02200,49468.54,NetBanking,Authentication Failed,21.18,Low,Defer Recovery,Deferred,0
+TX06053,24342.45,Wallet,Bank Declined,20.66,Low,Defer Recovery,Deferred,0
+TX06022,45009.17,NetBanking,Technical Error,15.06,Low,Defer Recovery,Deferred,0
+TX07338,40861.34,Card,Authentication Failed,44.77,Medium,Send Notification,Notification Sent,0
+TX00744,29371.43,Card,Timeout,94.45,High,Generate Payment Link,Payment Link Created,0
+TX02332,12875.46,NetBanking,Insufficient Funds,99.83,High,Generate Payment Link,Payment Link Created,1
+TX00124,18475.68,UPI,Timeout,17.09,Low,Defer Recovery,Deferred,1
+TX07187,17290.64,Card,Timeout,3.62,Low,Defer Recovery,Deferred,0
+TX03565,561.16,Card,Technical Error,3.83,Low,Defer Recovery,Deferred,1
+TX03869,668.34,UPI,Timeout,17.92,Low,Defer Recovery,Deferred,1
+TX02064,25121.93,UPI,Insufficient Funds,48.92,Medium,Send Notification,Notification Sent,1
+TX01507,24305.14,Card,Authentication Failed,11.12,Low,Defer Recovery,Deferred,0
+TX05267,12785.47,Wallet,Authentication Failed,5.38,Low,Defer Recovery,Deferred,0
+TX09290,1549.04,Card,Bank Declined,94.52,High,Generate Payment Link,Payment Link Created,1
+TX09487,4541.9,Card,Authentication Failed,1.32,Low,Defer Recovery,Deferred,0
+TX00909,4626.97,Wallet,Technical Error,98.32,High,Generate Payment Link,Payment Link Created,1
+TX05722,44507.56,UPI,Timeout,45.92,Medium,Send Notification,Notification Sent,0
+TX05305,9451.82,NetBanking,Insufficient Funds,99.8,High,Retry Payment,Retry Initiated,1
+TX00970,22942.45,NetBanking,Bank Declined,99.35,High,Generate Payment Link,Payment Link Created,1
+TX08384,35476.81,UPI,Technical Error,4.17,Low,Defer Recovery,Deferred,0
+TX00437,47154.84,Card,Timeout,20.57,Low,Defer Recovery,Deferred,1
+TX09110,27017.77,Card,Bank Declined,97.33,High,Generate Payment Link,Payment Link Created,1
+TX01174,22665.53,Card,Bank Declined,3.69,Low,Defer Recovery,Deferred,0
+TX07203,514.41,UPI,Authentication Failed,99.32,High,Generate Payment Link,Payment Link Created,1
+TX07776,25930.64,NetBanking,Insufficient Funds,12.69,Low,Defer Recovery,Deferred,1
+TX01098,17600.42,Wallet,Timeout,99.66,High,Generate Payment Link,Payment Link Created,1
+TX03579,25994.97,Card,Insufficient Funds,99.87,High,Retry Payment,Retry Initiated,1
+TX05958,2372.95,UPI,Technical Error,99.36,High,Generate Payment Link,Payment Link Created,1
+TX08823,21524.2,NetBanking,Bank Declined,7.85,Low,Defer Recovery,Deferred,1
+TX00051,10533.96,Wallet,Technical Error,96.75,High,Generate Payment Link,Payment Link Created,1
+TX02635,7998.32,Wallet,Bank Declined,99.94,High,Retry Payment,Retry Initiated,1
+TX03182,32256.72,Card,Insufficient Funds,99.63,High,Retry Payment,Retry Initiated,1
+TX04266,15102.72,UPI,Bank Declined,99.62,High,Retry Payment,Retry Initiated,1
+TX02516,30200.78,UPI,Bank Declined,99.74,High,Generate Payment Link,Payment Link Created,1
+TX04603,8568.29,NetBanking,Timeout,16.5,Low,Defer Recovery,Deferred,0
+TX09594,2895.85,UPI,Bank Declined,15.68,Low,Defer Recovery,Deferred,1
+TX04729,5858.45,NetBanking,Technical Error,95.53,High,Generate Payment Link,Payment Link Created,1
+TX03362,32539.61,Wallet,Technical Error,99.67,High,Retry Payment,Retry Initiated,1
+TX03087,46853.77,NetBanking,Authentication Failed,1.33,Low,Defer Recovery,Deferred,0
+TX03183,1514.04,Wallet,Timeout,99.64,High,Retry Payment,Retry Initiated,1
+TX05237,5433.48,Card,Technical Error,99.59,High,Retry Payment,Retry Initiated,1
+TX08390,46506.24,Card,Insufficient Funds,99.49,High,Retry Payment,Retry Initiated,1
+TX09727,11595.7,Wallet,Bank Declined,14.34,Low,Defer Recovery,Deferred,1
+TX03964,10304.77,NetBanking,Authentication Failed,98.99,High,Generate Payment Link,Payment Link Created,1
+TX03497,49658.87,Wallet,Bank Declined,7.17,Low,Defer Recovery,Deferred,0
+TX08301,3975.53,Card,Authentication Failed,8.34,Low,Defer Recovery,Deferred,0
+TX05938,40134.21,NetBanking,Authentication Failed,99.38,High,Generate Payment Link,Payment Link Created,1
+TX08595,20708.3,UPI,Timeout,99.64,High,Retry Payment,Retry Initiated,1
+TX05047,23768.85,Card,Authentication Failed,2.34,Low,Defer Recovery,Deferred,0
+TX07864,36420.01,UPI,Insufficient Funds,99.75,High,Retry Payment,Retry Initiated,1
+TX06118,31423.86,Wallet,Insufficient Funds,64.5,Medium,Send Notification,Notification Sent,1
+TX04464,11134.05,NetBanking,Technical Error,99.96,High,Retry Payment,Retry Initiated,1
+TX05768,30050.11,Wallet,Authentication Failed,99.13,High,Retry Payment,Retry Initiated,1
+TX06145,13726.76,Wallet,Technical Error,4.75,Low,Defer Recovery,Deferred,0
+TX07329,6144.81,NetBanking,Authentication Failed,1.73,Low,Defer Recovery,Deferred,0
+TX02518,49181.51,UPI,Insufficient Funds,99.61,High,Retry Payment,Retry Initiated,1
+TX00218,15230.67,Wallet,Insufficient Funds,99.74,High,Retry Payment,Retry Initiated,1
+TX04413,49444.9,NetBanking,Bank Declined,99.8,High,Retry Payment,Retry Initiated,1
+TX00369,34676.72,UPI,Bank Declined,41.35,Medium,Send Notification,Notification Sent,1
+TX00879,3703.44,Wallet,Bank Declined,9.93,Low,Defer Recovery,Deferred,0
+TX08470,1167.3,UPI,Insufficient Funds,4.83,Low,Defer Recovery,Deferred,0
+TX08143,1924.83,NetBanking,Insufficient Funds,20.03,Low,Defer Recovery,Deferred,1
+TX05571,22850.21,Wallet,Insufficient Funds,99.43,High,Generate Payment Link,Payment Link Created,1
+TX03366,12471.83,Card,Authentication Failed,30.72,Low,Defer Recovery,Deferred,1
+TX06221,15701.55,Card,Bank Declined,92.82,High,Generate Payment Link,Payment Link Created,0
+TX06526,41074.07,NetBanking,Authentication Failed,4.27,Low,Defer Recovery,Deferred,0
+TX04652,38068.48,Wallet,Bank Declined,98.69,High,Generate Payment Link,Payment Link Created,1
+TX09099,19500.88,UPI,Technical Error,3.1,Low,Defer Recovery,Deferred,0
+TX09098,43681.14,Card,Technical Error,3.82,Low,Defer Recovery,Deferred,1
+TX04773,9283.65,Card,Technical Error,7.88,Low,Defer Recovery,Deferred,1
+TX09296,40011.49,Card,Insufficient Funds,1.11,Low,Defer Recovery,Deferred,0
+TX07177,49420.65,Card,Insufficient Funds,99.33,High,Generate Payment Link,Payment Link Created,1
+TX01788,32204.15,Card,Technical Error,99.47,High,Retry Payment,Retry Initiated,1
+TX01327,36169.68,Wallet,Timeout,6.17,Low,Defer Recovery,Deferred,0
+TX05835,8658.98,UPI,Insufficient Funds,16.88,Low,Defer Recovery,Deferred,1
+TX03121,35166.64,Card,Timeout,98.36,High,Generate Payment Link,Payment Link Created,1
+TX09121,46960.16,Card,Bank Declined,85.94,High,Generate Payment Link,Payment Link Created,0
+TX06892,43503.64,NetBanking,Technical Error,99.94,High,Retry Payment,Retry Initiated,1
+TX02809,47025.81,NetBanking,Insufficient Funds,99.85,High,Retry Payment,Retry Initiated,1
+TX00952,16768.87,Card,Technical Error,27.15,Low,Defer Recovery,Deferred,1
+TX09118,44746.23,Wallet,Technical Error,19.98,Low,Defer Recovery,Deferred,0
+TX05791,23743.04,Card,Authentication Failed,46.43,Medium,Send Notification,Notification Sent,1
+TX01023,31906.38,UPI,Bank Declined,1.53,Low,Defer Recovery,Deferred,0
+TX09772,3859.67,UPI,Insufficient Funds,10.5,Low,Defer Recovery,Deferred,0
+TX09651,22990.57,Wallet,Timeout,99.93,High,Retry Payment,Retry Initiated,1
+TX00008,24333.15,UPI,Authentication Failed,98.21,High,Generate Payment Link,Payment Link Created,0
+TX06083,24454.2,UPI,Insufficient Funds,99.82,High,Retry Payment,Retry Initiated,1
+TX04075,45208.69,Card,Authentication Failed,99.54,High,Retry Payment,Retry Initiated,1
+TX04568,41011.42,Wallet,Insufficient Funds,4.7,Low,Defer Recovery,Deferred,0
+TX06338,20035.37,UPI,Insufficient Funds,2.99,Low,Defer Recovery,Deferred,1
+TX06651,12923.6,NetBanking,Timeout,99.5,High,Generate Payment Link,Payment Link Created,1
+TX08296,10828.11,NetBanking,Authentication Failed,99.8,High,Retry Payment,Retry Initiated,1
+TX04200,5086.6,Card,Technical Error,25.91,Low,Defer Recovery,Deferred,1
+TX05077,1026.68,UPI,Authentication Failed,2.86,Low,Defer Recovery,Deferred,0
+TX09133,21325.23,NetBanking,Authentication Failed,6.33,Low,Defer Recovery,Deferred,0
+TX02139,16101.07,UPI,Insufficient Funds,96.04,High,Generate Payment Link,Payment Link Created,1
+TX02679,36383.85,Card,Insufficient Funds,2.13,Low,Defer Recovery,Deferred,0
+TX08508,30147.5,NetBanking,Insufficient Funds,11.49,Low,Defer Recovery,Deferred,1
+TX04415,4005.9,NetBanking,Insufficient Funds,21.44,Low,Defer Recovery,Deferred,1
+TX09237,13657.56,UPI,Authentication Failed,11.46,Low,Defer Recovery,Deferred,0
+TX07737,43854.72,Wallet,Timeout,3.49,Low,Defer Recovery,Deferred,0
+TX07250,7717.38,Wallet,Insufficient Funds,94.79,High,Generate Payment Link,Payment Link Created,0
+TX04426,17362.88,NetBanking,Authentication Failed,53.51,Medium,Send Notification,Notification Sent,1
+TX00686,5097.73,UPI,Bank Declined,3.21,Low,Defer Recovery,Deferred,0
+TX03442,29725.92,Wallet,Authentication Failed,99.26,High,Generate Payment Link,Payment Link Created,1
+TX01177,47589.95,Card,Bank Declined,99.9,High,Retry Payment,Retry Initiated,1
+TX05950,4645.11,UPI,Bank Declined,6.43,Low,Defer Recovery,Deferred,1
+TX05070,24790.24,NetBanking,Technical Error,62.65,Medium,Send Notification,Notification Sent,1
+TX02441,9512.75,Wallet,Insufficient Funds,22.92,Low,Defer Recovery,Deferred,1
+TX09185,7854.52,Wallet,Authentication Failed,98.76,High,Generate Payment Link,Payment Link Created,1
+TX02754,521.73,Wallet,Timeout,97.1,High,Generate Payment Link,Payment Link Created,1
+TX07603,35622.92,UPI,Bank Declined,60.6,Medium,Send Notification,Notification Sent,1
+TX04248,9780.3,Card,Technical Error,10.06,Low,Defer Recovery,Deferred,0
+TX03206,34841.45,Wallet,Timeout,10.58,Low,Defer Recovery,Deferred,1
+TX08738,4902.9,Wallet,Bank Declined,11.76,Low,Defer Recovery,Deferred,0
+TX00543,48140.36,Wallet,Timeout,41.49,Medium,Send Notification,Notification Sent,0
+TX08128,35131.58,NetBanking,Timeout,43.43,Medium,Send Notification,Notification Sent,1
+TX03954,6677.34,NetBanking,Technical Error,99.55,High,Retry Payment,Retry Initiated,1
+TX08408,42885.0,Wallet,Technical Error,11.42,Low,Defer Recovery,Deferred,0
+TX09917,2159.36,UPI,Insufficient Funds,30.09,Low,Defer Recovery,Deferred,0
+TX03997,27047.46,UPI,Bank Declined,42.72,Medium,Send Notification,Notification Sent,1
+TX01807,10592.78,NetBanking,Timeout,8.98,Low,Defer Recovery,Deferred,1
+TX07344,14515.48,Wallet,Timeout,32.39,Low,Defer Recovery,Deferred,1
+TX09248,42843.56,UPI,Technical Error,93.84,High,Generate Payment Link,Payment Link Created,0
+TX02748,31400.19,NetBanking,Bank Declined,99.85,High,Retry Payment,Retry Initiated,1
+TX09188,9148.16,UPI,Insufficient Funds,98.36,High,Retry Payment,Retry Initiated,0
+TX04767,18336.03,Card,Timeout,16.96,Low,Defer Recovery,Deferred,1
+TX09703,944.77,UPI,Authentication Failed,0.81,Low,Defer Recovery,Deferred,0
+TX07312,29720.98,Wallet,Technical Error,97.96,High,Generate Payment Link,Payment Link Created,1
+TX07257,18563.18,UPI,Technical Error,99.89,High,Retry Payment,Retry Initiated,1
+TX07974,20126.14,UPI,Technical Error,6.12,Low,Defer Recovery,Deferred,0
+TX06544,15010.27,NetBanking,Bank Declined,99.05,High,Retry Payment,Retry Initiated,0
+TX08490,7482.94,Wallet,Insufficient Funds,99.66,High,Retry Payment,Retry Initiated,1
+TX05509,48118.35,UPI,Bank Declined,99.48,High,Generate Payment Link,Payment Link Created,1
+TX05935,1251.97,Card,Authentication Failed,99.92,High,Retry Payment,Retry Initiated,1
+TX01917,29330.34,Wallet,Timeout,3.27,Low,Defer Recovery,Deferred,0
+TX05179,24253.54,Wallet,Technical Error,98.1,High,Generate Payment Link,Payment Link Created,1
+TX09085,23464.5,UPI,Bank Declined,99.92,High,Retry Payment,Retry Initiated,1
+TX07708,30599.6,UPI,Authentication Failed,99.59,High,Retry Payment,Retry Initiated,0
+TX00311,49168.7,NetBanking,Insufficient Funds,5.47,Low,Defer Recovery,Deferred,1
+TX09043,43050.36,Card,Authentication Failed,4.92,Low,Defer Recovery,Deferred,0
+TX01188,38917.68,Wallet,Timeout,99.59,High,Retry Payment,Retry Initiated,0
+TX03397,35658.81,UPI,Technical Error,99.18,High,Generate Payment Link,Payment Link Created,1
+TX02810,13107.25,Wallet,Insufficient Funds,5.73,Low,Defer Recovery,Deferred,0
+TX05914,872.57,NetBanking,Timeout,7.56,Low,Defer Recovery,Deferred,1
+TX08571,28703.83,Card,Technical Error,99.39,High,Retry Payment,Retry Initiated,1
+TX00193,44382.48,NetBanking,Authentication Failed,26.34,Low,Defer Recovery,Deferred,1
+TX04414,47458.56,UPI,Technical Error,97.01,High,Generate Payment Link,Payment Link Created,1
+TX09374,16482.6,UPI,Technical Error,5.9,Low,Defer Recovery,Deferred,0
+TX04217,22115.94,Card,Authentication Failed,99.78,High,Retry Payment,Retry Initiated,1
+TX01861,37458.74,NetBanking,Technical Error,97.12,High,Generate Payment Link,Payment Link Created,0
+TX09830,49913.62,Card,Bank Declined,99.78,High,Generate Payment Link,Payment Link Created,1
+TX08513,44650.39,Wallet,Insufficient Funds,1.83,Low,Defer Recovery,Deferred,0
+TX09347,12243.29,NetBanking,Timeout,98.78,High,Retry Payment,Retry Initiated,0
+TX03949,25268.6,NetBanking,Bank Declined,99.75,High,Retry Payment,Retry Initiated,1
+TX08060,36737.5,Wallet,Insufficient Funds,2.81,Low,Defer Recovery,Deferred,1
+TX03194,25476.09,Card,Timeout,2.81,Low,Defer Recovery,Deferred,0
+TX00067,6771.41,NetBanking,Bank Declined,70.09,Medium,Send Notification,Notification Sent,1
+TX03452,45005.49,Wallet,Technical Error,51.43,Medium,Send Notification,Notification Sent,1
+TX06963,1295.67,Wallet,Authentication Failed,99.55,High,Retry Payment,Retry Initiated,1
+TX04504,9603.8,Wallet,Insufficient Funds,97.68,High,Generate Payment Link,Payment Link Created,1
+TX09125,40329.86,Wallet,Technical Error,2.38,Low,Defer Recovery,Deferred,0
+TX00559,47902.76,UPI,Insufficient Funds,96.82,High,Generate Payment Link,Payment Link Created,0
+TX08862,16675.46,NetBanking,Bank Declined,98.25,High,Generate Payment Link,Payment Link Created,1
+TX06788,20931.06,Wallet,Insufficient Funds,10.03,Low,Defer Recovery,Deferred,0
+TX04115,23849.52,Card,Bank Declined,99.24,High,Retry Payment,Retry Initiated,1
+TX02481,10549.4,Wallet,Bank Declined,10.25,Low,Defer Recovery,Deferred,0
+TX08641,16472.36,NetBanking,Authentication Failed,99.08,High,Generate Payment Link,Payment Link Created,1
+TX01130,30375.14,Wallet,Insufficient Funds,99.26,High,Retry Payment,Retry Initiated,1
+TX04140,16428.34,NetBanking,Timeout,99.56,High,Generate Payment Link,Payment Link Created,1
+TX02541,35844.63,Wallet,Insufficient Funds,14.41,Low,Defer Recovery,Deferred,0
+TX05563,9491.18,Card,Insufficient Funds,99.77,High,Retry Payment,Retry Initiated,1
+TX04917,43903.85,NetBanking,Technical Error,59.22,Medium,Send Notification,Notification Sent,1
+TX02215,10840.67,Wallet,Bank Declined,31.18,Low,Defer Recovery,Deferred,0
+TX05833,11203.8,UPI,Authentication Failed,99.74,High,Retry Payment,Retry Initiated,1
+TX01790,2712.12,NetBanking,Technical Error,15.86,Low,Defer Recovery,Deferred,1
+TX08692,13645.89,Card,Timeout,31.89,Low,Defer Recovery,Deferred,1
+TX06743,39631.63,UPI,Technical Error,89.51,High,Generate Payment Link,Payment Link Created,0
+TX07483,27655.53,NetBanking,Bank Declined,98.95,High,Retry Payment,Retry Initiated,0
+TX05954,26664.15,Wallet,Technical Error,7.32,Low,Defer Recovery,Deferred,0
+TX01694,15891.79,Card,Authentication Failed,5.78,Low,Defer Recovery,Deferred,0
+TX06934,8081.05,Wallet,Timeout,99.6,High,Retry Payment,Retry Initiated,1
+TX07870,45415.79,UPI,Bank Declined,3.5,Low,Defer Recovery,Deferred,0
+TX01614,40382.36,Wallet,Timeout,54.49,Medium,Send Notification,Notification Sent,1
+TX05461,48826.49,Wallet,Bank Declined,0.83,Low,Defer Recovery,Deferred,0
+TX07863,8503.56,UPI,Timeout,94.54,High,Generate Payment Link,Payment Link Created,1
+TX05593,33143.08,UPI,Insufficient Funds,99.87,High,Retry Payment,Retry Initiated,1
+TX04847,24264.88,UPI,Timeout,12.85,Low,Defer Recovery,Deferred,0
+TX06086,19542.34,UPI,Bank Declined,99.74,High,Retry Payment,Retry Initiated,1
+TX05241,39330.52,Card,Technical Error,11.88,Low,Defer Recovery,Deferred,1
+TX09227,7243.92,Wallet,Insufficient Funds,3.59,Low,Defer Recovery,Deferred,0
+TX00294,26352.09,UPI,Timeout,99.87,High,Retry Payment,Retry Initiated,1
+TX00125,48953.69,NetBanking,Insufficient Funds,99.07,High,Retry Payment,Retry Initiated,1
+TX02660,1384.55,NetBanking,Bank Declined,21.86,Low,Defer Recovery,Deferred,1
+TX06661,6458.3,NetBanking,Technical Error,26.9,Low,Defer Recovery,Deferred,1
+TX03758,317.54,Wallet,Technical Error,13.99,Low,Defer Recovery,Deferred,0
+TX09568,5600.62,NetBanking,Insufficient Funds,22.41,Low,Defer Recovery,Deferred,0
+TX05049,45782.3,Card,Technical Error,6.06,Low,Defer Recovery,Deferred,1
+TX06095,7163.29,UPI,Authentication Failed,97.9,High,Generate Payment Link,Payment Link Created,1
+TX06831,16770.45,Card,Insufficient Funds,99.85,High,Retry Payment,Retry Initiated,1
+TX01081,12247.79,UPI,Technical Error,3.86,Low,Defer Recovery,Deferred,0
+TX02800,12315.51,NetBanking,Insufficient Funds,18.86,Low,Defer Recovery,Deferred,0
+TX06565,8295.63,Card,Authentication Failed,10.82,Low,Defer Recovery,Deferred,0
+TX06285,7448.96,UPI,Timeout,10.42,Low,Defer Recovery,Deferred,0
+TX09751,33821.97,Wallet,Timeout,45.61,Medium,Send Notification,Notification Sent,1
+TX06159,7024.92,Card,Bank Declined,10.97,Low,Defer Recovery,Deferred,1
+TX01596,11680.72,NetBanking,Bank Declined,43.59,Medium,Send Notification,Notification Sent,1
+TX01310,7929.44,Card,Technical Error,99.52,High,Retry Payment,Retry Initiated,1
+TX00797,35550.05,NetBanking,Technical Error,97.54,High,Generate Payment Link,Payment Link Created,0
+TX06752,1140.18,Card,Bank Declined,50.7,Medium,Send Notification,Notification Sent,1
+TX05197,47676.45,Card,Insufficient Funds,96.96,High,Generate Payment Link,Payment Link Created,1
+TX05814,43660.14,Card,Insufficient Funds,99.25,High,Retry Payment,Retry Initiated,1
+TX08326,37412.52,Card,Technical Error,4.54,Low,Defer Recovery,Deferred,0
+TX07792,40674.7,UPI,Authentication Failed,95.48,High,Generate Payment Link,Payment Link Created,0
+TX06649,21642.67,Card,Insufficient Funds,99.25,High,Generate Payment Link,Payment Link Created,1
+TX02548,25067.88,Card,Insufficient Funds,25.19,Low,Defer Recovery,Deferred,1
+TX01615,23035.67,Card,Bank Declined,96.85,High,Retry Payment,Retry Initiated,1
+TX04911,45620.26,Wallet,Insufficient Funds,2.98,Low,Defer Recovery,Deferred,1
+TX05069,32038.43,UPI,Timeout,1.46,Low,Defer Recovery,Deferred,0
+TX05299,46905.59,NetBanking,Timeout,99.69,High,Retry Payment,Retry Initiated,1
+TX02945,31625.56,Card,Bank Declined,5.09,Low,Defer Recovery,Deferred,0
+TX08200,5254.69,UPI,Insufficient Funds,98.89,High,Retry Payment,Retry Initiated,1
+TX08329,11433.61,NetBanking,Timeout,10.48,Low,Defer Recovery,Deferred,0
+TX03438,20718.4,UPI,Bank Declined,47.26,Medium,Send Notification,Notification Sent,1
+TX03734,2339.56,Card,Timeout,99.23,High,Generate Payment Link,Payment Link Created,1
+TX00838,30852.91,Wallet,Technical Error,7.26,Low,Defer Recovery,Deferred,0
+TX07970,304.66,Card,Technical Error,35.38,Low,Defer Recovery,Deferred,1
+TX06816,28321.66,UPI,Bank Declined,19.85,Low,Defer Recovery,Deferred,0
+TX05100,39224.68,UPI,Bank Declined,21.71,Low,Defer Recovery,Deferred,1
+TX09291,2120.98,UPI,Insufficient Funds,97.38,High,Generate Payment Link,Payment Link Created,1
+TX03307,11480.28,Card,Authentication Failed,0.65,Low,Defer Recovery,Deferred,0
+TX01802,45550.63,UPI,Authentication Failed,99.93,High,Retry Payment,Retry Initiated,1
+TX07451,36266.99,Wallet,Bank Declined,7.65,Low,Defer Recovery,Deferred,0
+TX09609,45784.28,Wallet,Authentication Failed,98.55,High,Generate Payment Link,Payment Link Created,0
+TX01809,30816.08,NetBanking,Bank Declined,99.44,High,Retry Payment,Retry Initiated,1
+TX03432,18745.15,Wallet,Bank Declined,32.76,Low,Defer Recovery,Deferred,1
+TX05635,21379.55,NetBanking,Authentication Failed,3.47,Low,Defer Recovery,Deferred,0
+TX02555,38511.64,UPI,Authentication Failed,99.22,High,Generate Payment Link,Payment Link Created,1
+TX04003,46894.45,NetBanking,Bank Declined,7.33,Low,Defer Recovery,Deferred,0
+TX07035,21534.5,Card,Timeout,14.14,Low,Defer Recovery,Deferred,0
+TX07107,9872.38,NetBanking,Bank Declined,99.16,High,Generate Payment Link,Payment Link Created,1
+TX03592,25210.64,Wallet,Technical Error,99.76,High,Retry Payment,Retry Initiated,1
+TX01036,27056.84,UPI,Bank Declined,97.3,High,Generate Payment Link,Payment Link Created,1
+TX07921,26913.01,Wallet,Bank Declined,7.39,Low,Defer Recovery,Deferred,0
+TX07025,30108.24,Card,Authentication Failed,35.86,Low,Defer Recovery,Deferred,1
+TX07157,46507.34,Card,Bank Declined,7.09,Low,Defer Recovery,Deferred,0
+TX09275,526.88,Wallet,Insufficient Funds,43.84,Medium,Send Notification,Notification Sent,0
+TX04890,43298.48,Wallet,Authentication Failed,99.77,High,Retry Payment,Retry Initiated,1
+TX05812,21072.48,NetBanking,Insufficient Funds,99.04,High,Generate Payment Link,Payment Link Created,0
+TX07537,14326.47,Card,Technical Error,13.23,Low,Defer Recovery,Deferred,0
+TX08925,1396.52,Wallet,Timeout,99.93,High,Retry Payment,Retry Initiated,1
+TX02036,5287.57,Card,Technical Error,17.12,Low,Defer Recovery,Deferred,1
+TX06204,47359.67,NetBanking,Bank Declined,99.87,High,Retry Payment,Retry Initiated,1
+TX09399,19769.11,NetBanking,Authentication Failed,57.06,Medium,Send Notification,Notification Sent,1
+TX08887,32633.49,NetBanking,Timeout,99.53,High,Generate Payment Link,Payment Link Created,1
+TX03552,8956.34,Wallet,Bank Declined,21.75,Low,Defer Recovery,Deferred,1
+TX00726,7301.17,UPI,Authentication Failed,98.53,High,Generate Payment Link,Payment Link Created,1
+TX09245,47607.72,UPI,Timeout,1.91,Low,Defer Recovery,Deferred,0
+TX00336,12013.71,UPI,Technical Error,4.88,Low,Defer Recovery,Deferred,0
+TX08003,47944.17,NetBanking,Insufficient Funds,95.17,High,Generate Payment Link,Payment Link Created,0
+TX07051,43056.67,UPI,Bank Declined,98.79,High,Retry Payment,Retry Initiated,1
+TX09680,41863.25,UPI,Bank Declined,1.61,Low,Defer Recovery,Deferred,0
+TX09648,20318.59,Wallet,Timeout,94.95,High,Generate Payment Link,Payment Link Created,1
+TX07622,29473.32,UPI,Authentication Failed,99.09,High,Generate Payment Link,Payment Link Created,0
+TX04994,8464.32,UPI,Authentication Failed,1.21,Low,Defer Recovery,Deferred,0
+TX08298,7126.51,UPI,Insufficient Funds,1.52,Low,Defer Recovery,Deferred,0
+TX06309,41583.07,UPI,Authentication Failed,97.64,High,Generate Payment Link,Payment Link Created,1
+TX05851,7560.48,Card,Bank Declined,10.59,Low,Defer Recovery,Deferred,1
+TX06772,14964.03,UPI,Bank Declined,1.87,Low,Defer Recovery,Deferred,0
+TX01988,30708.75,NetBanking,Technical Error,6.17,Low,Defer Recovery,Deferred,0
+TX03946,42648.04,UPI,Technical Error,13.8,Low,Defer Recovery,Deferred,0
+TX06389,27222.37,NetBanking,Bank Declined,17.42,Low,Defer Recovery,Deferred,0
+TX03667,15512.16,UPI,Technical Error,67.17,Medium,Send Notification,Notification Sent,1
+TX07438,33155.26,Card,Authentication Failed,29.97,Low,Defer Recovery,Deferred,0
+TX06528,36391.89,NetBanking,Authentication Failed,99.27,High,Generate Payment Link,Payment Link Created,1
+TX05848,17759.9,Wallet,Timeout,98.78,High,Generate Payment Link,Payment Link Created,1
+TX01497,12465.84,Wallet,Authentication Failed,3.3,Low,Defer Recovery,Deferred,1
+TX01328,1721.08,UPI,Authentication Failed,99.58,High,Generate Payment Link,Payment Link Created,1
+TX05830,34039.91,Wallet,Bank Declined,98.76,High,Retry Payment,Retry Initiated,1
+TX04012,30094.03,UPI,Technical Error,97.79,High,Generate Payment Link,Payment Link Created,0
+TX01273,14060.37,UPI,Authentication Failed,94.83,High,Generate Payment Link,Payment Link Created,0
+TX08834,44944.78,Card,Bank Declined,14.72,Low,Defer Recovery,Deferred,1
+TX03257,19904.78,NetBanking,Insufficient Funds,19.6,Low,Defer Recovery,Deferred,0
+TX03026,35206.06,Wallet,Insufficient Funds,99.96,High,Retry Payment,Retry Initiated,1
+TX00229,48041.24,NetBanking,Timeout,4.28,Low,Defer Recovery,Deferred,1
+TX09300,31451.15,NetBanking,Authentication Failed,99.64,High,Retry Payment,Retry Initiated,1
+TX07227,17125.98,Card,Authentication Failed,10.91,Low,Defer Recovery,Deferred,0
+TX02116,22175.45,UPI,Technical Error,99.68,High,Retry Payment,Retry Initiated,1
+TX08555,8285.59,Card,Insufficient Funds,99.22,High,Retry Payment,Retry Initiated,1
+TX06395,2198.04,Wallet,Authentication Failed,3.82,Low,Defer Recovery,Deferred,0
+TX02718,43840.37,NetBanking,Authentication Failed,98.92,High,Retry Payment,Retry Initiated,1
+TX02969,34185.17,NetBanking,Authentication Failed,1.98,Low,Defer Recovery,Deferred,0
+TX03064,4828.95,Wallet,Authentication Failed,99.94,High,Retry Payment,Retry Initiated,1
+TX06866,286.88,UPI,Technical Error,2.88,Low,Defer Recovery,Deferred,0
+TX03078,10443.4,Wallet,Insufficient Funds,98.86,High,Generate Payment Link,Payment Link Created,1
+TX05341,12664.24,Wallet,Bank Declined,11.74,Low,Defer Recovery,Deferred,1
+TX02247,27076.49,UPI,Authentication Failed,1.33,Low,Defer Recovery,Deferred,0
+TX07462,27127.91,UPI,Bank Declined,16.83,Low,Defer Recovery,Deferred,0
+TX09778,39558.33,UPI,Technical Error,99.2,High,Generate Payment Link,Payment Link Created,1
+TX00177,2064.16,NetBanking,Insufficient Funds,24.38,Low,Defer Recovery,Deferred,1
+TX05203,35309.23,UPI,Technical Error,99.72,High,Retry Payment,Retry Initiated,1
+TX09369,3761.86,Wallet,Technical Error,11.67,Low,Defer Recovery,Deferred,0
+TX02205,12375.39,Card,Authentication Failed,1.98,Low,Defer Recovery,Deferred,0
+TX01619,8133.12,UPI,Bank Declined,17.76,Low,Defer Recovery,Deferred,0
+TX07529,17335.29,Wallet,Timeout,99.08,High,Retry Payment,Retry Initiated,1
+TX00861,2588.02,UPI,Insufficient Funds,46.59,Medium,Send Notification,Notification Sent,1
+TX08493,11498.08,UPI,Technical Error,6.04,Low,Defer Recovery,Deferred,1
+TX05564,14335.37,Card,Technical Error,2.3,Low,Defer Recovery,Deferred,0
+TX06420,42586.79,NetBanking,Authentication Failed,7.97,Low,Defer Recovery,Deferred,1
+TX00581,22453.79,NetBanking,Insufficient Funds,99.59,High,Generate Payment Link,Payment Link Created,1
+TX09585,49725.8,NetBanking,Insufficient Funds,99.77,High,Retry Payment,Retry Initiated,1
+TX04283,24467.91,Wallet,Technical Error,98.73,High,Generate Payment Link,Payment Link Created,1
+TX03219,39311.84,UPI,Insufficient Funds,99.23,High,Retry Payment,Retry Initiated,1
+TX08939,11252.59,NetBanking,Authentication Failed,1.16,Low,Defer Recovery,Deferred,0
+TX00986,36161.91,NetBanking,Timeout,49.61,Medium,Send Notification,Notification Sent,1
+TX06214,1478.83,Wallet,Technical Error,1.13,Low,Defer Recovery,Deferred,0
+TX01209,4165.55,Card,Insufficient Funds,99.92,High,Retry Payment,Retry Initiated,1
+TX01827,33683.11,UPI,Authentication Failed,14.82,Low,Defer Recovery,Deferred,1
+TX09889,9360.45,UPI,Authentication Failed,20.25,Low,Defer Recovery,Deferred,0
+TX08622,41410.73,UPI,Authentication Failed,10.05,Low,Defer Recovery,Deferred,0
+TX04859,22218.35,Card,Authentication Failed,29.72,Low,Defer Recovery,Deferred,0
+TX09092,43247.42,UPI,Bank Declined,21.91,Low,Defer Recovery,Deferred,1
+TX05152,19957.86,Card,Timeout,99.2,High,Generate Payment Link,Payment Link Created,1
+TX05799,42966.41,UPI,Timeout,99.77,High,Retry Payment,Retry Initiated,1
+TX08891,19479.51,Card,Insufficient Funds,18.46,Low,Defer Recovery,Deferred,1
+TX05278,27313.61,UPI,Timeout,3.84,Low,Defer Recovery,Deferred,0
+TX03532,4647.75,NetBanking,Insufficient Funds,99.22,High,Generate Payment Link,Payment Link Created,1
+TX02576,44067.15,Wallet,Authentication Failed,12.01,Low,Defer Recovery,Deferred,0
+TX02142,2289.67,Card,Insufficient Funds,2.66,Low,Defer Recovery,Deferred,0
+TX09028,23515.32,Wallet,Authentication Failed,8.4,Low,Defer Recovery,Deferred,0
+TX05759,45520.06,NetBanking,Insufficient Funds,10.26,Low,Defer Recovery,Deferred,0
+TX07002,40122.92,Wallet,Insufficient Funds,99.4,High,Generate Payment Link,Payment Link Created,1
+TX01554,6602.87,NetBanking,Insufficient Funds,1.9,Low,Defer Recovery,Deferred,0
+TX08496,44440.77,Wallet,Insufficient Funds,4.88,Low,Defer Recovery,Deferred,0
+TX09323,32796.1,NetBanking,Technical Error,17.97,Low,Defer Recovery,Deferred,1
+TX06838,34748.36,Wallet,Timeout,1.85,Low,Defer Recovery,Deferred,0
+TX06007,18616.13,UPI,Technical Error,99.19,High,Retry Payment,Retry Initiated,1
+TX06561,15547.51,UPI,Timeout,16.53,Low,Defer Recovery,Deferred,1
+TX06178,36562.27,UPI,Authentication Failed,6.83,Low,Defer Recovery,Deferred,0
+TX08160,15921.98,Card,Technical Error,3.74,Low,Defer Recovery,Deferred,0
+TX07059,33252.33,Wallet,Authentication Failed,99.32,High,Generate Payment Link,Payment Link Created,1
+TX02204,47450.92,Card,Insufficient Funds,29.03,Low,Defer Recovery,Deferred,0
+TX07663,38139.71,Wallet,Insufficient Funds,99.77,High,Retry Payment,Retry Initiated,1
+TX08406,12244.15,Wallet,Authentication Failed,3.24,Low,Defer Recovery,Deferred,0
+TX08024,3417.89,NetBanking,Authentication Failed,95.29,High,Generate Payment Link,Payment Link Created,0
+TX09355,44465.9,Wallet,Technical Error,6.49,Low,Defer Recovery,Deferred,0
+TX04683,20795.32,Wallet,Authentication Failed,99.35,High,Retry Payment,Retry Initiated,1
+TX02523,2911.03,UPI,Bank Declined,97.08,High,Generate Payment Link,Payment Link Created,1
+TX04176,27487.2,Wallet,Technical Error,99.45,High,Retry Payment,Retry Initiated,1
+TX09440,20413.89,Wallet,Bank Declined,98.42,High,Generate Payment Link,Payment Link Created,1
+TX09473,29590.24,NetBanking,Authentication Failed,99.29,High,Retry Payment,Retry Initiated,1
+TX02919,39739.77,Card,Authentication Failed,99.72,High,Generate Payment Link,Payment Link Created,1
+TX06495,45187.61,UPI,Authentication Failed,23.74,Low,Defer Recovery,Deferred,1
+TX05873,43515.75,Wallet,Insufficient Funds,2.47,Low,Defer Recovery,Deferred,0
+TX01074,7366.87,NetBanking,Insufficient Funds,99.68,High,Retry Payment,Retry Initiated,1
+TX03140,43006.74,UPI,Technical Error,9.1,Low,Defer Recovery,Deferred,1
+TX10000,41376.62,Wallet,Bank Declined,99.88,High,Retry Payment,Retry Initiated,1
+TX00070,47072.59,UPI,Insufficient Funds,99.39,High,Retry Payment,Retry Initiated,1
+TX05207,47785.51,Card,Timeout,98.15,High,Generate Payment Link,Payment Link Created,1
+TX09633,5368.58,UPI,Bank Declined,98.7,High,Generate Payment Link,Payment Link Created,1
+TX00620,34165.29,NetBanking,Insufficient Funds,5.65,Low,Defer Recovery,Deferred,0
+TX09251,49463.89,NetBanking,Timeout,31.4,Low,Defer Recovery,Deferred,1
+TX04787,7524.54,UPI,Insufficient Funds,39.77,Low,Defer Recovery,Deferred,1
+TX08822,38192.72,UPI,Authentication Failed,12.07,Low,Defer Recovery,Deferred,0
+TX08142,17408.16,UPI,Technical Error,61.0,Medium,Send Notification,Notification Sent,1
+TX04245,26052.13,NetBanking,Authentication Failed,99.53,High,Generate Payment Link,Payment Link Created,1
+TX03935,40973.46,UPI,Timeout,25.75,Low,Defer Recovery,Deferred,1
+TX05555,45453.48,NetBanking,Timeout,8.81,Low,Defer Recovery,Deferred,0
+TX04230,49921.22,Wallet,Authentication Failed,97.56,High,Generate Payment Link,Payment Link Created,1
+TX08626,4135.4,Wallet,Insufficient Funds,99.56,High,Generate Payment Link,Payment Link Created,1
+TX01538,8998.74,Card,Technical Error,6.08,Low,Defer Recovery,Deferred,1
+TX06189,1253.03,UPI,Timeout,99.86,High,Retry Payment,Retry Initiated,1
+TX04214,40502.75,Card,Insufficient Funds,6.65,Low,Defer Recovery,Deferred,0
+TX04968,24901.48,Card,Insufficient Funds,19.47,Low,Defer Recovery,Deferred,0
+TX00167,9040.28,Card,Technical Error,8.34,Low,Defer Recovery,Deferred,1
+TX03795,36641.3,Wallet,Timeout,1.97,Low,Defer Recovery,Deferred,1
+TX06890,46405.66,Wallet,Timeout,10.73,Low,Defer Recovery,Deferred,0
+TX07980,49882.75,Card,Technical Error,99.63,High,Retry Payment,Retry Initiated,1
+TX08592,12421.13,Card,Bank Declined,3.77,Low,Defer Recovery,Deferred,0
+TX00187,38118.31,UPI,Authentication Failed,26.54,Low,Defer Recovery,Deferred,1
+TX03234,32366.39,UPI,Technical Error,99.78,High,Generate Payment Link,Payment Link Created,1
+TX04873,1767.56,Card,Insufficient Funds,11.6,Low,Defer Recovery,Deferred,0
+TX07899,47954.45,Wallet,Timeout,11.78,Low,Defer Recovery,Deferred,0
+TX00157,14963.18,UPI,Authentication Failed,99.15,High,Generate Payment Link,Payment Link Created,1
+TX02529,8319.42,Card,Technical Error,0.78,Low,Defer Recovery,Deferred,0
+TX07423,12836.04,Card,Insufficient Funds,67.04,Medium,Send Notification,Notification Sent,1
+TX06874,47344.88,Card,Authentication Failed,9.55,Low,Defer Recovery,Deferred,0
+TX01213,23387.49,UPI,Insufficient Funds,4.41,Low,Defer Recovery,Deferred,0
+TX03607,11081.31,Card,Timeout,99.76,High,Retry Payment,Retry Initiated,1
+TX05344,26247.26,NetBanking,Insufficient Funds,7.61,Low,Defer Recovery,Deferred,0
+TX00373,30523.13,UPI,Bank Declined,13.7,Low,Defer Recovery,Deferred,0
+TX01061,28123.57,NetBanking,Bank Declined,8.4,Low,Defer Recovery,Deferred,1
+TX09375,43515.4,NetBanking,Technical Error,23.79,Low,Defer Recovery,Deferred,1
+TX01517,33321.69,Card,Authentication Failed,99.78,High,Generate Payment Link,Payment Link Created,1
+TX06278,30642.76,NetBanking,Bank Declined,99.26,High,Retry Payment,Retry Initiated,1
+TX05900,46211.48,Wallet,Insufficient Funds,24.74,Low,Defer Recovery,Deferred,0
+TX06351,6756.62,UPI,Bank Declined,99.61,High,Generate Payment Link,Payment Link Created,1
+TX09740,43105.22,Card,Insufficient Funds,91.89,High,Generate Payment Link,Payment Link Created,0
+TX04471,9114.68,Wallet,Technical Error,24.24,Low,Defer Recovery,Deferred,0
+TX00220,47240.9,Wallet,Bank Declined,38.05,Low,Defer Recovery,Deferred,1
+TX07265,15715.99,Card,Bank Declined,6.59,Low,Defer Recovery,Deferred,0
+TX06593,18824.53,Wallet,Technical Error,99.73,High,Generate Payment Link,Payment Link Created,1
+TX03881,8351.98,UPI,Bank Declined,99.2,High,Generate Payment Link,Payment Link Created,1
+TX08056,21768.41,Wallet,Authentication Failed,20.63,Low,Defer Recovery,Deferred,0
+TX04525,24231.29,Card,Bank Declined,99.06,High,Retry Payment,Retry Initiated,1
+TX04759,29995.06,Card,Timeout,91.01,High,Generate Payment Link,Payment Link Created,0
+TX01467,37004.21,Card,Bank Declined,14.63,Low,Defer Recovery,Deferred,0
+TX09090,32171.59,UPI,Authentication Failed,3.37,Low,Defer Recovery,Deferred,1
+TX08235,45069.34,Card,Technical Error,1.28,Low,Defer Recovery,Deferred,0
+TX01589,23021.37,Wallet,Timeout,11.0,Low,Defer Recovery,Deferred,1
+TX07780,5435.59,Wallet,Insufficient Funds,23.79,Low,Defer Recovery,Deferred,1
+TX06073,14241.54,NetBanking,Timeout,98.84,High,Retry Payment,Retry Initiated,0
+TX05842,35149.57,NetBanking,Technical Error,8.17,Low,Defer Recovery,Deferred,0
+TX07746,47996.19,NetBanking,Authentication Failed,54.98,Medium,Send Notification,Notification Sent,1
+TX06671,43518.26,Wallet,Timeout,3.33,Low,Defer Recovery,Deferred,0
+TX02989,40078.46,Card,Authentication Failed,28.55,Low,Defer Recovery,Deferred,1
+TX07615,10968.18,Card,Timeout,95.87,High,Generate Payment Link,Payment Link Created,0
+TX01684,26388.18,Wallet,Timeout,0.68,Low,Defer Recovery,Deferred,0
+TX07252,17836.93,Wallet,Technical Error,1.61,Low,Defer Recovery,Deferred,0
+TX09064,12967.71,Wallet,Technical Error,12.34,Low,Defer Recovery,Deferred,0
+TX00391,25256.23,Wallet,Insufficient Funds,14.02,Low,Defer Recovery,Deferred,1
+TX08773,10310.81,Card,Bank Declined,23.27,Low,Defer Recovery,Deferred,1
+TX06612,37282.12,UPI,Technical Error,11.37,Low,Defer Recovery,Deferred,1
+TX06120,25559.78,Card,Authentication Failed,25.07,Low,Defer Recovery,Deferred,1
+TX00109,20059.15,UPI,Timeout,22.0,Low,Defer Recovery,Deferred,1
+TX09603,9580.83,UPI,Bank Declined,2.73,Low,Defer Recovery,Deferred,1
+TX04645,46270.71,Card,Bank Declined,99.88,High,Retry Payment,Retry Initiated,1
+TX02520,2287.96,NetBanking,Bank Declined,12.09,Low,Defer Recovery,Deferred,1
+TX06878,1985.43,UPI,Bank Declined,13.11,Low,Defer Recovery,Deferred,1
+TX03069,14511.62,NetBanking,Authentication Failed,23.72,Low,Defer Recovery,Deferred,1
+TX07774,39202.77,UPI,Timeout,3.4,Low,Defer Recovery,Deferred,0
+TX00934,46814.54,Card,Bank Declined,9.6,Low,Defer Recovery,Deferred,1
+TX04124,34529.22,NetBanking,Timeout,99.93,High,Retry Payment,Retry Initiated,1
+TX00004,14167.73,Card,Technical Error,96.44,High,Generate Payment Link,Payment Link Created,1
+TX02058,37511.31,Wallet,Insufficient Funds,99.93,High,Retry Payment,Retry Initiated,1
+TX02941,16882.01,Wallet,Bank Declined,99.11,High,Retry Payment,Retry Initiated,1
+TX06513,17210.32,Card,Technical Error,36.77,Low,Defer Recovery,Deferred,1
+TX00232,12955.84,NetBanking,Technical Error,14.76,Low,Defer Recovery,Deferred,1
+TX03190,10136.71,NetBanking,Timeout,94.59,High,Generate Payment Link,Payment Link Created,1
+TX02920,5038.53,NetBanking,Authentication Failed,98.66,High,Generate Payment Link,Payment Link Created,1
+TX07143,26722.08,UPI,Authentication Failed,15.92,Low,Defer Recovery,Deferred,1
+TX03948,19697.48,UPI,Insufficient Funds,99.41,High,Retry Payment,Retry Initiated,1
+TX09081,7766.21,Wallet,Bank Declined,97.09,High,Generate Payment Link,Payment Link Created,1
+TX04699,47859.64,Wallet,Authentication Failed,34.24,Low,Defer Recovery,Deferred,1
+TX01144,10851.6,Wallet,Bank Declined,15.32,Low,Defer Recovery,Deferred,1
+TX06822,20861.9,UPI,Authentication Failed,29.39,Low,Defer Recovery,Deferred,0
+TX04312,42226.06,Wallet,Technical Error,34.34,Low,Defer Recovery,Deferred,1
+TX02837,30190.39,UPI,Bank Declined,98.32,High,Retry Payment,Retry Initiated,1
+TX05871,1985.37,Card,Technical Error,99.66,High,Generate Payment Link,Payment Link Created,1
+TX05249,206.83,Card,Timeout,96.28,High,Generate Payment Link,Payment Link Created,1
+TX04047,38481.58,UPI,Authentication Failed,99.88,High,Retry Payment,Retry Initiated,1
+TX04059,13768.35,Wallet,Timeout,35.3,Low,Defer Recovery,Deferred,1
+TX08594,39849.39,Card,Bank Declined,99.85,High,Retry Payment,Retry Initiated,1
+TX00267,13116.38,NetBanking,Timeout,10.58,Low,Defer Recovery,Deferred,0
+TX04634,46645.68,Card,Authentication Failed,18.13,Low,Defer Recovery,Deferred,0
+TX07617,31461.92,NetBanking,Timeout,22.14,Low,Defer Recovery,Deferred,0
+TX04208,21493.38,NetBanking,Authentication Failed,12.58,Low,Defer Recovery,Deferred,1
+TX04564,16513.1,Wallet,Timeout,99.26,High,Retry Payment,Retry Initiated,1
+TX09942,33568.9,UPI,Bank Declined,2.24,Low,Defer Recovery,Deferred,0
+TX07883,18386.19,UPI,Authentication Failed,99.62,High,Generate Payment Link,Payment Link Created,1
+TX01758,17077.13,Card,Bank Declined,17.86,Low,Defer Recovery,Deferred,1
+TX04736,48647.43,Card,Insufficient Funds,7.87,Low,Defer Recovery,Deferred,0
+TX07550,17394.24,Card,Technical Error,13.74,Low,Defer Recovery,Deferred,1
+TX09162,24501.97,NetBanking,Technical Error,8.17,Low,Defer Recovery,Deferred,1
+TX03947,38766.68,UPI,Technical Error,6.85,Low,Defer Recovery,Deferred,0
+TX08229,28315.63,Card,Timeout,34.18,Low,Defer Recovery,Deferred,1
+TX03782,28971.41,Card,Insufficient Funds,99.65,High,Retry Payment,Retry Initiated,1
+TX04216,38312.64,Wallet,Technical Error,1.56,Low,Defer Recovery,Deferred,0
+TX08305,46680.29,Wallet,Insufficient Funds,3.15,Low,Defer Recovery,Deferred,0
+TX06355,3023.69,NetBanking,Timeout,7.22,Low,Defer Recovery,Deferred,1
+TX09400,8588.33,NetBanking,Insufficient Funds,9.91,Low,Defer Recovery,Deferred,0
+TX08353,11823.93,Card,Authentication Failed,16.89,Low,Defer Recovery,Deferred,1
+TX09571,17337.77,NetBanking,Timeout,94.22,High,Generate Payment Link,Payment Link Created,0
+TX02269,34403.1,Wallet,Bank Declined,7.52,Low,Defer Recovery,Deferred,0
+TX04405,16184.69,NetBanking,Insufficient Funds,6.14,Low,Defer Recovery,Deferred,0
+TX09544,49214.06,Card,Insufficient Funds,16.13,Low,Defer Recovery,Deferred,1
+TX09356,49668.71,Card,Bank Declined,99.03,High,Retry Payment,Retry Initiated,1
+TX00525,28681.24,NetBanking,Insufficient Funds,4.6,Low,Defer Recovery,Deferred,0
+TX00908,5051.96,Card,Bank Declined,97.91,High,Generate Payment Link,Payment Link Created,1
+TX07785,44326.16,NetBanking,Technical Error,63.99,Medium,Send Notification,Notification Sent,1
+TX01108,18399.42,Card,Bank Declined,19.67,Low,Defer Recovery,Deferred,1
+TX04402,36044.11,Card,Authentication Failed,20.92,Low,Defer Recovery,Deferred,1
+TX06964,38234.6,Card,Timeout,20.38,Low,Defer Recovery,Deferred,1
+TX07061,1996.09,UPI,Technical Error,99.85,High,Retry Payment,Retry Initiated,1
+TX00259,24260.23,NetBanking,Timeout,99.85,High,Generate Payment Link,Payment Link Created,1
+TX05937,32765.61,Wallet,Bank Declined,19.0,Low,Defer Recovery,Deferred,1
+TX07845,274.88,Wallet,Timeout,6.8,Low,Defer Recovery,Deferred,0
+TX04632,15409.03,UPI,Authentication Failed,62.15,Medium,Send Notification,Notification Sent,1
+TX06142,18904.09,UPI,Technical Error,11.96,Low,Defer Recovery,Deferred,1
+TX04595,9483.25,NetBanking,Authentication Failed,49.84,Medium,Send Notification,Notification Sent,1
+TX00789,5047.39,Wallet,Technical Error,99.86,High,Generate Payment Link,Payment Link Created,1
+TX03710,15161.55,NetBanking,Authentication Failed,99.46,High,Retry Payment,Retry Initiated,1
+TX02399,30512.44,UPI,Timeout,13.58,Low,Defer Recovery,Deferred,1
+TX03356,14168.65,Card,Bank Declined,97.62,High,Generate Payment Link,Payment Link Created,1
+TX00430,3856.41,UPI,Bank Declined,11.75,Low,Defer Recovery,Deferred,1
+TX08994,5614.02,Card,Timeout,97.24,High,Generate Payment Link,Payment Link Created,1
+TX04159,36001.56,UPI,Insufficient Funds,99.8,High,Retry Payment,Retry Initiated,1
+TX03463,17290.84,Wallet,Timeout,6.35,Low,Defer Recovery,Deferred,0
+TX01500,36451.85,Wallet,Bank Declined,35.16,Low,Defer Recovery,Deferred,1
+TX02918,5553.04,UPI,Bank Declined,15.9,Low,Defer Recovery,Deferred,1
+TX06503,45898.35,UPI,Technical Error,71.33,Medium,Send Notification,Notification Sent,1
+TX05306,22466.51,Card,Technical Error,17.63,Low,Defer Recovery,Deferred,0
+TX08340,41658.87,NetBanking,Authentication Failed,98.95,High,Retry Payment,Retry Initiated,1
+TX07930,32271.37,Wallet,Authentication Failed,7.68,Low,Defer Recovery,Deferred,1
+TX08952,16295.14,NetBanking,Authentication Failed,34.49,Low,Defer Recovery,Deferred,1
+TX05263,40719.44,Wallet,Authentication Failed,55.4,Medium,Send Notification,Notification Sent,1
+TX07146,20611.02,NetBanking,Timeout,51.77,Medium,Send Notification,Notification Sent,1
+TX02875,32773.31,UPI,Technical Error,11.51,Low,Defer Recovery,Deferred,0
+TX01953,7826.65,Wallet,Authentication Failed,99.84,High,Retry Payment,Retry Initiated,1
+TX05412,3643.24,Wallet,Insufficient Funds,99.77,High,Retry Payment,Retry Initiated,1
+TX09784,21213.36,NetBanking,Bank Declined,1.25,Low,Defer Recovery,Deferred,0
+TX01587,19009.9,UPI,Authentication Failed,99.9,High,Retry Payment,Retry Initiated,1
+TX07431,30317.96,UPI,Insufficient Funds,4.67,Low,Defer Recovery,Deferred,0
+TX04107,26652.69,NetBanking,Authentication Failed,97.72,High,Retry Payment,Retry Initiated,0
+TX06165,13197.97,Wallet,Insufficient Funds,99.67,High,Retry Payment,Retry Initiated,1
+TX07916,18067.27,Wallet,Technical Error,97.17,High,Generate Payment Link,Payment Link Created,1
+TX09002,3259.63,Card,Authentication Failed,98.03,High,Generate Payment Link,Payment Link Created,1
+TX08920,38441.41,NetBanking,Timeout,99.46,High,Retry Payment,Retry Initiated,1
+TX01024,40111.11,NetBanking,Technical Error,2.26,Low,Defer Recovery,Deferred,0
+TX09521,13732.85,Card,Bank Declined,98.4,High,Generate Payment Link,Payment Link Created,0
+TX05169,5539.1,Wallet,Insufficient Funds,29.99,Low,Defer Recovery,Deferred,1
+TX09417,3092.97,Wallet,Timeout,3.68,Low,Defer Recovery,Deferred,0
+TX03919,22768.11,Wallet,Insufficient Funds,26.0,Low,Defer Recovery,Deferred,1
+TX06868,5447.12,Card,Authentication Failed,1.75,Low,Defer Recovery,Deferred,0
+TX00122,33101.0,NetBanking,Insufficient Funds,52.94,Medium,Send Notification,Notification Sent,1
+TX07430,5134.35,Wallet,Timeout,2.93,Low,Defer Recovery,Deferred,0
+TX03455,19719.2,Wallet,Timeout,38.58,Low,Defer Recovery,Deferred,1
+TX06043,33169.85,Wallet,Insufficient Funds,1.12,Low,Defer Recovery,Deferred,0
+TX05546,2493.58,NetBanking,Timeout,92.99,High,Generate Payment Link,Payment Link Created,1
+TX08293,9288.09,NetBanking,Technical Error,9.8,Low,Defer Recovery,Deferred,1
+TX08964,28192.78,UPI,Bank Declined,99.9,High,Retry Payment,Retry Initiated,1
+TX02452,2852.31,NetBanking,Timeout,99.74,High,Retry Payment,Retry Initiated,1
+TX02476,42015.91,Wallet,Bank Declined,1.08,Low,Defer Recovery,Deferred,0
+TX02711,47210.33,Wallet,Bank Declined,99.88,High,Retry Payment,Retry Initiated,1
+TX02743,6904.92,Wallet,Authentication Failed,99.68,High,Retry Payment,Retry Initiated,1
+TX09126,44432.74,Wallet,Authentication Failed,17.52,Low,Defer Recovery,Deferred,0
+TX03208,22117.36,NetBanking,Timeout,99.95,High,Retry Payment,Retry Initiated,1
+TX03450,27147.46,UPI,Insufficient Funds,99.82,High,Generate Payment Link,Payment Link Created,1
+TX06314,23817.12,Card,Insufficient Funds,99.71,High,Retry Payment,Retry Initiated,1
+TX02799,217.14,Card,Authentication Failed,96.41,High,Generate Payment Link,Payment Link Created,1
+TX05813,28896.16,NetBanking,Technical Error,21.97,Low,Defer Recovery,Deferred,1
+TX09777,4733.69,Card,Insufficient Funds,31.79,Low,Defer Recovery,Deferred,0
+TX04395,27272.11,NetBanking,Bank Declined,2.71,Low,Defer Recovery,Deferred,0
+TX06196,25492.92,Wallet,Authentication Failed,99.0,High,Retry Payment,Retry Initiated,1
+TX07468,41138.87,NetBanking,Bank Declined,99.72,High,Retry Payment,Retry Initiated,1
+TX09765,40959.76,Wallet,Authentication Failed,19.92,Low,Defer Recovery,Deferred,0
+TX09955,46661.39,Wallet,Timeout,99.85,High,Retry Payment,Retry Initiated,1
+TX04234,42828.63,UPI,Insufficient Funds,99.92,High,Retry Payment,Retry Initiated,1
+TX01939,24573.41,UPI,Bank Declined,99.8,High,Retry Payment,Retry Initiated,1
+TX03874,29425.95,Wallet,Authentication Failed,1.22,Low,Defer Recovery,Deferred,0
+TX08423,41729.35,NetBanking,Authentication Failed,99.03,High,Generate Payment Link,Payment Link Created,0
+TX05240,3710.19,Wallet,Insufficient Funds,99.65,High,Retry Payment,Retry Initiated,1
+TX09238,17660.06,Wallet,Timeout,14.24,Low,Defer Recovery,Deferred,1
+TX03301,38792.93,Wallet,Bank Declined,10.2,Low,Defer Recovery,Deferred,1
+TX04732,18446.14,NetBanking,Authentication Failed,58.77,Medium,Send Notification,Notification Sent,1
+TX06903,8809.84,Wallet,Technical Error,24.1,Low,Defer Recovery,Deferred,1
+TX07672,49202.51,NetBanking,Insufficient Funds,5.22,Low,Defer Recovery,Deferred,0
+TX03612,10815.75,NetBanking,Bank Declined,99.26,High,Retry Payment,Retry Initiated,0
+TX07621,11729.2,Card,Technical Error,18.96,Low,Defer Recovery,Deferred,1
+TX09508,44447.92,Card,Timeout,97.42,High,Generate Payment Link,Payment Link Created,1
+TX09656,43436.42,Wallet,Insufficient Funds,43.4,Medium,Send Notification,Notification Sent,1
+TX06084,47062.9,NetBanking,Authentication Failed,11.14,Low,Defer Recovery,Deferred,1
+TX04170,36641.81,UPI,Insufficient Funds,99.47,High,Retry Payment,Retry Initiated,1
+TX05085,26111.26,Wallet,Insufficient Funds,12.9,Low,Defer Recovery,Deferred,0
+TX00830,17144.36,NetBanking,Timeout,16.32,Low,Defer Recovery,Deferred,1
+TX06230,47585.02,Wallet,Authentication Failed,99.08,High,Generate Payment Link,Payment Link Created,1
+TX05430,20532.59,NetBanking,Insufficient Funds,15.45,Low,Defer Recovery,Deferred,1
+TX04353,25657.28,Card,Insufficient Funds,41.57,Medium,Send Notification,Notification Sent,1
+TX09442,26713.01,NetBanking,Technical Error,3.14,Low,Defer Recovery,Deferred,0
+TX06376,14754.45,Card,Technical Error,99.68,High,Generate Payment Link,Payment Link Created,1
+TX01434,22159.1,UPI,Authentication Failed,99.71,High,Retry Payment,Retry Initiated,1
+TX05535,46840.73,UPI,Bank Declined,94.98,High,Generate Payment Link,Payment Link Created,0
+TX01810,2073.92,Card,Insufficient Funds,94.93,High,Generate Payment Link,Payment Link Created,1
+TX03950,23270.15,UPI,Bank Declined,99.89,High,Retry Payment,Retry Initiated,1
+TX08169,27920.16,NetBanking,Technical Error,18.0,Low,Defer Recovery,Deferred,0
+TX04090,3896.63,UPI,Technical Error,97.29,High,Generate Payment Link,Payment Link Created,1
+TX06364,41461.97,NetBanking,Insufficient Funds,99.92,High,Retry Payment,Retry Initiated,1
+TX06115,39819.06,Wallet,Authentication Failed,29.43,Low,Defer Recovery,Deferred,1
+TX04506,3668.0,UPI,Bank Declined,1.03,Low,Defer Recovery,Deferred,0
+TX05111,35368.85,UPI,Insufficient Funds,99.1,High,Retry Payment,Retry Initiated,1
+TX02981,4243.63,UPI,Bank Declined,3.3,Low,Defer Recovery,Deferred,1
+TX06407,10890.02,Card,Timeout,99.89,High,Retry Payment,Retry Initiated,1
+TX01076,32176.05,NetBanking,Technical Error,99.97,High,Retry Payment,Retry Initiated,1
+TX08787,30967.99,UPI,Insufficient Funds,16.19,Low,Defer Recovery,Deferred,1
+TX04957,31816.11,NetBanking,Technical Error,37.68,Low,Defer Recovery,Deferred,1
+TX06006,10319.6,NetBanking,Authentication Failed,42.98,Medium,Send Notification,Notification Sent,1
+TX04616,37433.27,Wallet,Authentication Failed,22.19,Low,Defer Recovery,Deferred,1
+TX05743,40721.94,NetBanking,Authentication Failed,99.94,High,Retry Payment,Retry Initiated,1
+TX08403,12941.37,Wallet,Technical Error,98.5,High,Generate Payment Link,Payment Link Created,1
+TX05736,18810.73,Wallet,Authentication Failed,19.37,Low,Defer Recovery,Deferred,1
+TX05544,28284.43,NetBanking,Bank Declined,1.58,Low,Defer Recovery,Deferred,0
+TX07314,32331.23,Wallet,Authentication Failed,99.95,High,Retry Payment,Retry Initiated,1
+TX03158,29487.91,NetBanking,Timeout,5.02,Low,Defer Recovery,Deferred,0
+TX00651,12716.59,Card,Insufficient Funds,3.95,Low,Defer Recovery,Deferred,0
+TX05436,20154.75,Card,Bank Declined,99.07,High,Generate Payment Link,Payment Link Created,1
+TX07494,44532.07,Card,Authentication Failed,6.33,Low,Defer Recovery,Deferred,0
+TX09781,26915.45,UPI,Technical Error,9.54,Low,Defer Recovery,Deferred,0
+TX01114,19572.9,Card,Technical Error,19.11,Low,Defer Recovery,Deferred,1
+TX07098,49162.48,UPI,Timeout,14.48,Low,Defer Recovery,Deferred,1
+TX07437,14541.32,Wallet,Authentication Failed,99.88,High,Retry Payment,Retry Initiated,1
+TX09396,37882.61,UPI,Technical Error,99.76,High,Retry Payment,Retry Initiated,1
+TX05112,39541.33,UPI,Insufficient Funds,53.11,Medium,Send Notification,Notification Sent,1
+TX00634,34365.26,UPI,Timeout,6.27,Low,Defer Recovery,Deferred,0
+TX04130,45752.82,NetBanking,Insufficient Funds,93.98,High,Generate Payment Link,Payment Link Created,0
+TX02999,20471.05,Wallet,Technical Error,96.95,High,Generate Payment Link,Payment Link Created,1
+TX05767,19425.83,Card,Insufficient Funds,99.55,High,Generate Payment Link,Payment Link Created,1
+TX02971,47535.26,NetBanking,Insufficient Funds,94.79,High,Generate Payment Link,Payment Link Created,0
+TX00465,2093.4,NetBanking,Insufficient Funds,97.12,High,Generate Payment Link,Payment Link Created,0
+TX03796,38869.62,NetBanking,Insufficient Funds,34.07,Low,Defer Recovery,Deferred,0
+TX01503,25134.79,NetBanking,Timeout,99.21,High,Generate Payment Link,Payment Link Created,1
+TX09908,38679.62,NetBanking,Technical Error,13.14,Low,Defer Recovery,Deferred,1
+TX01092,16926.9,Card,Timeout,27.09,Low,Defer Recovery,Deferred,1
+TX03351,21895.18,Wallet,Technical Error,4.45,Low,Defer Recovery,Deferred,0
+TX01062,8623.6,UPI,Authentication Failed,4.18,Low,Defer Recovery,Deferred,1
+TX02267,49356.29,NetBanking,Technical Error,3.19,Low,Defer Recovery,Deferred,0
+TX01178,16054.07,Card,Authentication Failed,7.82,Low,Defer Recovery,Deferred,1
+TX05985,13700.13,NetBanking,Timeout,1.36,Low,Defer Recovery,Deferred,0
+TX02996,15330.21,NetBanking,Technical Error,95.88,High,Generate Payment Link,Payment Link Created,0
+TX09554,19570.78,Card,Technical Error,99.76,High,Retry Payment,Retry Initiated,1
+TX06239,39983.37,Wallet,Insufficient Funds,98.72,High,Generate Payment Link,Payment Link Created,1
+TX09186,32524.56,Card,Insufficient Funds,99.86,High,Retry Payment,Retry Initiated,1
+TX04457,3169.14,Wallet,Insufficient Funds,99.96,High,Retry Payment,Retry Initiated,1
+TX05893,33835.19,NetBanking,Authentication Failed,11.64,Low,Defer Recovery,Deferred,1
+TX03477,20204.21,Card,Authentication Failed,99.0,High,Retry Payment,Retry Initiated,1
+TX06009,1006.08,Card,Authentication Failed,9.73,Low,Defer Recovery,Deferred,1
+TX08999,14196.69,UPI,Technical Error,99.74,High,Retry Payment,Retry Initiated,1
+TX07690,41264.85,Wallet,Bank Declined,6.98,Low,Defer Recovery,Deferred,0
+TX03227,9071.91,Card,Timeout,98.66,High,Retry Payment,Retry Initiated,0
+TX07160,19598.44,NetBanking,Insufficient Funds,2.19,Low,Defer Recovery,Deferred,1
+TX09667,43990.21,Wallet,Authentication Failed,99.69,High,Retry Payment,Retry Initiated,1
+TX02113,47376.66,UPI,Timeout,1.95,Low,Defer Recovery,Deferred,0
+TX07781,24740.56,Wallet,Bank Declined,5.4,Low,Defer Recovery,Deferred,0
+TX03151,32890.23,Wallet,Bank Declined,6.8,Low,Defer Recovery,Deferred,0
+TX06123,23178.46,Wallet,Bank Declined,17.88,Low,Defer Recovery,Deferred,0
+TX09150,10550.48,NetBanking,Technical Error,94.89,High,Generate Payment Link,Payment Link Created,1
+TX05469,26535.77,UPI,Timeout,7.2,Low,Defer Recovery,Deferred,1
+TX08967,48610.61,Wallet,Authentication Failed,29.51,Low,Defer Recovery,Deferred,1
+TX09714,40207.37,Wallet,Authentication Failed,45.05,Medium,Send Notification,Notification Sent,1
+TX03263,28817.5,Wallet,Authentication Failed,27.16,Low,Defer Recovery,Deferred,1
+TX09898,23480.49,Card,Technical Error,99.57,High,Retry Payment,Retry Initiated,1
+TX08367,30873.95,UPI,Technical Error,9.1,Low,Defer Recovery,Deferred,0
+TX03638,8761.25,Wallet,Authentication Failed,14.9,Low,Defer Recovery,Deferred,1
+TX06993,21384.99,NetBanking,Insufficient Funds,4.97,Low,Defer Recovery,Deferred,1
+TX07963,41984.61,Wallet,Timeout,95.75,High,Generate Payment Link,Payment Link Created,0
+TX07558,2677.94,Card,Bank Declined,61.07,Medium,Send Notification,Notification Sent,1
+TX03210,41282.89,Wallet,Bank Declined,88.81,High,Generate Payment Link,Payment Link Created,0
+TX09971,40394.19,NetBanking,Timeout,5.81,Low,Defer Recovery,Deferred,0
+TX06680,43614.28,NetBanking,Bank Declined,99.16,High,Generate Payment Link,Payment Link Created,0
+TX02658,16289.47,Wallet,Technical Error,99.63,High,Retry Payment,Retry Initiated,1
+TX06305,35233.87,NetBanking,Technical Error,58.31,Medium,Send Notification,Notification Sent,1
+TX06824,24268.71,UPI,Technical Error,54.89,Medium,Send Notification,Notification Sent,1
+TX00090,18922.37,Card,Authentication Failed,4.42,Low,Defer Recovery,Deferred,1
+TX08234,25134.98,Wallet,Authentication Failed,0.65,Low,Defer Recovery,Deferred,0
+TX08279,2842.18,NetBanking,Authentication Failed,13.91,Low,Defer Recovery,Deferred,1
+TX06381,2761.67,Card,Bank Declined,11.72,Low,Defer Recovery,Deferred,0
+TX02620,31729.11,Card,Insufficient Funds,24.61,Low,Defer Recovery,Deferred,1
+TX07077,47068.83,NetBanking,Timeout,99.86,High,Retry Payment,Retry Initiated,1
+TX04834,22063.41,UPI,Authentication Failed,35.44,Low,Defer Recovery,Deferred,1
+TX01288,43680.72,NetBanking,Insufficient Funds,98.08,High,Generate Payment Link,Payment Link Created,0
+TX05114,13161.47,UPI,Bank Declined,99.13,High,Retry Payment,Retry Initiated,1
+TX06557,11725.31,Wallet,Technical Error,2.13,Low,Defer Recovery,Deferred,0
+TX05542,26987.09,Wallet,Authentication Failed,99.81,High,Retry Payment,Retry Initiated,1
+TX02183,18269.64,NetBanking,Technical Error,54.92,Medium,Send Notification,Notification Sent,1
+TX08416,20272.71,UPI,Bank Declined,28.58,Low,Defer Recovery,Deferred,1
+TX04385,25881.55,NetBanking,Timeout,30.99,Low,Defer Recovery,Deferred,0
+TX04614,6370.49,Wallet,Authentication Failed,6.25,Low,Defer Recovery,Deferred,1
+TX04455,20167.6,UPI,Timeout,15.9,Low,Defer Recovery,Deferred,1
+TX05226,28325.68,NetBanking,Timeout,13.62,Low,Defer Recovery,Deferred,0
+TX08837,48542.47,Wallet,Bank Declined,99.52,High,Retry Payment,Retry Initiated,0
+TX09598,15433.95,Wallet,Bank Declined,98.73,High,Generate Payment Link,Payment Link Created,1
+TX02866,10629.23,Card,Authentication Failed,31.09,Low,Defer Recovery,Deferred,1
+TX05464,41203.84,UPI,Timeout,99.92,High,Retry Payment,Retry Initiated,1
+TX03669,28365.54,NetBanking,Technical Error,42.63,Medium,Send Notification,Notification Sent,1
+TX01335,42070.7,UPI,Authentication Failed,99.78,High,Generate Payment Link,Payment Link Created,1
+TX01311,47383.5,NetBanking,Authentication Failed,99.54,High,Retry Payment,Retry Initiated,1
+TX00788,18853.48,Card,Insufficient Funds,97.78,High,Generate Payment Link,Payment Link Created,1
+TX06697,9777.0,UPI,Technical Error,17.86,Low,Defer Recovery,Deferred,1
+TX08063,14935.3,NetBanking,Bank Declined,8.45,Low,Defer Recovery,Deferred,1
+TX04343,33191.08,NetBanking,Insufficient Funds,98.61,High,Generate Payment Link,Payment Link Created,1
+TX06869,19647.22,NetBanking,Technical Error,97.13,High,Generate Payment Link,Payment Link Created,1
+TX08986,36782.28,NetBanking,Technical Error,9.35,Low,Defer Recovery,Deferred,0
+TX07626,29177.8,NetBanking,Timeout,96.84,High,Generate Payment Link,Payment Link Created,0
+TX04382,21441.82,Card,Authentication Failed,21.86,Low,Defer Recovery,Deferred,0
+TX08556,1395.45,Wallet,Timeout,99.59,High,Retry Payment,Retry Initiated,0
+TX07798,5915.58,Card,Authentication Failed,99.71,High,Retry Payment,Retry Initiated,1
+TX08331,19440.33,Card,Technical Error,97.29,High,Generate Payment Link,Payment Link Created,1
+TX03251,22421.89,NetBanking,Insufficient Funds,99.07,High,Generate Payment Link,Payment Link Created,1
+TX07869,17263.63,NetBanking,Timeout,5.73,Low,Defer Recovery,Deferred,0
+TX07333,34778.77,UPI,Technical Error,99.41,High,Retry Payment,Retry Initiated,1
+TX00873,33330.76,NetBanking,Technical Error,99.04,High,Generate Payment Link,Payment Link Created,1
+TX02659,16777.35,UPI,Authentication Failed,26.15,Low,Defer Recovery,Deferred,0
+TX09919,30493.17,Wallet,Insufficient Funds,91.5,High,Generate Payment Link,Payment Link Created,0
+TX00805,5563.17,Wallet,Insufficient Funds,19.49,Low,Defer Recovery,Deferred,1
+TX07292,10941.14,UPI,Technical Error,3.27,Low,Defer Recovery,Deferred,1
+TX07248,2605.63,Card,Timeout,7.87,Low,Defer Recovery,Deferred,1
+TX09981,15243.86,Card,Timeout,28.58,Low,Defer Recovery,Deferred,1
+TX02161,15142.66,UPI,Technical Error,99.73,High,Generate Payment Link,Payment Link Created,1
+TX02783,12959.01,Card,Technical Error,14.0,Low,Defer Recovery,Deferred,0
+TX02871,39219.23,UPI,Technical Error,9.38,Low,Defer Recovery,Deferred,1
+TX07380,49609.37,Wallet,Technical Error,98.44,High,Retry Payment,Retry Initiated,1
+TX02716,20731.94,Card,Authentication Failed,1.61,Low,Defer Recovery,Deferred,0
+TX00028,38340.73,Wallet,Authentication Failed,6.67,Low,Defer Recovery,Deferred,1
+TX05347,48704.16,UPI,Authentication Failed,97.72,High,Generate Payment Link,Payment Link Created,1
+TX01539,12044.55,UPI,Authentication Failed,98.25,High,Generate Payment Link,Payment Link Created,1
+TX07019,5791.11,NetBanking,Timeout,5.51,Low,Defer Recovery,Deferred,0
+TX09498,34920.45,NetBanking,Authentication Failed,18.02,Low,Defer Recovery,Deferred,0
+TX03596,14545.94,Wallet,Authentication Failed,99.86,High,Retry Payment,Retry Initiated,1
+TX04519,14380.43,Card,Authentication Failed,99.95,High,Retry Payment,Retry Initiated,1
+TX00979,10328.46,Wallet,Authentication Failed,99.24,High,Retry Payment,Retry Initiated,1
+TX09352,45307.16,Wallet,Technical Error,6.45,Low,Defer Recovery,Deferred,0
+TX02558,26437.82,Wallet,Technical Error,99.81,High,Retry Payment,Retry Initiated,1
+TX01970,1016.08,UPI,Technical Error,7.61,Low,Defer Recovery,Deferred,0
+TX06262,23401.67,Wallet,Bank Declined,8.61,Low,Defer Recovery,Deferred,0
+TX06676,382.04,Wallet,Technical Error,9.1,Low,Defer Recovery,Deferred,0
+TX08951,48210.88,Wallet,Technical Error,18.61,Low,Defer Recovery,Deferred,0
+TX04792,112.02,UPI,Bank Declined,3.63,Low,Defer Recovery,Deferred,0
+TX05153,15576.35,UPI,Technical Error,24.72,Low,Defer Recovery,Deferred,1
+TX03058,14992.69,NetBanking,Bank Declined,2.44,Low,Defer Recovery,Deferred,0
+TX06684,19814.31,UPI,Authentication Failed,5.51,Low,Defer Recovery,Deferred,0
+TX03232,1737.99,Wallet,Timeout,19.98,Low,Defer Recovery,Deferred,0
+TX03524,30252.55,NetBanking,Timeout,99.84,High,Retry Payment,Retry Initiated,1
+TX07201,21040.77,UPI,Timeout,6.6,Low,Defer Recovery,Deferred,0
+TX00987,16029.34,NetBanking,Technical Error,20.21,Low,Defer Recovery,Deferred,0
+TX02694,1143.38,Wallet,Authentication Failed,54.73,Medium,Send Notification,Notification Sent,1
+TX04422,38746.42,UPI,Timeout,98.86,High,Generate Payment Link,Payment Link Created,0
+TX07219,17195.68,UPI,Bank Declined,6.9,Low,Defer Recovery,Deferred,1
+TX09160,10273.94,UPI,Authentication Failed,41.44,Medium,Send Notification,Notification Sent,1
+TX04717,8212.1,UPI,Authentication Failed,99.63,High,Generate Payment Link,Payment Link Created,1
+TX06691,36325.84,Wallet,Technical Error,99.19,High,Generate Payment Link,Payment Link Created,1
+TX01017,27029.12,UPI,Insufficient Funds,37.64,Low,Defer Recovery,Deferred,0
+TX01253,25235.6,Wallet,Bank Declined,99.53,High,Retry Payment,Retry Initiated,1
+TX04013,35519.26,Card,Bank Declined,40.34,Medium,Send Notification,Notification Sent,0
+TX03255,7900.94,NetBanking,Insufficient Funds,2.0,Low,Defer Recovery,Deferred,0
+TX09526,38443.69,UPI,Authentication Failed,49.86,Medium,Send Notification,Notification Sent,0
+TX07967,24251.14,Wallet,Bank Declined,99.21,High,Retry Payment,Retry Initiated,1
+TX07880,47017.69,UPI,Bank Declined,98.65,High,Generate Payment Link,Payment Link Created,1
+TX01590,40916.38,NetBanking,Bank Declined,97.62,High,Generate Payment Link,Payment Link Created,1
+TX04540,28178.17,NetBanking,Timeout,74.4,Medium,Send Notification,Notification Sent,1
+TX08654,9616.79,Card,Authentication Failed,0.94,Low,Defer Recovery,Deferred,1
+TX07467,37854.04,Wallet,Timeout,61.71,Medium,Send Notification,Notification Sent,1
+TX04571,14347.7,NetBanking,Technical Error,7.98,Low,Defer Recovery,Deferred,1
+TX01133,36033.56,NetBanking,Bank Declined,22.33,Low,Defer Recovery,Deferred,1
+TX05700,28909.35,NetBanking,Timeout,95.6,High,Generate Payment Link,Payment Link Created,1
+TX03322,1204.51,NetBanking,Timeout,4.1,Low,Defer Recovery,Deferred,0
+TX00837,39525.15,Card,Bank Declined,4.63,Low,Defer Recovery,Deferred,1
+TX04942,38782.02,NetBanking,Insufficient Funds,99.63,High,Generate Payment Link,Payment Link Created,1
+TX06655,516.65,Wallet,Technical Error,99.69,High,Retry Payment,Retry Initiated,1
+TX00102,37144.26,NetBanking,Bank Declined,97.29,High,Generate Payment Link,Payment Link Created,1
+TX02074,30293.06,UPI,Authentication Failed,53.63,Medium,Send Notification,Notification Sent,1
+TX09439,12924.61,NetBanking,Technical Error,99.68,High,Retry Payment,Retry Initiated,1
+TX05013,30076.91,Card,Insufficient Funds,99.52,High,Retry Payment,Retry Initiated,0
+TX05877,42476.04,NetBanking,Bank Declined,99.04,High,Generate Payment Link,Payment Link Created,1
+TX06713,8320.58,Card,Technical Error,99.34,High,Retry Payment,Retry Initiated,1
+TX05931,2109.88,Wallet,Authentication Failed,13.58,Low,Defer Recovery,Deferred,1
+TX07760,21807.1,Card,Authentication Failed,0.75,Low,Defer Recovery,Deferred,0
+TX04669,27163.71,UPI,Authentication Failed,8.65,Low,Defer Recovery,Deferred,1
+TX00597,22698.88,Wallet,Authentication Failed,99.65,High,Retry Payment,Retry Initiated,1
+TX02380,4009.08,NetBanking,Technical Error,56.84,Medium,Send Notification,Notification Sent,1
+TX03025,6101.52,Wallet,Insufficient Funds,99.62,High,Generate Payment Link,Payment Link Created,1
+TX02044,29090.33,Card,Bank Declined,29.86,Low,Defer Recovery,Deferred,0
+TX04662,49758.45,Wallet,Bank Declined,99.43,High,Generate Payment Link,Payment Link Created,1
+TX05903,19954.14,Wallet,Bank Declined,98.83,High,Retry Payment,Retry Initiated,0
+TX04235,5707.91,NetBanking,Bank Declined,13.52,Low,Defer Recovery,Deferred,1
+TX01907,47983.65,Card,Timeout,4.52,Low,Defer Recovery,Deferred,0
+TX06349,33637.01,UPI,Timeout,17.62,Low,Defer Recovery,Deferred,1
+TX00558,15776.69,Wallet,Technical Error,11.63,Low,Defer Recovery,Deferred,0
+TX05530,3800.54,Card,Bank Declined,12.68,Low,Defer Recovery,Deferred,1
+TX02478,44748.62,Card,Bank Declined,2.24,Low,Defer Recovery,Deferred,0
+TX09617,8111.83,NetBanking,Timeout,99.54,High,Retry Payment,Retry Initiated,1
+TX07325,41659.17,NetBanking,Technical Error,96.0,High,Generate Payment Link,Payment Link Created,1
+TX08268,21625.14,UPI,Insufficient Funds,71.11,Medium,Send Notification,Notification Sent,1
+TX02992,24791.94,UPI,Timeout,7.01,Low,Defer Recovery,Deferred,0
+TX01337,21574.12,NetBanking,Timeout,3.57,Low,Defer Recovery,Deferred,1
+TX04863,47535.53,UPI,Bank Declined,1.52,Low,Defer Recovery,Deferred,0
+TX04688,33823.0,Card,Technical Error,99.05,High,Retry Payment,Retry Initiated,0
+TX05550,7045.47,Wallet,Insufficient Funds,55.51,Medium,Send Notification,Notification Sent,1
+TX07269,22859.66,Wallet,Technical Error,99.88,High,Retry Payment,Retry Initiated,1
+TX07983,16553.58,Card,Insufficient Funds,6.34,Low,Defer Recovery,Deferred,1
+TX04445,41655.68,Card,Bank Declined,23.62,Low,Defer Recovery,Deferred,1
+TX01270,31462.34,Wallet,Bank Declined,99.86,High,Retry Payment,Retry Initiated,1
+TX08157,8705.35,Card,Technical Error,48.54,Medium,Send Notification,Notification Sent,1
+TX05836,38600.17,NetBanking,Technical Error,99.67,High,Retry Payment,Retry Initiated,1
+TX08413,27432.1,Wallet,Technical Error,40.87,Medium,Send Notification,Notification Sent,1
+TX07444,29342.22,Wallet,Bank Declined,32.64,Low,Defer Recovery,Deferred,1
+TX01437,29324.15,UPI,Timeout,2.34,Low,Defer Recovery,Deferred,0
+TX08722,41593.6,Card,Insufficient Funds,99.64,High,Retry Payment,Retry Initiated,1
+TX02526,16701.24,Card,Bank Declined,8.09,Low,Defer Recovery,Deferred,0
+TX01801,19030.34,UPI,Insufficient Funds,1.26,Low,Defer Recovery,Deferred,0
+TX05662,37470.99,NetBanking,Timeout,97.93,High,Retry Payment,Retry Initiated,1
+TX00356,15710.43,Card,Technical Error,2.17,Low,Defer Recovery,Deferred,0
+TX07808,46980.1,NetBanking,Insufficient Funds,94.92,High,Generate Payment Link,Payment Link Created,0
+TX08207,28613.43,Card,Timeout,7.78,Low,Defer Recovery,Deferred,0
+TX03009,14236.5,NetBanking,Technical Error,6.09,Low,Defer Recovery,Deferred,0
+TX00439,41765.19,Card,Timeout,2.28,Low,Defer Recovery,Deferred,0
+TX08911,32903.91,UPI,Bank Declined,99.95,High,Retry Payment,Retry Initiated,1
+TX03262,11419.17,Card,Timeout,99.49,High,Generate Payment Link,Payment Link Created,1
+TX06499,1347.71,UPI,Authentication Failed,99.27,High,Retry Payment,Retry Initiated,1
+TX07309,33983.95,NetBanking,Authentication Failed,2.92,Low,Defer Recovery,Deferred,0
+TX02715,10103.41,Wallet,Authentication Failed,43.73,Medium,Send Notification,Notification Sent,1
+TX03684,23883.36,Card,Authentication Failed,98.81,High,Generate Payment Link,Payment Link Created,1
+TX07331,25442.32,NetBanking,Timeout,2.75,Low,Defer Recovery,Deferred,0
+TX08998,27147.57,Wallet,Insufficient Funds,98.37,High,Generate Payment Link,Payment Link Created,1
+TX09507,18529.58,Wallet,Insufficient Funds,10.83,Low,Defer Recovery,Deferred,1
+TX03043,20174.5,Card,Timeout,99.08,High,Generate Payment Link,Payment Link Created,0
+TX03365,250.74,Wallet,Bank Declined,99.45,High,Generate Payment Link,Payment Link Created,1
+TX03077,16816.93,Card,Timeout,10.2,Low,Defer Recovery,Deferred,1
+TX04119,36750.9,UPI,Technical Error,99.76,High,Retry Payment,Retry Initiated,1
+TX00536,33794.02,UPI,Insufficient Funds,98.82,High,Generate Payment Link,Payment Link Created,1
+TX09676,18230.36,Card,Timeout,9.28,Low,Defer Recovery,Deferred,0
+TX07472,38276.67,NetBanking,Insufficient Funds,7.25,Low,Defer Recovery,Deferred,0
+TX07683,33733.91,Wallet,Timeout,11.33,Low,Defer Recovery,Deferred,1
+TX07620,23456.24,NetBanking,Authentication Failed,99.53,High,Retry Payment,Retry Initiated,1
+TX01923,26930.84,Card,Insufficient Funds,1.92,Low,Defer Recovery,Deferred,0
+TX05870,10770.56,UPI,Timeout,99.09,High,Generate Payment Link,Payment Link Created,1
+TX05568,36609.13,NetBanking,Bank Declined,98.79,High,Generate Payment Link,Payment Link Created,1
+TX05147,33487.09,Wallet,Bank Declined,2.92,Low,Defer Recovery,Deferred,0
+TX09920,40384.98,Card,Bank Declined,99.47,High,Retry Payment,Retry Initiated,1
+TX07885,48718.45,Card,Timeout,99.86,High,Retry Payment,Retry Initiated,1
+TX03584,28712.74,UPI,Insufficient Funds,10.33,Low,Defer Recovery,Deferred,1
+TX05765,18789.35,NetBanking,Insufficient Funds,16.64,Low,Defer Recovery,Deferred,1
+TX07223,39682.16,NetBanking,Technical Error,98.34,High,Retry Payment,Retry Initiated,0
+TX00222,28585.61,Card,Timeout,26.91,Low,Defer Recovery,Deferred,1
+TX07691,11930.16,NetBanking,Technical Error,18.73,Low,Defer Recovery,Deferred,0
+TX04950,32726.12,UPI,Technical Error,99.23,High,Retry Payment,Retry Initiated,1
+TX04921,44693.07,Card,Authentication Failed,0.75,Low,Defer Recovery,Deferred,0
+TX06564,10991.65,Wallet,Timeout,53.87,Medium,Send Notification,Notification Sent,1
+TX05646,20452.22,Card,Insufficient Funds,7.44,Low,Defer Recovery,Deferred,0
+TX01494,15486.77,Wallet,Insufficient Funds,18.25,Low,Defer Recovery,Deferred,0
+TX09716,26002.68,UPI,Insufficient Funds,99.22,High,Generate Payment Link,Payment Link Created,1
+TX02201,2060.67,Wallet,Bank Declined,23.2,Low,Defer Recovery,Deferred,0
+TX08461,15802.98,Card,Insufficient Funds,42.9,Medium,Send Notification,Notification Sent,1
+TX09881,8972.14,NetBanking,Bank Declined,98.32,High,Retry Payment,Retry Initiated,0
+TX04867,15668.87,UPI,Authentication Failed,9.37,Low,Defer Recovery,Deferred,1
+TX07165,24441.89,Wallet,Authentication Failed,29.76,Low,Defer Recovery,Deferred,1
+TX05514,26281.95,Card,Authentication Failed,22.47,Low,Defer Recovery,Deferred,1
+TX06656,5606.72,Wallet,Bank Declined,95.2,High,Generate Payment Link,Payment Link Created,1
+TX07976,17868.87,Wallet,Insufficient Funds,26.24,Low,Defer Recovery,Deferred,0
+TX01824,15570.7,NetBanking,Timeout,25.35,Low,Defer Recovery,Deferred,1
+TX06319,40893.16,Wallet,Timeout,19.47,Low,Defer Recovery,Deferred,0
+TX06841,33955.33,Wallet,Bank Declined,9.67,Low,Defer Recovery,Deferred,0
+TX08914,5073.09,Card,Insufficient Funds,97.27,High,Generate Payment Link,Payment Link Created,1
+TX08791,46100.09,NetBanking,Timeout,8.58,Low,Defer Recovery,Deferred,0
+TX04755,14374.4,Card,Bank Declined,1.41,Low,Defer Recovery,Deferred,0
+TX08623,8265.73,Card,Insufficient Funds,99.92,High,Retry Payment,Retry Initiated,1
+TX06106,20132.03,NetBanking,Timeout,21.39,Low,Defer Recovery,Deferred,1
+TX08386,32855.02,UPI,Insufficient Funds,99.42,High,Retry Payment,Retry Initiated,1
+TX02588,17828.95,UPI,Authentication Failed,9.76,Low,Defer Recovery,Deferred,0
+TX00056,28314.26,Wallet,Insufficient Funds,13.94,Low,Defer Recovery,Deferred,0
+TX08370,49576.23,Card,Bank Declined,12.57,Low,Defer Recovery,Deferred,0
+TX00326,10957.64,UPI,Technical Error,20.2,Low,Defer Recovery,Deferred,1
+TX09221,28965.82,UPI,Insufficient Funds,9.34,Low,Defer Recovery,Deferred,1
+TX01779,24637.72,UPI,Insufficient Funds,21.23,Low,Defer Recovery,Deferred,1
+TX05715,11524.22,NetBanking,Timeout,99.32,High,Generate Payment Link,Payment Link Created,1
+TX08399,2413.03,Wallet,Authentication Failed,96.79,High,Generate Payment Link,Payment Link Created,0
+TX04319,14944.88,Card,Authentication Failed,13.04,Low,Defer Recovery,Deferred,1
+TX00293,16117.75,Wallet,Technical Error,95.89,High,Generate Payment Link,Payment Link Created,1
+TX01542,16096.32,Card,Insufficient Funds,8.91,Low,Defer Recovery,Deferred,0
+TX05789,30477.04,Card,Timeout,2.33,Low,Defer Recovery,Deferred,0
+TX06331,44811.82,UPI,Timeout,97.78,High,Retry Payment,Retry Initiated,0
+TX01268,12408.16,UPI,Timeout,19.28,Low,Defer Recovery,Deferred,0
+TX07260,37571.33,NetBanking,Authentication Failed,25.16,Low,Defer Recovery,Deferred,1
+TX08453,47667.42,Wallet,Bank Declined,13.92,Low,Defer Recovery,Deferred,1
+TX08519,33105.9,Wallet,Technical Error,22.27,Low,Defer Recovery,Deferred,1
+TX06765,24581.42,Card,Bank Declined,2.38,Low,Defer Recovery,Deferred,0
+TX04348,24402.1,Wallet,Authentication Failed,99.86,High,Generate Payment Link,Payment Link Created,1
+TX03047,21089.45,NetBanking,Bank Declined,99.94,High,Retry Payment,Retry Initiated,1
+TX00567,45750.26,Card,Timeout,8.73,Low,Defer Recovery,Deferred,0
+TX04805,13963.86,UPI,Timeout,13.9,Low,Defer Recovery,Deferred,0
+TX01453,19384.48,NetBanking,Insufficient Funds,47.61,Medium,Send Notification,Notification Sent,1
+TX07334,15488.89,NetBanking,Technical Error,4.45,Low,Defer Recovery,Deferred,0
+TX07877,3839.71,Card,Timeout,19.32,Low,Defer Recovery,Deferred,1
+TX08495,27911.52,Card,Technical Error,98.83,High,Retry Payment,Retry Initiated,0
+TX06502,1970.65,NetBanking,Insufficient Funds,2.47,Low,Defer Recovery,Deferred,0
+TX02890,18249.9,UPI,Timeout,9.24,Low,Defer Recovery,Deferred,0
+TX05860,22461.62,NetBanking,Authentication Failed,99.39,High,Generate Payment Link,Payment Link Created,1
+TX01067,5904.95,Wallet,Technical Error,11.26,Low,Defer Recovery,Deferred,0
+TX00108,17804.38,NetBanking,Technical Error,0.72,Low,Defer Recovery,Deferred,0
+TX07521,36123.29,NetBanking,Timeout,99.8,High,Retry Payment,Retry Initiated,1
+TX08579,31610.53,Card,Bank Declined,16.0,Low,Defer Recovery,Deferred,0
+TX02835,47515.54,Card,Insufficient Funds,97.12,High,Generate Payment Link,Payment Link Created,0
+TX06152,10302.89,Card,Bank Declined,11.96,Low,Defer Recovery,Deferred,1
+TX00426,32512.84,Card,Authentication Failed,98.09,High,Generate Payment Link,Payment Link Created,1
+TX07153,30571.07,Wallet,Authentication Failed,25.35,Low,Defer Recovery,Deferred,1
+TX06918,27240.3,Wallet,Technical Error,99.39,High,Retry Payment,Retry Initiated,1
+TX02361,33404.03,Card,Insufficient Funds,98.05,High,Generate Payment Link,Payment Link Created,1
+TX07487,23590.94,Wallet,Timeout,2.67,Low,Defer Recovery,Deferred,0
+TX09362,48671.62,UPI,Bank Declined,98.21,High,Generate Payment Link,Payment Link Created,0
+TX07099,31787.73,Wallet,Technical Error,23.29,Low,Defer Recovery,Deferred,1
+TX03979,25709.68,Wallet,Insufficient Funds,8.35,Low,Defer Recovery,Deferred,0
+TX02256,31700.12,UPI,Technical Error,99.88,High,Retry Payment,Retry Initiated,1
+TX05468,27736.42,Wallet,Bank Declined,98.95,High,Generate Payment Link,Payment Link Created,1
+TX03248,22723.19,Card,Insufficient Funds,3.92,Low,Defer Recovery,Deferred,0
+TX07842,44667.62,UPI,Technical Error,99.37,High,Generate Payment Link,Payment Link Created,1
+TX08700,12787.19,UPI,Technical Error,99.33,High,Retry Payment,Retry Initiated,1
+TX04146,25395.81,NetBanking,Technical Error,95.04,High,Generate Payment Link,Payment Link Created,0
+TX08506,14980.05,Card,Bank Declined,87.06,High,Generate Payment Link,Payment Link Created,0
+TX06065,36217.76,Card,Technical Error,19.11,Low,Defer Recovery,Deferred,1
+TX08132,8571.87,UPI,Technical Error,2.87,Low,Defer Recovery,Deferred,0
+TX03283,42932.83,Wallet,Insufficient Funds,15.96,Low,Defer Recovery,Deferred,1
+TX09858,8226.04,NetBanking,Insufficient Funds,17.55,Low,Defer Recovery,Deferred,0
+TX08025,47657.02,NetBanking,Technical Error,9.36,Low,Defer Recovery,Deferred,0
+TX01558,3256.35,UPI,Bank Declined,94.39,High,Generate Payment Link,Payment Link Created,1
+TX02482,687.82,Card,Timeout,0.58,Low,Defer Recovery,Deferred,0
+TX08827,4765.27,Wallet,Authentication Failed,27.94,Low,Defer Recovery,Deferred,0
+TX05370,42452.76,NetBanking,Timeout,3.23,Low,Defer Recovery,Deferred,0
+TX05057,25705.76,Card,Insufficient Funds,10.65,Low,Defer Recovery,Deferred,1
+TX06289,41994.38,NetBanking,Authentication Failed,40.81,Medium,Send Notification,Notification Sent,1
+TX09421,30615.43,NetBanking,Bank Declined,99.66,High,Retry Payment,Retry Initiated,1
+TX01659,21548.58,Card,Authentication Failed,98.6,High,Retry Payment,Retry Initiated,1
+TX08835,49885.04,UPI,Bank Declined,99.96,High,Retry Payment,Retry Initiated,1
+TX03851,29636.53,NetBanking,Timeout,97.84,High,Generate Payment Link,Payment Link Created,1
+TX06490,39455.45,Wallet,Insufficient Funds,11.49,Low,Defer Recovery,Deferred,0
+TX06270,24123.62,Wallet,Insufficient Funds,69.18,Medium,Send Notification,Notification Sent,1
+TX05995,32116.84,Wallet,Timeout,17.1,Low,Defer Recovery,Deferred,1
+TX06234,43147.44,Wallet,Authentication Failed,98.88,High,Generate Payment Link,Payment Link Created,1
+TX05489,20247.45,NetBanking,Authentication Failed,99.07,High,Retry Payment,Retry Initiated,1
+TX02480,49512.1,Card,Timeout,97.4,High,Retry Payment,Retry Initiated,0
+TX07080,22539.02,NetBanking,Authentication Failed,99.46,High,Retry Payment,Retry Initiated,1
+TX04169,42331.27,Card,Bank Declined,99.47,High,Generate Payment Link,Payment Link Created,1
+TX01244,33713.13,Wallet,Timeout,99.58,High,Generate Payment Link,Payment Link Created,1
+TX09204,4083.57,NetBanking,Bank Declined,35.75,Low,Defer Recovery,Deferred,1
+TX00034,6651.27,Card,Timeout,2.53,Low,Defer Recovery,Deferred,0
+TX06440,28284.16,NetBanking,Technical Error,99.84,High,Retry Payment,Retry Initiated,1
+TX06562,30882.52,NetBanking,Bank Declined,13.69,Low,Defer Recovery,Deferred,1
+TX06864,13824.51,Card,Bank Declined,98.88,High,Retry Payment,Retry Initiated,1
+TX08978,48448.2,UPI,Insufficient Funds,98.75,High,Generate Payment Link,Payment Link Created,1
+TX02590,1649.74,NetBanking,Bank Declined,99.64,High,Retry Payment,Retry Initiated,1
+TX08457,46682.86,NetBanking,Bank Declined,1.56,Low,Defer Recovery,Deferred,0
+TX06634,5803.14,Wallet,Technical Error,6.7,Low,Defer Recovery,Deferred,0
+TX04880,42897.03,NetBanking,Bank Declined,6.96,Low,Defer Recovery,Deferred,0
+TX04567,15719.97,Card,Technical Error,13.12,Low,Defer Recovery,Deferred,1
+TX04436,47318.6,Wallet,Bank Declined,4.35,Low,Defer Recovery,Deferred,0
+TX02148,120.04,Card,Timeout,93.39,High,Generate Payment Link,Payment Link Created,0
+TX00246,11440.33,Wallet,Bank Declined,99.35,High,Generate Payment Link,Payment Link Created,1
+TX02364,22392.3,Wallet,Timeout,36.32,Low,Defer Recovery,Deferred,1
+TX02774,20067.75,UPI,Timeout,36.97,Low,Defer Recovery,Deferred,1
+TX03275,30340.15,Card,Technical Error,10.15,Low,Defer Recovery,Deferred,0
+TX09708,14003.55,Card,Insufficient Funds,99.43,High,Retry Payment,Retry Initiated,1
+TX07987,10123.45,Wallet,Technical Error,99.08,High,Generate Payment Link,Payment Link Created,1
+TX04674,1098.59,NetBanking,Bank Declined,99.89,High,Retry Payment,Retry Initiated,1
+TX01983,11907.99,Wallet,Insufficient Funds,99.19,High,Generate Payment Link,Payment Link Created,1
+TX08613,9490.39,UPI,Technical Error,1.51,Low,Defer Recovery,Deferred,1
+TX01977,34495.04,UPI,Timeout,98.85,High,Generate Payment Link,Payment Link Created,1
+TX00616,17767.82,NetBanking,Insufficient Funds,99.84,High,Retry Payment,Retry Initiated,1
+TX09282,1677.59,Wallet,Authentication Failed,99.86,High,Retry Payment,Retry Initiated,1
+TX07913,9381.82,NetBanking,Bank Declined,14.69,Low,Defer Recovery,Deferred,1
+TX05604,12192.05,NetBanking,Technical Error,38.59,Low,Defer Recovery,Deferred,1
+TX02062,38544.85,Card,Authentication Failed,97.87,High,Generate Payment Link,Payment Link Created,1
+TX05872,2246.4,Card,Insufficient Funds,2.82,Low,Defer Recovery,Deferred,0
+TX09210,44357.93,Wallet,Bank Declined,99.58,High,Generate Payment Link,Payment Link Created,1
+TX08850,36164.09,Wallet,Timeout,99.6,High,Generate Payment Link,Payment Link Created,1
+TX06863,23446.71,Card,Authentication Failed,94.23,High,Generate Payment Link,Payment Link Created,1
+TX01116,45575.96,UPI,Authentication Failed,19.57,Low,Defer Recovery,Deferred,1
+TX08710,12152.99,UPI,Bank Declined,99.43,High,Retry Payment,Retry Initiated,1
+TX01667,25206.36,Card,Timeout,25.47,Low,Defer Recovery,Deferred,0
+TX00948,28681.35,Wallet,Authentication Failed,99.59,High,Generate Payment Link,Payment Link Created,1
+TX07588,36109.32,NetBanking,Authentication Failed,34.65,Low,Defer Recovery,Deferred,1
+TX04509,19383.52,Wallet,Authentication Failed,99.57,High,Generate Payment Link,Payment Link Created,1
+TX09225,16296.48,Card,Bank Declined,99.28,High,Generate Payment Link,Payment Link Created,1
+TX06024,49300.12,UPI,Bank Declined,98.51,High,Generate Payment Link,Payment Link Created,0
+TX03741,10792.16,Card,Bank Declined,97.12,High,Generate Payment Link,Payment Link Created,1
+TX03466,38444.21,UPI,Insufficient Funds,3.39,Low,Defer Recovery,Deferred,0
+TX00831,16991.49,Wallet,Insufficient Funds,55.61,Medium,Send Notification,Notification Sent,1
+TX00471,21402.05,Card,Bank Declined,99.95,High,Retry Payment,Retry Initiated,1
+TX09802,18252.92,NetBanking,Insufficient Funds,38.85,Low,Defer Recovery,Deferred,1
+TX03171,22119.59,Wallet,Authentication Failed,99.15,High,Generate Payment Link,Payment Link Created,0
+TX05559,797.69,Card,Technical Error,39.82,Low,Defer Recovery,Deferred,1
+TX02224,26727.48,Card,Bank Declined,98.46,High,Generate Payment Link,Payment Link Created,1
+TX09987,9401.63,Card,Timeout,99.92,High,Retry Payment,Retry Initiated,1
+TX01735,11415.26,UPI,Insufficient Funds,2.95,Low,Defer Recovery,Deferred,0
+TX08816,44721.98,NetBanking,Authentication Failed,98.78,High,Retry Payment,Retry Initiated,0
+TX00629,8264.45,UPI,Bank Declined,98.18,High,Retry Payment,Retry Initiated,1
+TX03419,27112.64,UPI,Technical Error,98.89,High,Retry Payment,Retry Initiated,1
+TX04743,16670.49,Card,Authentication Failed,35.36,Low,Defer Recovery,Deferred,1
+TX00870,799.32,NetBanking,Timeout,16.37,Low,Defer Recovery,Deferred,0
+TX07642,43741.37,Card,Authentication Failed,9.29,Low,Defer Recovery,Deferred,0
+TX05143,43681.87,NetBanking,Timeout,37.05,Low,Defer Recovery,Deferred,1
+TX04378,9041.07,UPI,Technical Error,98.62,High,Generate Payment Link,Payment Link Created,1
+TX09007,32335.91,UPI,Technical Error,53.24,Medium,Send Notification,Notification Sent,1
+TX06603,12711.86,Card,Technical Error,99.88,High,Retry Payment,Retry Initiated,1
+TX02610,7072.06,NetBanking,Bank Declined,19.91,Low,Defer Recovery,Deferred,1
+TX04904,13084.55,NetBanking,Technical Error,5.36,Low,Defer Recovery,Deferred,0
+TX00555,42557.55,Card,Authentication Failed,16.27,Low,Defer Recovery,Deferred,1
+TX03460,3586.11,UPI,Technical Error,94.11,High,Generate Payment Link,Payment Link Created,0
+TX05709,34903.32,NetBanking,Timeout,4.02,Low,Defer Recovery,Deferred,1
+TX08362,34327.87,UPI,Timeout,13.57,Low,Defer Recovery,Deferred,1
+TX00292,22227.61,Wallet,Authentication Failed,99.6,High,Retry Payment,Retry Initiated,1
+TX07330,403.77,UPI,Timeout,98.54,High,Generate Payment Link,Payment Link Created,1
+TX00520,2944.42,UPI,Timeout,8.82,Low,Defer Recovery,Deferred,0
+TX04510,16581.68,Card,Technical Error,99.49,High,Retry Payment,Retry Initiated,1
+TX01682,15710.95,Wallet,Bank Declined,99.4,High,Retry Payment,Retry Initiated,1
+TX04469,47195.07,Card,Bank Declined,0.74,Low,Defer Recovery,Deferred,0
+TX08839,48163.81,NetBanking,Timeout,51.71,Medium,Send Notification,Notification Sent,1
+TX09252,38503.05,Wallet,Timeout,99.68,High,Retry Payment,Retry Initiated,1
+TX04835,25670.18,UPI,Bank Declined,6.15,Low,Defer Recovery,Deferred,0
+TX06388,17111.73,Card,Technical Error,98.86,High,Retry Payment,Retry Initiated,1
+TX06987,48974.59,Wallet,Authentication Failed,13.69,Low,Defer Recovery,Deferred,0
+TX02595,1767.98,NetBanking,Insufficient Funds,9.01,Low,Defer Recovery,Deferred,1
+TX04089,46649.03,Card,Technical Error,99.74,High,Retry Payment,Retry Initiated,1
+TX07235,32841.87,Wallet,Insufficient Funds,16.77,Low,Defer Recovery,Deferred,1
+TX05572,3653.22,UPI,Bank Declined,99.52,High,Generate Payment Link,Payment Link Created,1
+TX07908,33800.2,NetBanking,Authentication Failed,98.96,High,Retry Payment,Retry Initiated,1
+TX08974,27106.91,Wallet,Insufficient Funds,5.7,Low,Defer Recovery,Deferred,0
+TX03720,2189.83,UPI,Technical Error,98.93,High,Retry Payment,Retry Initiated,1
+TX07821,27946.64,UPI,Insufficient Funds,6.83,Low,Defer Recovery,Deferred,0
+TX00366,14766.45,NetBanking,Technical Error,99.11,High,Generate Payment Link,Payment Link Created,1
+TX00478,48631.15,Card,Authentication Failed,71.39,Medium,Send Notification,Notification Sent,1
+TX03995,47170.59,Wallet,Insufficient Funds,27.43,Low,Defer Recovery,Deferred,1
+TX04914,33644.48,UPI,Insufficient Funds,98.74,High,Generate Payment Link,Payment Link Created,0
+TX01417,46317.03,UPI,Authentication Failed,99.93,High,Retry Payment,Retry Initiated,1
+TX03135,46080.74,Card,Authentication Failed,15.39,Low,Defer Recovery,Deferred,1
+TX09800,6004.37,NetBanking,Authentication Failed,12.75,Low,Defer Recovery,Deferred,1
+TX07088,38158.04,NetBanking,Insufficient Funds,7.12,Low,Defer Recovery,Deferred,0
+TX09157,8674.54,Card,Insufficient Funds,91.67,High,Generate Payment Link,Payment Link Created,1
+TX04067,5785.87,Card,Timeout,4.4,Low,Defer Recovery,Deferred,0
+TX04017,26088.7,Wallet,Technical Error,2.21,Low,Defer Recovery,Deferred,0
+TX06240,6756.09,UPI,Technical Error,27.36,Low,Defer Recovery,Deferred,1
+TX09595,20492.02,NetBanking,Authentication Failed,99.81,High,Retry Payment,Retry Initiated,1
+TX07924,41401.2,UPI,Insufficient Funds,96.18,High,Generate Payment Link,Payment Link Created,0
+TX09029,25615.09,NetBanking,Insufficient Funds,99.92,High,Retry Payment,Retry Initiated,1
+TX03092,3020.98,Card,Authentication Failed,7.62,Low,Defer Recovery,Deferred,0
+TX01430,4397.19,Wallet,Technical Error,9.93,Low,Defer Recovery,Deferred,1
+TX03052,34308.38,Wallet,Timeout,3.83,Low,Defer Recovery,Deferred,0
+TX04289,8440.0,UPI,Insufficient Funds,56.21,Medium,Send Notification,Notification Sent,1
+TX05367,38497.32,Wallet,Technical Error,7.91,Low,Defer Recovery,Deferred,1
+TX09242,16508.77,UPI,Authentication Failed,2.52,Low,Defer Recovery,Deferred,0
+TX08150,47939.02,NetBanking,Bank Declined,99.82,High,Retry Payment,Retry Initiated,1
+TX09419,38725.68,Wallet,Bank Declined,7.95,Low,Defer Recovery,Deferred,0
+TX07000,3923.33,UPI,Insufficient Funds,1.51,Low,Defer Recovery,Deferred,0
+TX07096,25499.21,UPI,Bank Declined,5.27,Low,Defer Recovery,Deferred,0
+TX03486,35736.24,NetBanking,Authentication Failed,99.69,High,Retry Payment,Retry Initiated,1
+TX04150,2333.1,Wallet,Bank Declined,7.87,Low,Defer Recovery,Deferred,1
+TX04111,20190.31,UPI,Technical Error,25.73,Low,Defer Recovery,Deferred,1
+TX01054,7194.85,Wallet,Technical Error,98.68,High,Retry Payment,Retry Initiated,1
+TX04605,38527.44,UPI,Technical Error,13.89,Low,Defer Recovery,Deferred,0
+TX00793,11101.48,UPI,Bank Declined,52.72,Medium,Send Notification,Notification Sent,1
+TX07552,37946.45,Card,Bank Declined,41.91,Medium,Send Notification,Notification Sent,1
+TX08880,21274.47,Wallet,Insufficient Funds,4.18,Low,Defer Recovery,Deferred,1
+TX02231,22802.04,NetBanking,Authentication Failed,99.89,High,Retry Payment,Retry Initiated,1
+TX05770,34757.64,Wallet,Bank Declined,3.35,Low,Defer Recovery,Deferred,0
+TX06191,47717.5,Card,Authentication Failed,1.32,Low,Defer Recovery,Deferred,0
+TX02089,46705.97,Card,Technical Error,6.25,Low,Defer Recovery,Deferred,0
+TX00242,48875.08,UPI,Timeout,2.15,Low,Defer Recovery,Deferred,0
+TX04074,40729.02,NetBanking,Bank Declined,99.14,High,Retry Payment,Retry Initiated,1
+TX05594,5897.42,Wallet,Authentication Failed,56.78,Medium,Send Notification,Notification Sent,1
+TX04269,26790.15,NetBanking,Insufficient Funds,99.25,High,Generate Payment Link,Payment Link Created,1
+TX06447,43501.45,Card,Authentication Failed,14.96,Low,Defer Recovery,Deferred,1
+TX02850,1645.43,UPI,Authentication Failed,16.55,Low,Defer Recovery,Deferred,0
+TX04700,34870.1,NetBanking,Authentication Failed,25.8,Low,Defer Recovery,Deferred,1
+TX08285,49404.59,UPI,Timeout,12.31,Low,Defer Recovery,Deferred,0
+TX04114,36867.16,NetBanking,Authentication Failed,19.66,Low,Defer Recovery,Deferred,1
+TX00168,44567.89,Wallet,Bank Declined,7.61,Low,Defer Recovery,Deferred,0
+TX01644,14413.65,UPI,Timeout,99.86,High,Retry Payment,Retry Initiated,1
+TX00289,17467.79,NetBanking,Authentication Failed,8.4,Low,Defer Recovery,Deferred,0
+TX05150,2194.44,Wallet,Timeout,99.84,High,Retry Payment,Retry Initiated,1
+TX04367,30747.77,UPI,Insufficient Funds,9.63,Low,Defer Recovery,Deferred,0
+TX08805,8738.96,UPI,Timeout,49.51,Medium,Send Notification,Notification Sent,1
+TX00059,22346.69,Wallet,Authentication Failed,97.64,High,Generate Payment Link,Payment Link Created,0
+TX03088,18924.87,NetBanking,Timeout,38.69,Low,Defer Recovery,Deferred,1
+TX04030,20611.25,UPI,Timeout,98.85,High,Generate Payment Link,Payment Link Created,1
+TX03049,18877.96,UPI,Technical Error,96.47,High,Generate Payment Link,Payment Link Created,1
+TX00661,31374.99,Card,Bank Declined,99.12,High,Retry Payment,Retry Initiated,0
+TX08468,38358.91,UPI,Insufficient Funds,98.77,High,Retry Payment,Retry Initiated,1
+TX01636,27938.17,UPI,Authentication Failed,6.16,Low,Defer Recovery,Deferred,0
+TX01713,33837.04,Wallet,Authentication Failed,28.97,Low,Defer Recovery,Deferred,0
+TX04533,29532.74,Card,Technical Error,21.46,Low,Defer Recovery,Deferred,1
+TX05044,41712.44,Card,Timeout,1.65,Low,Defer Recovery,Deferred,0
+TX05923,46214.98,UPI,Bank Declined,6.66,Low,Defer Recovery,Deferred,0
+TX08342,5698.85,Wallet,Authentication Failed,3.29,Low,Defer Recovery,Deferred,0
+TX05996,10553.36,Card,Technical Error,99.93,High,Retry Payment,Retry Initiated,1
+TX05982,41330.83,Wallet,Bank Declined,6.82,Low,Defer Recovery,Deferred,0
+TX04545,28056.05,Wallet,Bank Declined,2.51,Low,Defer Recovery,Deferred,0
+TX07233,3305.34,Card,Insufficient Funds,1.26,Low,Defer Recovery,Deferred,0
+TX01203,32421.23,Card,Timeout,8.26,Low,Defer Recovery,Deferred,0
+TX05502,43727.4,UPI,Insufficient Funds,4.44,Low,Defer Recovery,Deferred,0
+TX00370,49369.69,Wallet,Authentication Failed,16.9,Low,Defer Recovery,Deferred,0
+TX00605,5322.56,UPI,Bank Declined,99.82,High,Retry Payment,Retry Initiated,1
+TX07009,16444.61,NetBanking,Technical Error,12.67,Low,Defer Recovery,Deferred,1
+TX05447,4641.49,UPI,Insufficient Funds,41.84,Medium,Send Notification,Notification Sent,1
+TX04930,31005.63,Card,Insufficient Funds,8.64,Low,Defer Recovery,Deferred,0
+TX01397,42290.99,UPI,Bank Declined,99.8,High,Retry Payment,Retry Initiated,1
+TX00814,44634.21,UPI,Bank Declined,3.19,Low,Defer Recovery,Deferred,1
+TX03653,19988.11,Card,Timeout,98.69,High,Generate Payment Link,Payment Link Created,0
+TX02522,31203.39,NetBanking,Insufficient Funds,17.59,Low,Defer Recovery,Deferred,1
+TX02175,36146.44,Card,Authentication Failed,98.02,High,Retry Payment,Retry Initiated,1
+TX01459,3986.16,NetBanking,Authentication Failed,97.46,High,Retry Payment,Retry Initiated,0
+TX00730,11900.1,Wallet,Timeout,9.52,Low,Defer Recovery,Deferred,1
+TX07859,49115.0,UPI,Timeout,39.32,Low,Defer Recovery,Deferred,1
+TX01033,31292.07,UPI,Bank Declined,20.17,Low,Defer Recovery,Deferred,0
+TX03512,43130.51,Wallet,Technical Error,99.32,High,Generate Payment Link,Payment Link Created,1
+TX01228,41243.4,Wallet,Insufficient Funds,2.73,Low,Defer Recovery,Deferred,0
+TX03717,36048.76,NetBanking,Timeout,3.92,Low,Defer Recovery,Deferred,0
+TX01575,39527.56,Card,Authentication Failed,96.87,High,Retry Payment,Retry Initiated,0
+TX04243,42731.86,NetBanking,Timeout,99.88,High,Retry Payment,Retry Initiated,1
+TX01650,45297.26,NetBanking,Authentication Failed,2.42,Low,Defer Recovery,Deferred,0
+TX05726,23621.27,Wallet,Timeout,3.8,Low,Defer Recovery,Deferred,0
+TX02232,23592.17,Wallet,Timeout,41.62,Medium,Send Notification,Notification Sent,1
+TX01803,30805.86,UPI,Technical Error,0.85,Low,Defer Recovery,Deferred,1
+TX01872,23588.23,UPI,Authentication Failed,11.37,Low,Defer Recovery,Deferred,1
+TX09804,25697.64,Card,Authentication Failed,5.8,Low,Defer Recovery,Deferred,0
+TX04254,29110.19,Card,Authentication Failed,22.26,Low,Defer Recovery,Deferred,1
+TX04239,4004.28,NetBanking,Technical Error,4.34,Low,Defer Recovery,Deferred,0
+TX04576,21988.9,NetBanking,Authentication Failed,12.48,Low,Defer Recovery,Deferred,0
+TX08081,49799.95,Wallet,Authentication Failed,94.28,High,Generate Payment Link,Payment Link Created,1
+TX03022,48194.5,Wallet,Technical Error,6.1,Low,Defer Recovery,Deferred,0
+TX00156,6540.66,NetBanking,Insufficient Funds,99.68,High,Retry Payment,Retry Initiated,1
+TX01399,25473.1,Card,Authentication Failed,89.25,High,Generate Payment Link,Payment Link Created,0
+TX06647,28307.92,NetBanking,Insufficient Funds,99.51,High,Retry Payment,Retry Initiated,1
+TX08768,5264.53,NetBanking,Technical Error,99.95,High,Retry Payment,Retry Initiated,1
+TX00560,1767.84,NetBanking,Bank Declined,2.43,Low,Defer Recovery,Deferred,0
+TX08192,46370.56,Wallet,Technical Error,99.6,High,Retry Payment,Retry Initiated,1
+TX09339,18681.08,Wallet,Authentication Failed,45.38,Medium,Send Notification,Notification Sent,0
+TX08149,29101.15,UPI,Technical Error,7.94,Low,Defer Recovery,Deferred,1
+TX09490,42660.93,NetBanking,Insufficient Funds,3.12,Low,Defer Recovery,Deferred,0
+TX04999,4802.73,NetBanking,Bank Declined,3.62,Low,Defer Recovery,Deferred,0
+TX09377,11030.01,UPI,Bank Declined,95.45,High,Generate Payment Link,Payment Link Created,0
+TX09586,699.26,Wallet,Timeout,2.46,Low,Defer Recovery,Deferred,0
+TX09073,14878.11,NetBanking,Timeout,2.76,Low,Defer Recovery,Deferred,0
+TX00819,19530.55,Wallet,Technical Error,7.87,Low,Defer Recovery,Deferred,1
+TX03105,43576.72,NetBanking,Authentication Failed,99.83,High,Retry Payment,Retry Initiated,1
+TX01754,47903.17,Card,Technical Error,1.39,Low,Defer Recovery,Deferred,0
+TX03866,32469.88,Wallet,Timeout,98.23,High,Retry Payment,Retry Initiated,0
+TX06895,47995.74,UPI,Bank Declined,94.85,High,Generate Payment Link,Payment Link Created,0
+TX04028,25622.23,Wallet,Insufficient Funds,25.71,Low,Defer Recovery,Deferred,0
+TX07060,34088.77,Card,Timeout,2.41,Low,Defer Recovery,Deferred,0
+TX08678,38132.34,NetBanking,Insufficient Funds,94.91,High,Generate Payment Link,Payment Link Created,0
+TX03648,44942.08,UPI,Authentication Failed,98.52,High,Generate Payment Link,Payment Link Created,0
+TX04886,16712.31,Card,Insufficient Funds,8.69,Low,Defer Recovery,Deferred,1
+TX03336,5839.05,Card,Authentication Failed,99.21,High,Retry Payment,Retry Initiated,1
+TX02742,11644.3,Card,Insufficient Funds,99.33,High,Retry Payment,Retry Initiated,1
+TX06417,45071.08,UPI,Insufficient Funds,5.39,Low,Defer Recovery,Deferred,1
+TX00417,34613.01,Card,Authentication Failed,99.57,High,Generate Payment Link,Payment Link Created,1
+TX08270,15499.52,Wallet,Insufficient Funds,99.8,High,Retry Payment,Retry Initiated,1
+TX04520,10025.95,UPI,Technical Error,4.56,Low,Defer Recovery,Deferred,1
+TX00595,8520.6,Card,Timeout,98.74,High,Generate Payment Link,Payment Link Created,1
+TX03959,18562.94,NetBanking,Authentication Failed,98.42,High,Generate Payment Link,Payment Link Created,1
+TX07369,36967.49,Wallet,Authentication Failed,99.74,High,Retry Payment,Retry Initiated,1
+TX00683,48221.23,UPI,Insufficient Funds,6.37,Low,Defer Recovery,Deferred,0
+TX09519,30171.38,Wallet,Insufficient Funds,99.24,High,Generate Payment Link,Payment Link Created,1
+TX00557,32058.32,NetBanking,Bank Declined,12.16,Low,Defer Recovery,Deferred,1
+TX09310,38492.02,NetBanking,Authentication Failed,24.81,Low,Defer Recovery,Deferred,1
+TX01392,45765.43,UPI,Insufficient Funds,36.7,Low,Defer Recovery,Deferred,1
+TX07597,33128.34,UPI,Authentication Failed,99.19,High,Generate Payment Link,Payment Link Created,1
+TX03975,21705.36,NetBanking,Technical Error,8.36,Low,Defer Recovery,Deferred,0
+TX05065,33997.9,Wallet,Authentication Failed,7.61,Low,Defer Recovery,Deferred,0
+TX08699,29493.04,UPI,Bank Declined,7.68,Low,Defer Recovery,Deferred,0
+TX05227,7188.87,UPI,Technical Error,99.39,High,Generate Payment Link,Payment Link Created,1
+TX01795,20861.93,UPI,Bank Declined,98.46,High,Generate Payment Link,Payment Link Created,1
+TX02507,7946.06,Wallet,Authentication Failed,25.23,Low,Defer Recovery,Deferred,1
+TX02152,19373.2,Card,Technical Error,17.73,Low,Defer Recovery,Deferred,0
+TX07398,25865.36,Card,Authentication Failed,16.16,Low,Defer Recovery,Deferred,1
+TX02100,30621.62,NetBanking,Bank Declined,98.59,High,Generate Payment Link,Payment Link Created,1
+TX09083,36227.37,NetBanking,Bank Declined,99.71,High,Retry Payment,Retry Initiated,1
+TX01436,26139.36,NetBanking,Technical Error,15.67,Low,Defer Recovery,Deferred,1
+TX00635,12256.38,UPI,Bank Declined,22.33,Low,Defer Recovery,Deferred,1
+TX09384,22615.15,NetBanking,Technical Error,18.12,Low,Defer Recovery,Deferred,0
+TX08068,9438.54,UPI,Bank Declined,20.17,Low,Defer Recovery,Deferred,1
+TX05616,42633.03,NetBanking,Authentication Failed,99.66,High,Retry Payment,Retry Initiated,1
+TX09732,49439.14,Card,Authentication Failed,98.3,High,Generate Payment Link,Payment Link Created,1
+TX04068,33839.48,Card,Technical Error,5.25,Low,Defer Recovery,Deferred,0
+TX06747,40474.25,Card,Insufficient Funds,99.93,High,Retry Payment,Retry Initiated,1
+TX03803,22244.8,Wallet,Timeout,8.06,Low,Defer Recovery,Deferred,1
+TX08183,17547.7,NetBanking,Insufficient Funds,2.85,Low,Defer Recovery,Deferred,0
+TX01529,13456.66,UPI,Technical Error,25.33,Low,Defer Recovery,Deferred,1
+TX09619,27117.58,Wallet,Bank Declined,10.24,Low,Defer Recovery,Deferred,0
+TX03529,26855.99,Wallet,Authentication Failed,99.91,High,Retry Payment,Retry Initiated,1
+TX00151,14614.76,Card,Technical Error,99.85,High,Retry Payment,Retry Initiated,1
+TX03361,4351.5,Card,Technical Error,12.47,Low,Defer Recovery,Deferred,1
+TX07209,10128.6,NetBanking,Authentication Failed,18.48,Low,Defer Recovery,Deferred,1
+TX09664,42959.73,Wallet,Insufficient Funds,27.49,Low,Defer Recovery,Deferred,1
+TX06267,30293.07,Card,Timeout,99.42,High,Generate Payment Link,Payment Link Created,1
+TX09424,16422.27,Card,Technical Error,99.82,High,Retry Payment,Retry Initiated,1
+TX01341,30809.9,NetBanking,Technical Error,89.31,High,Generate Payment Link,Payment Link Created,0
+TX08306,11084.46,UPI,Timeout,99.44,High,Generate Payment Link,Payment Link Created,1
+TX01333,3273.71,Card,Bank Declined,2.22,Low,Defer Recovery,Deferred,0
+TX04643,9950.45,NetBanking,Authentication Failed,16.1,Low,Defer Recovery,Deferred,1
+TX07744,10952.47,NetBanking,Insufficient Funds,98.99,High,Generate Payment Link,Payment Link Created,1
+TX02280,3174.24,NetBanking,Insufficient Funds,4.88,Low,Defer Recovery,Deferred,0
+TX04649,44240.14,Wallet,Technical Error,14.98,Low,Defer Recovery,Deferred,0
+TX00379,23774.3,UPI,Bank Declined,99.32,High,Retry Payment,Retry Initiated,1
+TX09006,18624.26,Wallet,Authentication Failed,99.17,High,Retry Payment,Retry Initiated,1
+TX03711,32549.82,Wallet,Authentication Failed,99.23,High,Retry Payment,Retry Initiated,1
+TX05519,18264.97,NetBanking,Bank Declined,98.96,High,Retry Payment,Retry Initiated,0
+TX05154,22621.7,Card,Insufficient Funds,98.61,High,Generate Payment Link,Payment Link Created,1
+TX03074,18304.42,Wallet,Insufficient Funds,24.43,Low,Defer Recovery,Deferred,0
+TX09757,19278.52,UPI,Technical Error,20.57,Low,Defer Recovery,Deferred,1
+TX07546,30204.25,Card,Bank Declined,32.5,Low,Defer Recovery,Deferred,1
+TX02965,15757.73,UPI,Technical Error,43.03,Medium,Send Notification,Notification Sent,1
+TX09482,49461.41,UPI,Timeout,98.67,High,Retry Payment,Retry Initiated,1
+TX01026,18147.14,Card,Insufficient Funds,97.67,High,Generate Payment Link,Payment Link Created,1
+TX06098,2294.18,Wallet,Technical Error,16.56,Low,Defer Recovery,Deferred,1
+TX05945,37773.44,UPI,Bank Declined,99.7,High,Retry Payment,Retry Initiated,1
+TX01479,37475.05,NetBanking,Bank Declined,91.15,High,Generate Payment Link,Payment Link Created,0
+TX07650,27330.58,Card,Insufficient Funds,5.39,Low,Defer Recovery,Deferred,0
+TX03380,48901.87,Wallet,Timeout,97.89,High,Generate Payment Link,Payment Link Created,0
+TX01000,35149.7,Wallet,Authentication Failed,99.43,High,Retry Payment,Retry Initiated,1
+TX05289,48651.57,Card,Technical Error,19.76,Low,Defer Recovery,Deferred,1
+TX03889,31538.73,Wallet,Timeout,99.37,High,Retry Payment,Retry Initiated,1
+TX04908,510.33,Wallet,Bank Declined,3.44,Low,Defer Recovery,Deferred,0
+TX03745,25336.54,Card,Technical Error,34.98,Low,Defer Recovery,Deferred,1
+TX03241,14168.28,UPI,Timeout,7.16,Low,Defer Recovery,Deferred,0
+TX08201,9962.62,UPI,Insufficient Funds,1.61,Low,Defer Recovery,Deferred,0
+TX06540,30473.51,Card,Bank Declined,8.81,Low,Defer Recovery,Deferred,0
+TX04102,45548.67,Card,Authentication Failed,45.19,Medium,Send Notification,Notification Sent,1
+TX08410,43082.0,Card,Insufficient Funds,97.47,High,Retry Payment,Retry Initiated,1
+TX09117,10325.31,Card,Bank Declined,2.9,Low,Defer Recovery,Deferred,0
+TX03212,45164.57,NetBanking,Insufficient Funds,99.64,High,Generate Payment Link,Payment Link Created,1
+TX06577,38630.41,NetBanking,Bank Declined,99.72,High,Generate Payment Link,Payment Link Created,1
+TX04602,13665.85,UPI,Timeout,2.89,Low,Defer Recovery,Deferred,0
+TX08707,48690.04,UPI,Technical Error,99.94,High,Retry Payment,Retry Initiated,1
+TX07256,19890.78,Wallet,Timeout,2.76,Low,Defer Recovery,Deferred,0
+TX09650,17722.4,NetBanking,Insufficient Funds,8.9,Low,Defer Recovery,Deferred,0
+TX05606,11631.34,Wallet,Bank Declined,24.89,Low,Defer Recovery,Deferred,1
+TX00181,23439.26,UPI,Insufficient Funds,2.53,Low,Defer Recovery,Deferred,0
+TX04804,21753.37,NetBanking,Technical Error,99.88,High,Retry Payment,Retry Initiated,1
+TX08649,39550.55,Wallet,Authentication Failed,3.01,Low,Defer Recovery,Deferred,0
+TX00925,29719.41,Card,Bank Declined,99.87,High,Retry Payment,Retry Initiated,1
+TX08062,21018.08,NetBanking,Timeout,7.79,Low,Defer Recovery,Deferred,1
+TX01466,47101.09,Wallet,Timeout,3.99,Low,Defer Recovery,Deferred,0
+TX08982,48733.0,NetBanking,Insufficient Funds,98.64,High,Generate Payment Link,Payment Link Created,1
+TX03728,43826.99,Wallet,Authentication Failed,18.96,Low,Defer Recovery,Deferred,0
+TX08327,45653.51,NetBanking,Bank Declined,99.8,High,Retry Payment,Retry Initiated,1
+TX09797,37003.6,Wallet,Technical Error,59.06,Medium,Send Notification,Notification Sent,1
+TX04437,36694.74,Wallet,Insufficient Funds,3.51,Low,Defer Recovery,Deferred,0
+TX03157,3575.33,Wallet,Authentication Failed,3.27,Low,Defer Recovery,Deferred,0
+TX01082,42125.47,NetBanking,Timeout,92.63,High,Generate Payment Link,Payment Link Created,0
+TX04152,14078.69,UPI,Bank Declined,99.37,High,Generate Payment Link,Payment Link Created,1
+TX09867,49524.54,Wallet,Insufficient Funds,98.44,High,Generate Payment Link,Payment Link Created,1
+TX02486,8916.45,NetBanking,Authentication Failed,99.7,High,Retry Payment,Retry Initiated,1
+TX08559,48615.76,Wallet,Authentication Failed,97.26,High,Generate Payment Link,Payment Link Created,0
+TX09815,6439.96,Card,Bank Declined,1.08,Low,Defer Recovery,Deferred,0
+TX02953,22511.26,UPI,Technical Error,2.21,Low,Defer Recovery,Deferred,0
+TX04082,47999.84,NetBanking,Authentication Failed,40.42,Medium,Send Notification,Notification Sent,0
+TX01896,40314.7,Card,Insufficient Funds,15.28,Low,Defer Recovery,Deferred,0
+TX04492,24726.11,UPI,Technical Error,11.69,Low,Defer Recovery,Deferred,1
+TX00339,35231.17,UPI,Authentication Failed,1.83,Low,Defer Recovery,Deferred,0
+TX04110,46375.58,Card,Bank Declined,6.71,Low,Defer Recovery,Deferred,0
+TX08935,32706.25,UPI,Timeout,98.72,High,Retry Payment,Retry Initiated,0
+TX04850,28316.27,Wallet,Authentication Failed,93.8,High,Generate Payment Link,Payment Link Created,0
+TX05518,18478.69,NetBanking,Timeout,48.22,Medium,Send Notification,Notification Sent,0
+TX07199,34242.06,NetBanking,Technical Error,1.47,Low,Defer Recovery,Deferred,0
+TX02883,45431.03,UPI,Insufficient Funds,21.89,Low,Defer Recovery,Deferred,1
+TX00427,43413.18,NetBanking,Bank Declined,97.81,High,Retry Payment,Retry Initiated,1
+TX03671,24841.39,NetBanking,Bank Declined,99.55,High,Retry Payment,Retry Initiated,1
+TX05927,46223.39,UPI,Bank Declined,99.28,High,Generate Payment Link,Payment Link Created,1
+TX07725,42714.64,Card,Technical Error,99.59,High,Retry Payment,Retry Initiated,1
+TX06870,29504.66,NetBanking,Insufficient Funds,12.27,Low,Defer Recovery,Deferred,0
+TX09836,7583.85,UPI,Technical Error,99.82,High,Retry Payment,Retry Initiated,1
+TX05467,23666.82,Wallet,Technical Error,3.68,Low,Defer Recovery,Deferred,0
+TX03872,47136.22,Card,Insufficient Funds,14.08,Low,Defer Recovery,Deferred,0
+TX00416,6757.48,NetBanking,Insufficient Funds,1.94,Low,Defer Recovery,Deferred,1
+TX05714,26260.47,UPI,Bank Declined,68.21,Medium,Send Notification,Notification Sent,1
+TX02021,43356.08,Wallet,Authentication Failed,12.73,Low,Defer Recovery,Deferred,1
+TX01029,39179.69,Wallet,Insufficient Funds,99.85,High,Retry Payment,Retry Initiated,1
+TX01039,9448.6,Wallet,Authentication Failed,99.91,High,Retry Payment,Retry Initiated,1
+TX05195,48823.02,Card,Authentication Failed,96.12,High,Generate Payment Link,Payment Link Created,1
+TX00310,28869.59,Wallet,Authentication Failed,94.7,High,Generate Payment Link,Payment Link Created,1
+TX00445,17114.0,NetBanking,Technical Error,18.87,Low,Defer Recovery,Deferred,1
+TX05437,28828.39,Wallet,Timeout,99.91,High,Retry Payment,Retry Initiated,1
+TX04145,22742.31,UPI,Insufficient Funds,35.04,Low,Defer Recovery,Deferred,1
+TX01783,16070.97,NetBanking,Bank Declined,97.49,High,Retry Payment,Retry Initiated,1
+TX00456,3357.31,Card,Timeout,57.16,Medium,Send Notification,Notification Sent,1
+TX05283,25181.73,Card,Bank Declined,99.57,High,Generate Payment Link,Payment Link Created,1
+TX01943,44990.66,UPI,Bank Declined,1.82,Low,Defer Recovery,Deferred,0
+TX05311,16248.11,UPI,Insufficient Funds,19.21,Low,Defer Recovery,Deferred,1
+TX07311,22992.54,Card,Technical Error,95.68,High,Generate Payment Link,Payment Link Created,0
+TX01532,44823.21,NetBanking,Insufficient Funds,95.75,High,Generate Payment Link,Payment Link Created,1
+TX03075,43682.23,NetBanking,Bank Declined,98.22,High,Generate Payment Link,Payment Link Created,1
+TX00420,5305.22,Wallet,Authentication Failed,3.87,Low,Defer Recovery,Deferred,0
+TX01877,12073.45,UPI,Timeout,15.61,Low,Defer Recovery,Deferred,0
+TX07750,38971.53,Wallet,Authentication Failed,99.65,High,Retry Payment,Retry Initiated,1
+TX01516,7006.04,Card,Authentication Failed,9.43,Low,Defer Recovery,Deferred,0
+TX05866,29650.29,Wallet,Timeout,5.69,Low,Defer Recovery,Deferred,0
+TX03539,18636.02,UPI,Authentication Failed,9.38,Low,Defer Recovery,Deferred,0
+TX00239,26712.85,Card,Technical Error,99.92,High,Retry Payment,Retry Initiated,1
+TX07368,3332.13,Card,Bank Declined,2.48,Low,Defer Recovery,Deferred,0
+TX03259,29078.78,NetBanking,Bank Declined,99.48,High,Generate Payment Link,Payment Link Created,1
+TX04371,381.0,UPI,Technical Error,98.01,High,Generate Payment Link,Payment Link Created,1
+TX01042,36194.18,Wallet,Insufficient Funds,0.96,Low,Defer Recovery,Deferred,0
+TX07327,45670.96,NetBanking,Bank Declined,7.24,Low,Defer Recovery,Deferred,0
+TX01211,47542.16,Card,Authentication Failed,99.63,High,Retry Payment,Retry Initiated,1
+TX01955,18315.87,NetBanking,Technical Error,2.41,Low,Defer Recovery,Deferred,0
+TX07638,2815.07,UPI,Bank Declined,3.16,Low,Defer Recovery,Deferred,0
+TX06491,17636.94,UPI,Timeout,13.39,Low,Defer Recovery,Deferred,0
