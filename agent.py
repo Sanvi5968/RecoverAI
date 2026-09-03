@@ -1,6 +1,7 @@
 import json
 import os
 import joblib
+import time
 
 from google import genai
 
@@ -89,9 +90,31 @@ The customer message MUST match the selected action.
 
     client = genai.Client(api_key=api_key)
 
-    response = client.models.generate_content(
-        model="gemini-3.6-flash",
-        contents=prompt
-    )
+    max_retries = 3
 
-    return response.text
+    for attempt in range(max_retries):
+        try:
+            response = client.models.generate_content(
+                model="gemini-3.6-flash",
+                contents=prompt
+            )
+
+            return response.text
+
+        except Exception as e:
+            error_message = str(e)
+
+            if (
+                    "503" not in error_message
+                    and "UNAVAILABLE" not in error_message
+                    and "high demand" not in error_message
+            ):
+                raise
+
+            if attempt == max_retries - 1:
+                raise RuntimeError(
+                    "Gemini AI is temporarily unavailable. "
+                    "Please try again in a few moments."
+                )
+
+            time.sleep(2 ** (attempt + 1))
