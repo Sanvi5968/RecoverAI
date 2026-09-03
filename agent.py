@@ -1,8 +1,8 @@
 import json
 import os
-import requests
 import joblib
-import pandas as pd
+
+from google import genai
 
 from tools import (
     retry_payment,
@@ -87,34 +87,11 @@ The customer message MUST match the selected action.
     if not api_key:
         raise ValueError("GEMINI_API_KEY is not configured")
 
-    url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.7-flash:generateContent"
+    client = genai.Client(api_key=api_key)
 
-    headers = {
-        "Content-Type": "application/json",
-        "x-goog-api-key": api_key
-    }
-
-    payload = {
-        "contents": [
-            {
-                "parts": [
-                    {
-                        "text": prompt
-                    }
-                ]
-            }
-        ]
-    }
-
-    response = requests.post(
-        url,
-        headers=headers,
-        json=payload,
-        timeout=60
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=prompt
     )
 
-    response.raise_for_status()
-
-    data = response.json()
-
-    return data["candidates"][0]["content"]["parts"][0]["text"]
+    return response.text
